@@ -1,0 +1,516 @@
+2 | 01/01/2015 | Tahun Baru | Libur Nasional |  |  | 
+3 | 01/03/2015 | Maulid Nabi | Libur Nasional |  |  | 
+4 | 02/19/2015 | Tahun Baru Imlek | Libur Nasional |  |  | 
+5 | 03/21/2015 | Nyepi | Libur Nasional |  |  | 
+6 | 04/03/2015 | Wafatnya Isa AM | Libur Nasional |  |  | 
+7 | 05/01/2015 | Hari Buruh Internasional | Libur Nasional |  |  | 
+8 | 05/14/2015 | Hari Kenaikan Isa Am | Libur Nasional |  |  | 
+9 | 05/16/2015 | Isra Miraj | Libur Nasional |  |  | 
+10 | 06/02/2015 | Hari Raya Waisak | Libur Nasional |  |  | 
+11 | 07/17/2015 | Idul Fitri | Libur Nasional |  |  | 
+12 | 07/18/2015 | Idul Fitri | Libur Nasional |  |  | 
+13 | 07/16/2015 | Cuti Idul Fitri | Libur Nasional |  |  | 
+14 | 07/20/2015 | Cuti Idul Fitri | Libur Nasional |  |  | 
+15 | 07/21/2015 | Cuti Idul Fitri | Libur Nasional |  |  | 
+16 | 08/17/2015 | HUT Kemerdekaan | Libur Nasional |  |  | 
+17 | 09/24/2015 | Idul Adha | Libur Nasional |  |  | 
+18 | 10/14/2015 | Tahun Baru Islam | Libur Nasional |  |  | 
+19 | 12/25/2015 | Natal | Libur Nasional |  |  | 
+20 | 12/24/2015 | Cuti Natal | Libur Nasional |  |  | 
+21 | 01/19/2015 | Hari Raya Suci Siwa Ratri | Libur Lokal  |  |  | 
+22 | 01/20/2015 | Hari Raya Suci Siwa Ratri  | Libur Lokal  |  |  | 
+23 | 03/20/2015 | Hari Raya Suci Tawur Agung Kesanga | Libur Lokal  |  |  | 
+24 | 03/22/2015 | Hari Raya Suci Ngembak Geni | Libur Lokal  |  |  | 
+25 | 05/02/2015 | Hari Raya Saraswati I | Libur Lokal  |  |  | 
+26 | 05/06/2015 | Hari Raya Pagerwesi I | Libur Lokal  |  |  | 
+27 | 07/14/2015 | Hari Raya Suci Penampahan Galungan I | Libur Lokal  |  |  | 
+28 | 07/15/2015 | Hari Raya Suci Galungan I | Libur Lokal  |  |  | 
+29 | 07/16/2015 | Hari Raya Suci Umanis Galungan I | Libur Lokal  |  |  | 
+30 | 07/24/2015 | Hari Raya Suci Penampahan Kuningan I | Libur Lokal  |  |  | 
+31 | 07/25/2015 | Hari Raya Suci Kuningan I | Libur Lokal  |  |  | 
+32 | 07/26/2015 | Hari Raya Suci Umanis Kuningan I | Libur Lokal  |  |  | 
+33 | 11/28/2015 | Hari Raya Suci Saraswati II | Libur Lokal  |  |  | 
+34 | 12/02/2015 | Hari Raya Suci Pagerwesi II | Libur Lokal  |  |  | 
+35 |  |  |  |  |  | 
+36 |  |  |  |  |  | 
+37 |  |  |  |  |  | 
+38 |  |  |  |  |  | 
+39 |  |  |  |  |  | 
+40 |  |  |  |  |  | 
+2 | Senin-Kamis | 7:30 | 4:00 | 8:30 | 1:30 | 5:30
+3 | Jumat | 07:30 | 16:30 | 9:00 | 1:30 | 6:00
+4 |  |  |  |  |  | 
+5 |  |  |  |  |  | 
+6 | Kondisi | Senin-Kamis | Jumat | Potongan |  | 
+7 | Telat Lebih Dari | 00:30 | 00:30 | 1.50% |  | 
+8 | Telat Kurang Dari | 00:30 | 00:30 | 1.00% |  | 
+9 |  |  |  |  |  | 
+10 | PSW1 | 00:30 | 00:30 | 0.00% |  | 
+11 | PSW2 | 01:00 | 01:00 | 1.00% |  | 
+12 | PSW3 | 01:30 | 01:30 | 1.25% |  | 
+13 | PSW4 | 14:31 | 15:31 | 1.50% |  | 
+2 | CPNS | CPNS | 0.0% | 20.0% |  | 
+3 | Tugas Belajar | TB | 0.0% | 25.0% |  | 
+4 | Bebas Tugas Fungsional | BTF | 0.0% | 50.0% |  | 
+5 | Tidak Masuk | TM | 3.0% | 3.0% |  | 
+6 | Tidak Masuk Dengan Izin | TMI | 1.5% | 1.5% |  | 
+7 | Disiplin Ringan |  |  |  |  | 
+8 | Teguran Lisan  | DR1 | 0.0% | 20.0% | 1 | 
+9 | Teguran Tertulis  | DR2 | 0.0% | 30.0% | 2 | 
+10 | Pernyataan Tidak Puas  | DR3 | 0.0% | 40.0% | 3 | 
+11 | Disiplin Sedang |  |  |  |  | 
+12 | Penundaan KGB (1 Tahun) | DS1 | 0.0% | 40.0% | 6 | 
+13 | Penundaan KP (1 Tahun) | DS2 | 0.0% | 50.0% | 8 | 
+14 | Penurunan Pangkat (1 Tahun) | DS3 | 0.0% | 60.0% | 10 | 
+15 | Disiplin Berat |  |  |  |  | 
+16 | Penurunan Pangkat (3 tahun) | DB1 | 0.0% | 60.0% | 12 | 
+17 | Pemindahan Jabatan Rendah | DB2 | 0.0% | 70.0% | 12 | 
+18 | Pembebasan Jabatan | DB3 | 0.0% | 80.0% | 12 | 
+19 | Pemberhentian  | DB4 | 0.0% | 100.0% |  | 
+20 | Cuti Tahunan | CT | 0.0% | 0.0% |  | 
+21 | Cuti Besar | CB | 0.0% | 30.0% |  | 
+22 | Cuti Alasan Penting | CAP | 0.0% | 30.0% |  | 
+23 | Cuti Bersalin 1 | CBS1 | 0.0% | 0.0% |  | 
+24 | Cuti Bersalin 2 | CBS2 | 0.0% | 0.0% |  | 
+25 | Cuti Bersalin 3 | CBS3 | 0.0% | 40.0% | 1 | 
+26 | Cuti Bersalin 4 | CBS4 | 0.0% | 70.0% | 1 | 
+27 | Cuti Bersalin 5 | CBS5 | 0.0% | 80.0% | 1 | 
+28 | Cuti Sakit (1-2 hari) | CS | 0.0% | 0.0% |  | 
+29 | Cuti Sakit (3-14 hari) | CS1 | 0.0% | 25.0% |  | 
+30 | Cuti Sakit (15-30 hari) | CS2 | 0.0% | 50.0% |  | 
+31 | Cuti Sakit (1-2 Bulan) | CS3 | 0.0% | 70.0% |  | 
+32 | Cuti Sakit (>2 -6 Bulan) | CS4 | 0.0% | 80.0% |  | 
+33 | Cuti Sakit (>6-18 Bulan) | CS5 | 0.0% | 90.0% |  | 
+34 | Surat Tugas | ST | 0.0% | 0.0% |  | 
+35 | Libur Lokal | LILOK | 0.0% | 0.0% |  | 
+2 | 1 | Minggu |  |  |  | 
+3 | 2 | Senin |  |  |  | 
+4 | 3 | Selasa |  |  |  | 
+5 | 4 | Rabu |  |  |  | 
+6 | 5 | Kamis |  |  |  | 
+7 | 6 | Jumat |  |  |  | 
+8 |  |  |  |  |  | 
+9 |  |  |  |  |  | 
+10 |  |  |  |  |  | 
+11 |  |  |  |  |  | 
+2 | 17 | 19,360,000 |  |  |  | 
+3 | 16 | 14,131,000 |  |  |  | 
+4 | 15 | 10,315,000 |  |  |  | 
+5 | 14 | 7,529,000 |  |  |  | 
+6 | 13 | 6,023,000 |  |  |  | 
+7 | 12 | 4,819,000 |  |  |  | 
+8 | 11 | 3,855,000 |  |  |  | 
+9 | 10 | 3,352,000 |  |  |  | 
+10 | 9 | 2,915,000 |  |  |  | 
+11 | 8 | 2,535,000 |  |  |  | 
+12 | 7 | 2,304,000 |  |  |  | 
+13 | 6 | 2,095,000 |  |  |  | 
+14 | 5 | 1,904,000 |  |  |  | 
+15 | 4 | 1,814,000 |  |  |  | 
+16 | 3 | 1,727,000 |  |  |  | 
+17 | 2 | 1,645,000 |  |  |  | 
+18 | 1 | 1,563,000 |  |  |  | 
+19 |  |  |  |  |  | 
+20 |  |  |  |  |  | 
+21 |  |  |  |  |  | 
+2 | 195912311987101001 | Drs. I Made Purna, M.Si | 13 |  |  | 
+3 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 9 |  |  | 
+4 | 195810271983032001 | Dra. Cok Istri Suryawati, M.Si | 9 |  |  | 
+5 | 196012311989111001 | Drs. I Wayan Rupa. M.Si | 9 |  |  | 
+6 | 196405301992032001 | Dra. Ni Luh Ariani | 9 |  |  | 
+7 | 196503101990031001 | I Made Suarsana, S.H | 9 |  |  | 
+8 | 195812311979032001 | Ni Made Sumiasih, S.Sos | 5 |  |  | 
+9 | 195912311986031005 | Drs. I Wayan Sudarma | 9 |  |  | 
+10 | 196411291991031001 | Drs. I Made Sumerta | 9 |  |  | 
+11 | 196905081998022001 | Raj Riana Dyah Prawitasari, S.Si | 8 |  |  | 
+12 | 196407311990012001 | Dra. I Gusti Ayu Armini, M.Si | 9 |  |  | 
+13 | 196203231991031001 | Drs. I Made Satyananda | 9 |  |  | 
+14 | 195906301991032001 | Dra. Yufiza | 9 |  |  | 
+15 | 196709191999031002 | Nuryahman, S.S | 9 |  |  | 
+16 | 196808141998021001 | Hartono, S.S | 9 |  |  | 
+17 | 195912171986031003 | I Wayan Sukadana, BA | 5 |  |  | 
+18 | 196010101985031002 | I Wayan Rudita, S.Sos | 5 |  |  | 
+19 | 196003291989031002 | I Made Sedana, BA | 5 |  |  | 
+20 | 196811101990031005 | I Gede Yasa Wardana, S.Sos | 7 |  |  | 
+21 | 196712011990031002 | I Made Deyana, S.Sos | 5 |  |  | 
+22 | 196607221998021001 | I Made Sumarja, S.S | 9 |  |  | 
+23 | 197007221998021001 | Anak Agung Gede Rai Gria, S.S | 9 |  |  | 
+24 | 197106062000031001 | I Ketut Sudharma Putra, S.Sos.,S.Pd., M.Si | 9 |  |  | 
+25 | 195912311982031014 | I Ketut Sukada | 5 |  |  | 
+26 | 197905272008021001 |  I Gusti Ngurah Jayanti, S.Sos.,M.Si | 9 |  |  | 
+27 | 196607122006051001 | I Wayan Suca Sumadi, SH | 9 |  |  | 
+28 | 197807102008022001 | Ni Putu Eka Sriastuti, SE | 5 |  |  | 
+29 | 198208072009021005 | Kadek Dwikayana, S.S | 8 |  |  | 
+30 | 197107092006051001 | I Putu Kamasan Sanjaya, S.S | 9 |  |  | 
+31 | 197811172008021001 | Ida Bagus Sugianto, S.S | 9 |  |  | 
+32 | 197806242009021004 | Dwi Bambang Santosa, S.Sos | 9 |  |  | 
+33 | 198404142009022006 | I Gusti Ayu Agung Sumarheni, S.Sn | 8 |  |  | 
+34 | 196112091985021001 | Putu Sudarsana | 5 |  |  | 
+35 | 198611202011011008 | I Putu Putra Kusuma Yudha, S.Sos | 7 |  |  | 
+36 | 198605242011011010 | I Komang Purna Wiradnyana, S.Kom | 5 |  |  | 
+37 | 197512212006052001 | Ni Luh Gede Puriani | 5 |  |  | 
+38 | 197603032006051003 | Made Budiasa | 5 |  |  | 
+39 | 197104132006051002 | Kadek Budiarta | 4 |  |  | 
+40 | 197612102007011002 | I Made Budiana | 4 |  |  | 
+41 | 198708252014042001 | Ni Made Ana Kurnia | 6 |  |  | 
+42 | 198609142014042001 | Made Ayu Diah Indira Virgiastuti. T, SS | 6 |  |  | 
+43 | 199003252014042001 | Wakhyuning Ngarsih, S.sos | 6 |  |  | 
+2 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 01-08-2015 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-01'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO rekapitulasi (nip, kdunit, bulan) VALUES ('197106161997031001', '2322810', '2015-08')
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-01', '0', 'Sabtu', 'N', '2322810_20150903_105615.xls', '4');
+3 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 02-08-2015 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-02'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-02', '0', 'Minggu', 'N', '2322810_20150903_105615.xls', '4');
+4 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 03-08-2015 | 07:01 | 16:05 | Senin
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-03'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-03', '07:30:00', '16:00:00', '07:01', 
+									'16:05', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+5 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 04-08-2015 | 07:01 | 16:02 | Selasa
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-04'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-04', '07:30:00', '16:00:00', '07:01', 
+									'16:02', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+6 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 05-08-2015 | 07:11 | 16:02 | Rabu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-05'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-05', '07:30:00', '16:00:00', '07:11', 
+									'16:02', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+7 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 06-08-2015 | 07:01 | 16:01 | Kamis
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-06'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-06', '07:30:00', '16:00:00', '07:01', 
+									'16:01', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+8 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 07-08-2015 | 07:01 | 16:32 | Jumat
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-07'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-07', '07:30:00', '16:30:00', '07:01', 
+									'16:32', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+9 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 08-08-2015 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-08', '0', 'Sabtu', 'N', '2322810_20150903_105615.xls', '4');
+10 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 09-08-2015 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-09'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-09', '0', 'Minggu', 'N', '2322810_20150903_105615.xls', '4');
+11 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 10-08-2015 | 07:11 | 16:02 | Senin
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-10'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-10', '07:30:00', '16:00:00', '07:11', 
+									'16:02', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+12 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 11-08-2015 | 07:07 | 16:39 | Selasa
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-11'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-11', '07:30:00', '16:00:00', '07:07', 
+									'16:39', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+13 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 12-08-2015 | 07:01 | 16:02 | Rabu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-12'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-12', '07:30:00', '16:00:00', '07:01', 
+									'16:02', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+14 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 13-08-2015 | 07:12 | 17:27 | Kamis
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-13'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-13', '07:30:00', '16:00:00', '07:12', 
+									'17:27', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+15 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 14-08-2015 | 07:04 | 16:31 | Jumat
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-14'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-14', '07:30:00', '16:30:00', '07:04', 
+									'16:31', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+16 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 15-08-2015 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-15'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-15', '0', 'Sabtu', 'N', '2322810_20150903_105615.xls', '4');
+17 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 16-08-2015 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-16'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-16', '0', 'Minggu', 'N', '2322810_20150903_105615.xls', '4');
+18 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 17-08-2015 | 07:01 |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-17'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-17', '', 'Minggu', 'N', '2322810_20150903_105615.xls', '4');
+19 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 18-08-2015 | 07:01 | 16:13 | Selasa
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-18'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-18', '07:30:00', '16:00:00', '07:01', 
+									'16:13', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+20 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 19-08-2015 | 07:01 | 16:03 | Rabu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-19'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-19', '07:30:00', '16:00:00', '07:01', 
+									'16:03', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+21 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 20-08-2015 | 07:01 | 16:06 | Kamis
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-20'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-20', '07:30:00', '16:00:00', '07:01', 
+									'16:06', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+22 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 21-08-2015 | 07:01 | 16:36 | Jumat
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-21'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-21', '07:30:00', '16:30:00', '07:01', 
+									'16:36', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+23 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 22-08-2015 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-22'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-22', '0', 'Sabtu', 'N', '2322810_20150903_105615.xls', '4');
+24 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 23-08-2015 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-23'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-23', '0', 'Minggu', 'N', '2322810_20150903_105615.xls', '4');
+25 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 24-08-2015 | 07:01 | 16:08 | Senin
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-24'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-24', '07:30:00', '16:00:00', '07:01', 
+									'16:08', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+26 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 25-08-2015 | 07:03 | 16:05 | Selasa
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-25'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-25', '07:30:00', '16:00:00', '07:03', 
+									'16:05', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+27 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 26-08-2015 | 07:05 | 16:13 | Rabu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-26'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-26', '07:30:00', '16:00:00', '07:05', 
+									'16:13', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+28 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 27-08-2015 | 07:17 | 16:03 | Kamis
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-27'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-27', '07:30:00', '16:00:00', '07:17', 
+									'16:03', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+29 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 28-08-2015 | 07:27 | 16:38 | Jumat
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-28'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-28', '07:30:00', '16:30:00', '07:27', 
+									'16:38', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+30 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 29-08-2015 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-29'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-29', '0', 'Sabtu', 'N', '2322810_20150903_105615.xls', '4');
+31 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 30-08-2015 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-30'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-30', '0', 'Minggu', 'N', '2322810_20150903_105615.xls', '4');
+32 | 197106161997031001 | I Made Dharma Suteja, S.S.,M.Si | 31-08-2015 | 07:05 | 16:06 | Senin
+SELECT * FROM presensi WHERE nip = '197106161997031001' AND tanggal = '2015-08-31'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+SELECT * FROM rekapitulasi WHERE nip = '197106161997031001' AND bulan = '2015-08'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197106161997031001', '2322810', '2015-08-31', '07:30:00', '16:00:00', '07:05', 
+									'16:06', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322810_20150903_105615.xls', '1');
+2 |  | 1 |  |  |  | Agustus 2015
+3 |  | Values |  | Status Pegawai | Potongan Status Pegawai | GRADE
+4 | NIP | Potongan Harian | PP53 |  | 0% | 
+5 | (blank) |  |  |  | 0% | 
+6 | 195912311987101001 | 0 | 01:30:00 |  | 0% | 13
+7 | 197106161997031001 | 0 | 00:00:00 |  | 0% | 9
+8 | 195810271983032001 | 0.015 | 13:30:00 |  | 0% | 9
+9 | 196012311989111001 | 0.045 | 04:30:00 |  | 0% | 9
+10 | 196405301992032001 | 0.015 | 22:30:00 |  | 0% | 9
+11 | 196503101990031001 | 0.045 | 10:30:00 |  | 0% | 9
+12 | 195812311979032001 | 0 | 00:00:00 |  | 0% | 5
+13 | 195912311986031005 | 0 | 22:30:00 |  | 0% | 9
+14 | 196411291991031001 | 0 | 13:30:00 |  | 0% | 9
+15 | 196905081998022001 | 0 | 00:00:00 |  | 0% | 8
+16 | 196407311990012001 | 0 | 00:00:00 |  | 0% | 9
+17 | 196203231991031001 | 0 | 15:00:00 |  | 0% | 9
+18 | 195906301991032001 | 0 | 07:30:00 |  | 0% | 9
+19 | 196709191999031002 | 0 | 22:30:00 |  | 0% | 9
+20 | 196808141998021001 | 0 | 07:30:00 |  | 0% | 9
+21 | 195912171986031003 | 0.015 | 15:00:00 |  | 0% | 5
+22 | 196010101985031002 | 0 | 15:00:00 |  | 0% | 5
+23 | 196003291989031002 | 0.025 | 08:05:00 |  | 0% | 5
+24 | 196811101990031005 | 0.03 | 10:30:00 |  | 0% | 7
+25 | 196712011990031002 | 0 | 07:30:00 |  | 0% | 5
+26 | 196607221998021001 | 0 | 07:30:00 |  | 0% | 9
+27 | 197007221998021001 | 0.015 | 04:30:00 |  | 0% | 9
+28 | 197106062000031001 | 0.03 | 09:00:00 |  | 0% | 9
+29 | 195912311982031014 | 0 | 13:30:00 |  | 0% | 5
+30 | 197905272008021001 | 0.015 | 01:30:00 |  | 0% | 9
+31 | 196607122006051001 | 0.015 | 15:00:00 |  | 0% | 9
+32 | 197807102008022001 | 0.03 | 06:00:00 |  | 0% | 5
+33 | 198208072009021005 | 0 | 00:00:00 |  | 0% | 8
+34 | 197107092006051001 | 0.03 | 22:30:00 |  | 0% | 9
+35 | 197811172008021001 | 0.015 | 15:00:00 |  | 0% | 9
+36 | 197806242009021004 | 0.005 | 07:35:00 |  | 0% | 9
+37 | 198404142009022006 | 0.065 | 04:43:00 |  | 0% | 8
+38 | 196112091985021001 | 0.03 | 09:00:00 |  | 0% | 5
+39 | 198611202011011008 | 0.035 | 01:32:00 |  | 0% | 7
+40 | 198605242011011010 | 0.015 | 21:00:00 |  | 0% | 5
+41 | 197512212006052001 | 0 | 13:30:00 |  | 0% | 5
+42 | 197603032006051003 | 0.03 | 06:00:00 |  | 0% | 5
+43 | 197104132006051002 | 0.015 | 01:30:00 | DR1 | 20% | 4
+44 | 197612102007011002 | 0.015 | 00:00:00 |  | 0% | 4
+45 | 198708252014042001 | 0 | 13:30:00 | CPNS | 20% | 6
+46 | 198609142014042001 | 0.05 | 15:09:00 | CPNS | 20% | 6
+47 | 199003252014042001 | 0.015 | 07:30:00 | CPNS | 20% | 6
+48 | Grand Total | 62% | 08:34:00 |  |  | 
+49 |  |  |  |  |  | 
+50 |  |  |  |  |  | 
+51 |  |  |  |  |  | 
+52 |  |  |  |  |  | 
+53 |  |  |  |  |  | 
+54 |  |  |  |  |  | 
+55 |  |  |  |  |  | 
+56 |  |  |  |  |  | 
+57 |  |  |  |  |  | 
+58 |  |  |  |  |  | 
+59 |  |  |  |  |  | 
+60 |  |  |  |  |  | 
+61 |  |  |  |  |  | 
+62 |  |  |  |  |  | 
+63 |  |  |  |  |  | 
+64 |  |  |  |  |  | 
+65 |  |  |  |  |  | 
+66 |  |  |  |  |  | 
+67 |  |  |  |  |  | 
+68 |  |  |  |  |  | 
+69 |  |  |  |  |  | 
+70 |  |  |  |  |  | 
+71 |  |  |  |  |  | 
+72 |  |  |  |  |  | 
+73 |  |  |  |  |  | 
+74 |  |  |  |  |  | 
+75 |  |  |  |  |  | 
+76 |  |  |  |  |  | 
+77 |  |  |  |  |  | 
+78 |  |  |  |  |  | 
+79 |  |  |  |  |  | 
+80 |  |  |  |  |  | 
+81 |  |  |  |  |  | 
+82 |  |  |  |  |  | 
+83 |  |  |  |  |  | 
+84 |  |  |  |  |  | 
+85 |  |  |  |  |  | 
+86 |  |  |  |  |  | 
+87 |  |  |  |  |  | 
+88 |  |  |  |  |  | 
+89 |  |  |  |  |  | 
+90 |  |  |  |  |  | 
+91 |  |  |  |  |  | 
+92 |  |  |  |  |  | 
+93 |  |  |  |  |  | 
+94 |  |  |  |  |  | 
+95 |  |  |  |  |  | 
+96 |  |  |  |  |  | 
+97 |  |  |  |  |  | 
+98 |  |  |  |  |  | 
+99 |  |  |  |  |  | 
+100 |  |  |  |  |  | 
+101 |  |  |  |  |  | 
+102 |  |  |  |  |  | 
+103 |  |  |  |  |  | 
+104 |  |  |  |  |  | 
+105 |  |  |  |  |  | 
+106 |  |  |  |  |  | 
+107 |  |  |  |  |  | 
+108 |  |  |  |  |  | 
+109 |  |  |  |  |  | 
+110 |  |  |  |  |  | 
+111 |  |  |  |  |  | 
+112 |  |  |  |  |  | 

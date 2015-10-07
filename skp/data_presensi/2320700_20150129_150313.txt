@@ -1,0 +1,247 @@
+2 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 01-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO rekapitulasi (nip, kdunit, bulan) VALUES ('195704061984112001', '2320700', '2015-01')
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-01', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2320700_20150129_150313.xls', '2');
+3 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 02-01-2015 | 07:56 | 17:04 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-02'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-02', '07:30:00', '16:30:00', '07:56', 
+									'17:04', '2', '26', '0', '1', '26', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+4 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 03-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-03'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-03', '0', 'Sabtu', 'N', '2320700_20150129_150313.xls', '4');
+5 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 04-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-04'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-04', '0', 'Minggu', 'N', '2320700_20150129_150313.xls', '4');
+6 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 05-01-2015 | 07:29 | 16:15 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-05'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-05', '07:30:00', '16:00:00', '07:29', 
+									'16:15', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+7 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 06-01-2015 | 07:20 | 16:06 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-06'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-06', '07:30:00', '16:00:00', '07:20', 
+									'16:06', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+8 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 07-01-2015 | 07:10 | 18:38 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-07'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-07', '07:30:00', '16:00:00', '07:10', 
+									'18:38', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+9 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 08-01-2015 | 07:11 | 18:31 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-08'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-08', '07:30:00', '16:00:00', '07:11', 
+									'18:31', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+10 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 09-01-2015 | 07:03 | 20:44 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-09'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-09', '07:30:00', '16:30:00', '07:03', 
+									'20:44', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+11 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 10-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-10'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-10', '0', 'Sabtu', 'N', '2320700_20150129_150313.xls', '4');
+12 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 11-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-11'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-11', '0', 'Minggu', 'N', '2320700_20150129_150313.xls', '4');
+13 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 12-01-2015 | 07:09 | 16:27 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-12'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-12', '07:30:00', '16:00:00', '07:09', 
+									'16:27', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+14 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 13-01-2015 | 07:11 | 19:18 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-13'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-13', '07:30:00', '16:00:00', '07:11', 
+									'19:18', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+15 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 14-01-2015 | 07:11 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-14'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-14', '07:30:00', '16:00:00', '07:11', 
+									'16:35', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+16 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 15-01-2015 | 07:12 | 17:17 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-15'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-15', '07:30:00', '16:00:00', '07:12', 
+									'17:17', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+17 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 16-01-2015 | 07:07 | 17:11 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-16'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-16', '07:30:00', '16:30:00', '07:07', 
+									'17:11', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+18 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 17-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-17'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-17', '0', 'Sabtu', 'N', '2320700_20150129_150313.xls', '4');
+19 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 18-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-18'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-18', '0', 'Minggu', 'N', '2320700_20150129_150313.xls', '4');
+20 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 19-01-2015 | 07:23 | 19:14 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-19'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-19', '07:30:00', '16:00:00', '07:23', 
+									'19:14', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+21 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 20-01-2015 | 08:51 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-20'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-20', '07:30:00', '16:00:00', '08:51', 
+									'16:36', '2', '81', '0', '1', '81', '0', 
+									'0', '0', '0', '1', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+22 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 21-01-2015 | 08:25 | 16:05 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-21'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-21', '07:30:00', '16:00:00', '08:25', 
+									'16:05', '2', '55', '0', '1', '55', '0', 
+									'0', '0', '0', '1', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+23 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 22-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-22'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-22', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2320700_20150129_150313.xls', '2');
+24 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 23-01-2015 | 08:55 | 20:54 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-23'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-23', '07:30:00', '16:30:00', '08:55', 
+									'20:54', '2', '85', '0', '1', '85', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2320700_20150129_150313.xls', '1');
+25 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 24-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-24'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-24', '0', 'Sabtu', 'N', '2320700_20150129_150313.xls', '4');
+26 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 25-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-25'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-25', '0', 'Minggu', 'N', '2320700_20150129_150313.xls', '4');
+27 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 26-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-26'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-26', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2320700_20150129_150313.xls', '2');
+28 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 27-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-27'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-27', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2320700_20150129_150313.xls', '2');
+29 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 28-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-28'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-28', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2320700_20150129_150313.xls', '2');
+30 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 29-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-29'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-29', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2320700_20150129_150313.xls', '2');
+31 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 30-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-30'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-30', '07:30:00', '16:30:00', '1', '450', 
+									'1', '1', '1', 'N', '2320700_20150129_150313.xls', '2');
+32 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 31-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-31'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+SELECT * FROM rekapitulasi WHERE nip = '195704061984112001' AND bulan = '2015-01'
+INSERT INTO presensi (nip, kdunit, tanggal, `status`, keterangan_masuk, jam_kerja, src, cek)
+									VALUES ('195704061984112001', '2320700', '2015-01-31', '0', 'Sabtu', 'N', '2320700_20150129_150313.xls', '4');

@@ -1,0 +1,30 @@
+2 | 196207181982111001 | Rudi Parmunanto | 01-10-2014 |  |  | Rabu
+3 | 196207181982111001 | Rudi Parmunanto | 02-10-2014 | 16:16 |  | Kamis
+4 | 196207181982111001 | Rudi Parmunanto | 03-10-2014 |  |  | Jumat
+5 | 196207181982111001 | Rudi Parmunanto | 04-10-2014 |  |  | Sabtu
+6 | 196207181982111001 | Rudi Parmunanto | 05-10-2014 |  |  | Libur Nasional
+7 | 196207181982111001 | Rudi Parmunanto | 06-10-2014 |  |  | Senin
+8 | 196207181982111001 | Rudi Parmunanto | 07-10-2014 |  |  | Selasa
+9 | 196207181982111001 | Rudi Parmunanto | 08-10-2014 |  |  | Rabu
+10 | 196207181982111001 | Rudi Parmunanto | 09-10-2014 |  |  | Kamis
+11 | 196207181982111001 | Rudi Parmunanto | 10-10-2014 |  |  | Jumat
+12 | 196207181982111001 | Rudi Parmunanto | 11-10-2014 | 08:02 | 16:38 | Sabtu
+13 | 196207181982111001 | Rudi Parmunanto | 12-10-2014 | 08:51 | 17:29 | Minggu
+14 | 196207181982111001 | Rudi Parmunanto | 13-10-2014 |  |  | Senin
+15 | 196207181982111001 | Rudi Parmunanto | 14-10-2014 |  |  | Selasa
+16 | 196207181982111001 | Rudi Parmunanto | 15-10-2014 | 08:50 | 17:29 | Rabu
+17 | 196207181982111001 | Rudi Parmunanto | 16-10-2014 | 08:57 | 17:30 | Kamis
+18 | 196207181982111001 | Rudi Parmunanto | 17-10-2014 | 08:50 | 17:31 | Jumat
+19 | 196207181982111001 | Rudi Parmunanto | 18-10-2014 | 08:50 | 17:25 | Sabtu
+20 | 196207181982111001 | Rudi Parmunanto | 19-10-2014 | 08:40 | 17:11 | Minggu
+21 | 196207181982111001 | Rudi Parmunanto | 20-10-2014 |  |  | Senin
+22 | 196207181982111001 | Rudi Parmunanto | 21-10-2014 |  |  | Selasa
+23 | 196207181982111001 | Rudi Parmunanto | 22-10-2014 | 17:01 |  | Rabu
+24 | 196207181982111001 | Rudi Parmunanto | 23-10-2014 | 08:32 | 17:11 | Kamis
+25 | 196207181982111001 | Rudi Parmunanto | 24-10-2014 | 08:59 | 17:40 | Jumat
+26 | 196207181982111001 | Rudi Parmunanto | 25-10-2014 | 08:46 | 17:25 | Libur Nasional
+27 | 196207181982111001 | Rudi Parmunanto | 26-10-2014 |  |  | Minggu
+28 | 196207181982111001 | Rudi Parmunanto | 27-10-2014 |  |  | Senin
+29 | 196207181982111001 | Rudi Parmunanto | 28-10-2014 |  |  | Selasa
+30 | 196207181982111001 | Rudi Parmunanto | 29-10-2014 | 08:50 | 17:29 | Rabu
+31 | 196207181982111001 | Rudi Parmunanto | 30-10-2014 | 08:48 | 17:21 | Kamis

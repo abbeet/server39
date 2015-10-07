@@ -1,0 +1,1525 @@
+2 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-01'
+3 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-02'
+4 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 03-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-03'
+5 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 04-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-04'
+6 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 05-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-05'
+7 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-06'
+8 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-07'
+9 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-08'
+10 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-09'
+11 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 10-11-2014 | 07:27 | 19:14 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-10'
+12 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 11-11-2014 | 07:03 | 20:44 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-11'
+13 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 12-11-2014 | 07:31 | 18:11 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-12'
+14 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 13-11-2014 | 07:29 | 19:03 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-13'
+15 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 14-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-14'
+16 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-15'
+17 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-16'
+18 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 17-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-17'
+19 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 18-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-18'
+20 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 19-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-19'
+21 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 20-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-20'
+22 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 21-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-21'
+23 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-22'
+24 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-23'
+25 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 24-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-24'
+26 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 25-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-25'
+27 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-26'
+28 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-27'
+29 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-28'
+30 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-29'
+31 | 195704061984112001 | Dra. Intan Mardiana N, M.Hum | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2014-11-30'
+32 | 196303031988032001 | Dra. Sri Suharni,MM | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-01'
+33 | 196303031988032001 | Dra. Sri Suharni,MM | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-02'
+34 | 196303031988032001 | Dra. Sri Suharni,MM | 03-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-03'
+35 | 196303031988032001 | Dra. Sri Suharni,MM | 04-11-2014 | 08:44 | 18:46 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-04'
+36 | 196303031988032001 | Dra. Sri Suharni,MM | 05-11-2014 | 08:45 | 17:43 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-05'
+37 | 196303031988032001 | Dra. Sri Suharni,MM | 06-11-2014 | 09:22 | 18:30 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-06'
+38 | 196303031988032001 | Dra. Sri Suharni,MM | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-07'
+39 | 196303031988032001 | Dra. Sri Suharni,MM | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-08'
+40 | 196303031988032001 | Dra. Sri Suharni,MM | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-09'
+41 | 196303031988032001 | Dra. Sri Suharni,MM | 10-11-2014 | 08:57 | 18:31 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-10'
+42 | 196303031988032001 | Dra. Sri Suharni,MM | 11-11-2014 | 08:50 | 19:02 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-11'
+43 | 196303031988032001 | Dra. Sri Suharni,MM | 12-11-2014 | 08:55 | 19:52 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-12'
+44 | 196303031988032001 | Dra. Sri Suharni,MM | 13-11-2014 |  | 19:25 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-13'
+45 | 196303031988032001 | Dra. Sri Suharni,MM | 14-11-2014 | 08:49 | 19:54 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-14'
+46 | 196303031988032001 | Dra. Sri Suharni,MM | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-15'
+47 | 196303031988032001 | Dra. Sri Suharni,MM | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-16'
+48 | 196303031988032001 | Dra. Sri Suharni,MM | 17-11-2014 | 08:07 | 19:23 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-17'
+49 | 196303031988032001 | Dra. Sri Suharni,MM | 18-11-2014 | 09:18 | 18:44 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-18'
+50 | 196303031988032001 | Dra. Sri Suharni,MM | 19-11-2014 | 09:23 | 18:19 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-19'
+51 | 196303031988032001 | Dra. Sri Suharni,MM | 20-11-2014 | 09:09 | 18:29 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-20'
+52 | 196303031988032001 | Dra. Sri Suharni,MM | 21-11-2014 | 08:27 | 19:56 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-21'
+53 | 196303031988032001 | Dra. Sri Suharni,MM | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-22'
+54 | 196303031988032001 | Dra. Sri Suharni,MM | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-23'
+55 | 196303031988032001 | Dra. Sri Suharni,MM | 24-11-2014 | 08:56 | 17:03 | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-24'
+56 | 196303031988032001 | Dra. Sri Suharni,MM | 25-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-25'
+57 | 196303031988032001 | Dra. Sri Suharni,MM | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-26'
+58 | 196303031988032001 | Dra. Sri Suharni,MM | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-27'
+59 | 196303031988032001 | Dra. Sri Suharni,MM | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-28'
+60 | 196303031988032001 | Dra. Sri Suharni,MM | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-29'
+61 | 196303031988032001 | Dra. Sri Suharni,MM | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303031988032001' AND tanggal = '2014-11-30'
+62 | 196004111987031011 | Drs. Trigangga | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-01'
+63 | 196004111987031011 | Drs. Trigangga | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-02'
+64 | 196004111987031011 | Drs. Trigangga | 03-11-2014 | 08:59 | 19:03 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-03'
+65 | 196004111987031011 | Drs. Trigangga | 04-11-2014 | 09:45 | 19:09 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-04'
+66 | 196004111987031011 | Drs. Trigangga | 05-11-2014 | 08:18 | 19:13 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-05'
+67 | 196004111987031011 | Drs. Trigangga | 06-11-2014 | 09:01 | 20:27 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-06'
+68 | 196004111987031011 | Drs. Trigangga | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-07'
+69 | 196004111987031011 | Drs. Trigangga | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-08'
+70 | 196004111987031011 | Drs. Trigangga | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-09'
+71 | 196004111987031011 | Drs. Trigangga | 10-11-2014 | 08:56 | 19:41 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-10'
+72 | 196004111987031011 | Drs. Trigangga | 11-11-2014 | 07:03 | 20:36 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-11'
+73 | 196004111987031011 | Drs. Trigangga | 12-11-2014 | 09:03 | 19:21 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-12'
+74 | 196004111987031011 | Drs. Trigangga | 13-11-2014 | 07:41 | 19:21 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-13'
+75 | 196004111987031011 | Drs. Trigangga | 14-11-2014 | 09:03 | 19:33 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-14'
+76 | 196004111987031011 | Drs. Trigangga | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-15'
+77 | 196004111987031011 | Drs. Trigangga | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-16'
+78 | 196004111987031011 | Drs. Trigangga | 17-11-2014 | 08:58 | 19:28 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-17'
+79 | 196004111987031011 | Drs. Trigangga | 18-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-18'
+80 | 196004111987031011 | Drs. Trigangga | 19-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-19'
+81 | 196004111987031011 | Drs. Trigangga | 20-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-20'
+82 | 196004111987031011 | Drs. Trigangga | 21-11-2014 | 08:56 | 20:00 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-21'
+83 | 196004111987031011 | Drs. Trigangga | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-22'
+84 | 196004111987031011 | Drs. Trigangga | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-23'
+85 | 196004111987031011 | Drs. Trigangga | 24-11-2014 | 09:23 | 19:04 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-24'
+86 | 196004111987031011 | Drs. Trigangga | 25-11-2014 | 09:13 |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-25'
+87 | 196004111987031011 | Drs. Trigangga | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-26'
+88 | 196004111987031011 | Drs. Trigangga | 27-11-2014 | 09:53 | 19:39 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-27'
+89 | 196004111987031011 | Drs. Trigangga | 28-11-2014 | 08:56 | 19:10 | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-28'
+90 | 196004111987031011 | Drs. Trigangga | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-29'
+91 | 196004111987031011 | Drs. Trigangga | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196004111987031011' AND tanggal = '2014-11-30'
+92 | 195811031987032001 | Dra. Ekowati Sundari | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-01'
+93 | 195811031987032001 | Dra. Ekowati Sundari | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-02'
+94 | 195811031987032001 | Dra. Ekowati Sundari | 03-11-2014 |  | 17:33 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-03'
+95 | 195811031987032001 | Dra. Ekowati Sundari | 04-11-2014 |  | 19:08 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-04'
+96 | 195811031987032001 | Dra. Ekowati Sundari | 05-11-2014 | 10:00 | 18:54 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-05'
+97 | 195811031987032001 | Dra. Ekowati Sundari | 06-11-2014 |  | 19:45 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-06'
+98 | 195811031987032001 | Dra. Ekowati Sundari | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-07'
+99 | 195811031987032001 | Dra. Ekowati Sundari | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-08'
+100 | 195811031987032001 | Dra. Ekowati Sundari | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-09'
+101 | 195811031987032001 | Dra. Ekowati Sundari | 10-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-10'
+102 | 195811031987032001 | Dra. Ekowati Sundari | 11-11-2014 |  | 18:47 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-11'
+103 | 195811031987032001 | Dra. Ekowati Sundari | 12-11-2014 | 09:49 | 19:02 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-12'
+104 | 195811031987032001 | Dra. Ekowati Sundari | 13-11-2014 |  | 18:16 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-13'
+105 | 195811031987032001 | Dra. Ekowati Sundari | 14-11-2014 | 08:39 | 19:18 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-14'
+106 | 195811031987032001 | Dra. Ekowati Sundari | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-15'
+107 | 195811031987032001 | Dra. Ekowati Sundari | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-16'
+108 | 195811031987032001 | Dra. Ekowati Sundari | 17-11-2014 |  | 18:03 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-17'
+109 | 195811031987032001 | Dra. Ekowati Sundari | 18-11-2014 |  | 17:03 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-18'
+110 | 195811031987032001 | Dra. Ekowati Sundari | 19-11-2014 |  | 19:14 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-19'
+111 | 195811031987032001 | Dra. Ekowati Sundari | 20-11-2014 |  | 19:00 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-20'
+112 | 195811031987032001 | Dra. Ekowati Sundari | 21-11-2014 |  | 20:02 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-21'
+113 | 195811031987032001 | Dra. Ekowati Sundari | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-22'
+114 | 195811031987032001 | Dra. Ekowati Sundari | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-23'
+115 | 195811031987032001 | Dra. Ekowati Sundari | 24-11-2014 |  | 18:48 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-24'
+116 | 195811031987032001 | Dra. Ekowati Sundari | 25-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-25'
+117 | 195811031987032001 | Dra. Ekowati Sundari | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-26'
+118 | 195811031987032001 | Dra. Ekowati Sundari | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-27'
+119 | 195811031987032001 | Dra. Ekowati Sundari | 28-11-2014 |  | 18:13 | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-28'
+120 | 195811031987032001 | Dra. Ekowati Sundari | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-29'
+121 | 195811031987032001 | Dra. Ekowati Sundari | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195811031987032001' AND tanggal = '2014-11-30'
+122 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 01-11-2014 | 07:14 | 19:00 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-01'
+123 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 02-11-2014 | 08:37 | 19:47 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-02'
+124 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 03-11-2014 | 07:35 | 21:03 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-03'
+125 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 04-11-2014 | 08:37 | 19:47 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-04'
+126 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 05-11-2014 | 07:35 | 21:03 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-05'
+127 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 06-11-2014 | 07:29 | 20:27 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-06'
+128 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-07'
+129 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-08'
+130 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-09'
+131 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 10-11-2014 | 07:12 | 20:51 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-10'
+132 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 11-11-2014 | 08:09 | 19:33 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-11'
+133 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 12-11-2014 | 07:50 | 18:36 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-12'
+134 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 13-11-2014 | 07:24 | 19:20 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-13'
+135 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 14-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-14'
+136 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-15'
+137 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-16'
+138 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 17-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-17'
+139 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 18-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-18'
+140 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 19-11-2014 | 08:49 | 19:42 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-19'
+141 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 20-11-2014 | 08:30 | 18:36 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-20'
+142 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 21-11-2014 | 07:59 | 20:13 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-21'
+143 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-22'
+144 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-23'
+145 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 24-11-2014 | 09:21 | 19:05 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-24'
+146 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 25-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-25'
+147 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-26'
+148 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 27-11-2014 | 08:17 | 19:26 | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-27'
+149 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-28'
+150 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-29'
+151 | 196111241988032002 | Dra.Dedah Rufaedah Sri Handari | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196111241988032002' AND tanggal = '2014-11-30'
+152 | 196007061989031001 | Drs. Widodo | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-01'
+153 | 196007061989031001 | Drs. Widodo | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-02'
+154 | 196007061989031001 | Drs. Widodo | 03-11-2014 | 09:03 | 19:16 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-03'
+155 | 196007061989031001 | Drs. Widodo | 04-11-2014 | 08:59 | 20:16 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-04'
+156 | 196007061989031001 | Drs. Widodo | 05-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-05'
+157 | 196007061989031001 | Drs. Widodo | 06-11-2014 |  | 19:49 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-06'
+158 | 196007061989031001 | Drs. Widodo | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-07'
+159 | 196007061989031001 | Drs. Widodo | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-08'
+160 | 196007061989031001 | Drs. Widodo | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-09'
+161 | 196007061989031001 | Drs. Widodo | 10-11-2014 | 09:02 | 20:58 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-10'
+162 | 196007061989031001 | Drs. Widodo | 11-11-2014 | 08:49 | 20:27 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-11'
+163 | 196007061989031001 | Drs. Widodo | 12-11-2014 | 08:51 | 19:33 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-12'
+164 | 196007061989031001 | Drs. Widodo | 13-11-2014 | 07:50 | 20:16 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-13'
+165 | 196007061989031001 | Drs. Widodo | 14-11-2014 | 08:55 | 21:00 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-14'
+166 | 196007061989031001 | Drs. Widodo | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-15'
+167 | 196007061989031001 | Drs. Widodo | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-16'
+168 | 196007061989031001 | Drs. Widodo | 17-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-17'
+169 | 196007061989031001 | Drs. Widodo | 18-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-18'
+170 | 196007061989031001 | Drs. Widodo | 19-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-19'
+171 | 196007061989031001 | Drs. Widodo | 20-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-20'
+172 | 196007061989031001 | Drs. Widodo | 21-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-21'
+173 | 196007061989031001 | Drs. Widodo | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-22'
+174 | 196007061989031001 | Drs. Widodo | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-23'
+175 | 196007061989031001 | Drs. Widodo | 24-11-2014 | 08:40 | 19:48 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-24'
+176 | 196007061989031001 | Drs. Widodo | 25-11-2014 | 08:41 | 17:08 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-25'
+177 | 196007061989031001 | Drs. Widodo | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-26'
+178 | 196007061989031001 | Drs. Widodo | 27-11-2014 | 08:39 | 19:01 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-27'
+179 | 196007061989031001 | Drs. Widodo | 28-11-2014 | 09:18 | 17:59 | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-28'
+180 | 196007061989031001 | Drs. Widodo | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-29'
+181 | 196007061989031001 | Drs. Widodo | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196007061989031001' AND tanggal = '2014-11-30'
+182 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-01'
+183 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-02'
+184 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 03-11-2014 | 11:06 | 17:36 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-03'
+185 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 04-11-2014 | 08:50 | 16:24 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-04'
+186 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 05-11-2014 | 08:54 | 17:42 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-05'
+187 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-06'
+188 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-07'
+189 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-08'
+190 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-09'
+191 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 10-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-10'
+192 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 11-11-2014 | 10:17 | 17:45 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-11'
+193 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 12-11-2014 | 10:41 | 18:27 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-12'
+194 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 13-11-2014 | 13:50 | 17:05 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-13'
+195 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 14-11-2014 | 10:15 | 14:30 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-14'
+196 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-15'
+197 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-16'
+198 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 17-11-2014 | 11:13 | 18:16 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-17'
+199 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 18-11-2014 | 08:43 | 18:21 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-18'
+200 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 19-11-2014 | 08:15 | 17:25 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-19'
+201 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 20-11-2014 | 11:18 | 18:53 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-20'
+202 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 21-11-2014 | 07:14 |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-21'
+203 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-22'
+204 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-23'
+205 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 24-11-2014 | 09:32 | 17:34 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-24'
+206 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 25-11-2014 | 09:38 | 17:22 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-25'
+207 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-26'
+208 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 27-11-2014 | 09:47 | 17:00 | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-27'
+209 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-28'
+210 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-29'
+211 | 196610261993031001 | Drs. Irwan Zulkarnain,M.Hum | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196610261993031001' AND tanggal = '2014-11-30'
+212 | 195908161990012001 | Dra. Wahyu Ernawati | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-01'
+213 | 195908161990012001 | Dra. Wahyu Ernawati | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-02'
+214 | 195908161990012001 | Dra. Wahyu Ernawati | 03-11-2014 | 06:19 | 16:00 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-03'
+215 | 195908161990012001 | Dra. Wahyu Ernawati | 04-11-2014 | 06:16 | 16:00 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-04'
+216 | 195908161990012001 | Dra. Wahyu Ernawati | 05-11-2014 | 06:25 | 16:01 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-05'
+217 | 195908161990012001 | Dra. Wahyu Ernawati | 06-11-2014 | 06:22 | 15:57 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-06'
+218 | 195908161990012001 | Dra. Wahyu Ernawati | 07-11-2014 | 06:31 | 16:21 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-07'
+219 | 195908161990012001 | Dra. Wahyu Ernawati | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-08'
+220 | 195908161990012001 | Dra. Wahyu Ernawati | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-09'
+221 | 195908161990012001 | Dra. Wahyu Ernawati | 10-11-2014 | 06:18 | 15:57 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-10'
+222 | 195908161990012001 | Dra. Wahyu Ernawati | 11-11-2014 | 06:20 | 16:54 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-11'
+223 | 195908161990012001 | Dra. Wahyu Ernawati | 12-11-2014 | 06:24 | 16:00 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-12'
+224 | 195908161990012001 | Dra. Wahyu Ernawati | 13-11-2014 | 06:19 | 15:56 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-13'
+225 | 195908161990012001 | Dra. Wahyu Ernawati | 14-11-2014 | 06:20 | 16:25 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-14'
+226 | 195908161990012001 | Dra. Wahyu Ernawati | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-15'
+227 | 195908161990012001 | Dra. Wahyu Ernawati | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-16'
+228 | 195908161990012001 | Dra. Wahyu Ernawati | 17-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-17'
+229 | 195908161990012001 | Dra. Wahyu Ernawati | 18-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-18'
+230 | 195908161990012001 | Dra. Wahyu Ernawati | 19-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-19'
+231 | 195908161990012001 | Dra. Wahyu Ernawati | 20-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-20'
+232 | 195908161990012001 | Dra. Wahyu Ernawati | 21-11-2014 | 06:26 | 18:38 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-21'
+233 | 195908161990012001 | Dra. Wahyu Ernawati | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-22'
+234 | 195908161990012001 | Dra. Wahyu Ernawati | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-23'
+235 | 195908161990012001 | Dra. Wahyu Ernawati | 24-11-2014 | 06:21 | 15:57 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-24'
+236 | 195908161990012001 | Dra. Wahyu Ernawati | 25-11-2014 | 06:31 | 15:59 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-25'
+237 | 195908161990012001 | Dra. Wahyu Ernawati | 26-11-2014 | 06:18 | 16:00 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-26'
+238 | 195908161990012001 | Dra. Wahyu Ernawati | 27-11-2014 | 06:20 | 16:01 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-27'
+239 | 195908161990012001 | Dra. Wahyu Ernawati | 28-11-2014 | 06:21 | 17:26 | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-28'
+240 | 195908161990012001 | Dra. Wahyu Ernawati | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-29'
+241 | 195908161990012001 | Dra. Wahyu Ernawati | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195908161990012001' AND tanggal = '2014-11-30'
+242 | 196003111989032001 | Dra. Rodina Satriana | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-01'
+243 | 196003111989032001 | Dra. Rodina Satriana | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-02'
+244 | 196003111989032001 | Dra. Rodina Satriana | 03-11-2014 | 09:02 | 16:17 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-03'
+245 | 196003111989032001 | Dra. Rodina Satriana | 04-11-2014 | 08:58 | 17:32 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-04'
+246 | 196003111989032001 | Dra. Rodina Satriana | 05-11-2014 | 08:41 | 17:31 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-05'
+247 | 196003111989032001 | Dra. Rodina Satriana | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-06'
+248 | 196003111989032001 | Dra. Rodina Satriana | 07-11-2014 | 08:56 | 17:32 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-07'
+249 | 196003111989032001 | Dra. Rodina Satriana | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-08'
+250 | 196003111989032001 | Dra. Rodina Satriana | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-09'
+251 | 196003111989032001 | Dra. Rodina Satriana | 10-11-2014 | 09:02 | 16:14 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-10'
+252 | 196003111989032001 | Dra. Rodina Satriana | 11-11-2014 | 08:49 | 17:37 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-11'
+253 | 196003111989032001 | Dra. Rodina Satriana | 12-11-2014 | 08:51 | 17:36 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-12'
+254 | 196003111989032001 | Dra. Rodina Satriana | 13-11-2014 | 07:50 | 17:15 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-13'
+255 | 196003111989032001 | Dra. Rodina Satriana | 14-11-2014 | 09:34 | 16:53 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-14'
+256 | 196003111989032001 | Dra. Rodina Satriana | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-15'
+257 | 196003111989032001 | Dra. Rodina Satriana | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-16'
+258 | 196003111989032001 | Dra. Rodina Satriana | 17-11-2014 | 08:33 | 17:31 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-17'
+259 | 196003111989032001 | Dra. Rodina Satriana | 18-11-2014 | 08:30 | 17:01 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-18'
+260 | 196003111989032001 | Dra. Rodina Satriana | 19-11-2014 | 08:55 | 17:31 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-19'
+261 | 196003111989032001 | Dra. Rodina Satriana | 20-11-2014 | 08:50 | 17:34 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-20'
+262 | 196003111989032001 | Dra. Rodina Satriana | 21-11-2014 | 09:05 | 16:42 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-21'
+263 | 196003111989032001 | Dra. Rodina Satriana | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-22'
+264 | 196003111989032001 | Dra. Rodina Satriana | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-23'
+265 | 196003111989032001 | Dra. Rodina Satriana | 24-11-2014 | 09:28 | 17:15 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-24'
+266 | 196003111989032001 | Dra. Rodina Satriana | 25-11-2014 | 08:41 | 17:34 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-25'
+267 | 196003111989032001 | Dra. Rodina Satriana | 26-11-2014 | 09:04 | 16:33 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-26'
+268 | 196003111989032001 | Dra. Rodina Satriana | 27-11-2014 | 09:16 | 16:23 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-27'
+269 | 196003111989032001 | Dra. Rodina Satriana | 28-11-2014 | 09:18 | 14:11 | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-28'
+270 | 196003111989032001 | Dra. Rodina Satriana | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-29'
+271 | 196003111989032001 | Dra. Rodina Satriana | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196003111989032001' AND tanggal = '2014-11-30'
+272 | 196206171991031001 | Drs. Junaidi Ismail | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-01'
+273 | 196206171991031001 | Drs. Junaidi Ismail | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-02'
+274 | 196206171991031001 | Drs. Junaidi Ismail | 03-11-2014 | 08:29 | 17:02 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-03'
+275 | 196206171991031001 | Drs. Junaidi Ismail | 04-11-2014 | 07:07 | 16:01 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-04'
+276 | 196206171991031001 | Drs. Junaidi Ismail | 05-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-05'
+277 | 196206171991031001 | Drs. Junaidi Ismail | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-06'
+278 | 196206171991031001 | Drs. Junaidi Ismail | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-07'
+279 | 196206171991031001 | Drs. Junaidi Ismail | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-08'
+280 | 196206171991031001 | Drs. Junaidi Ismail | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-09'
+281 | 196206171991031001 | Drs. Junaidi Ismail | 10-11-2014 | 07:26 | 16:08 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-10'
+282 | 196206171991031001 | Drs. Junaidi Ismail | 11-11-2014 | 07:23 | 16:22 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-11'
+283 | 196206171991031001 | Drs. Junaidi Ismail | 12-11-2014 | 07:25 | 16:02 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-12'
+284 | 196206171991031001 | Drs. Junaidi Ismail | 13-11-2014 | 07:27 | 18:29 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-13'
+285 | 196206171991031001 | Drs. Junaidi Ismail | 14-11-2014 | 07:23 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-14'
+286 | 196206171991031001 | Drs. Junaidi Ismail | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-15'
+287 | 196206171991031001 | Drs. Junaidi Ismail | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-16'
+288 | 196206171991031001 | Drs. Junaidi Ismail | 17-11-2014 | 08:20 | 17:00 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-17'
+289 | 196206171991031001 | Drs. Junaidi Ismail | 18-11-2014 | 08:04 | 17:01 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-18'
+290 | 196206171991031001 | Drs. Junaidi Ismail | 19-11-2014 | 07:18 | 16:01 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-19'
+291 | 196206171991031001 | Drs. Junaidi Ismail | 20-11-2014 | 07:15 | 16:06 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-20'
+292 | 196206171991031001 | Drs. Junaidi Ismail | 21-11-2014 | 08:24 | 17:30 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-21'
+293 | 196206171991031001 | Drs. Junaidi Ismail | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-22'
+294 | 196206171991031001 | Drs. Junaidi Ismail | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-23'
+295 | 196206171991031001 | Drs. Junaidi Ismail | 24-11-2014 | 07:14 | 16:05 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-24'
+296 | 196206171991031001 | Drs. Junaidi Ismail | 25-11-2014 | 07:57 | 16:52 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-25'
+297 | 196206171991031001 | Drs. Junaidi Ismail | 26-11-2014 | 08:30 | 16:03 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-26'
+298 | 196206171991031001 | Drs. Junaidi Ismail | 27-11-2014 | 07:27 | 16:08 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-27'
+299 | 196206171991031001 | Drs. Junaidi Ismail | 28-11-2014 | 08:29 | 16:34 | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-28'
+300 | 196206171991031001 | Drs. Junaidi Ismail | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-29'
+301 | 196206171991031001 | Drs. Junaidi Ismail | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196206171991031001' AND tanggal = '2014-11-30'
+302 | 196103171996011001 | Drs. Dian Purwananta | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-01'
+303 | 196103171996011001 | Drs. Dian Purwananta | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-02'
+304 | 196103171996011001 | Drs. Dian Purwananta | 03-11-2014 | 07:37 | 19:09 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-03'
+305 | 196103171996011001 | Drs. Dian Purwananta | 04-11-2014 | 08:06 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-04'
+306 | 196103171996011001 | Drs. Dian Purwananta | 05-11-2014 | 08:59 |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-05'
+307 | 196103171996011001 | Drs. Dian Purwananta | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-06'
+308 | 196103171996011001 | Drs. Dian Purwananta | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-07'
+309 | 196103171996011001 | Drs. Dian Purwananta | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-08'
+310 | 196103171996011001 | Drs. Dian Purwananta | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-09'
+311 | 196103171996011001 | Drs. Dian Purwananta | 10-11-2014 | 07:46 | 16:04 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-10'
+312 | 196103171996011001 | Drs. Dian Purwananta | 11-11-2014 | 08:02 | 17:00 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-11'
+313 | 196103171996011001 | Drs. Dian Purwananta | 12-11-2014 | 08:55 | 17:01 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-12'
+314 | 196103171996011001 | Drs. Dian Purwananta | 13-11-2014 | 08:32 | 17:00 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-13'
+315 | 196103171996011001 | Drs. Dian Purwananta | 14-11-2014 | 08:55 | 17:01 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-14'
+316 | 196103171996011001 | Drs. Dian Purwananta | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-15'
+317 | 196103171996011001 | Drs. Dian Purwananta | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-16'
+318 | 196103171996011001 | Drs. Dian Purwananta | 17-11-2014 | 07:51 | 17:08 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-17'
+319 | 196103171996011001 | Drs. Dian Purwananta | 18-11-2014 | 07:53 | 17:21 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-18'
+320 | 196103171996011001 | Drs. Dian Purwananta | 19-11-2014 | 08:00 | 18:45 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-19'
+321 | 196103171996011001 | Drs. Dian Purwananta | 20-11-2014 | 08:52 | 19:30 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-20'
+322 | 196103171996011001 | Drs. Dian Purwananta | 21-11-2014 | 07:58 | 18:53 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-21'
+323 | 196103171996011001 | Drs. Dian Purwananta | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-22'
+324 | 196103171996011001 | Drs. Dian Purwananta | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-23'
+325 | 196103171996011001 | Drs. Dian Purwananta | 24-11-2014 | 08:31 | 20:42 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-24'
+326 | 196103171996011001 | Drs. Dian Purwananta | 25-11-2014 | 07:43 | 11:56 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-25'
+327 | 196103171996011001 | Drs. Dian Purwananta | 26-11-2014 | 07:58 | 17:31 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-26'
+328 | 196103171996011001 | Drs. Dian Purwananta | 27-11-2014 | 07:57 | 16:25 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-27'
+329 | 196103171996011001 | Drs. Dian Purwananta | 28-11-2014 | 09:03 | 17:42 | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-28'
+330 | 196103171996011001 | Drs. Dian Purwananta | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-29'
+331 | 196103171996011001 | Drs. Dian Purwananta | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196103171996011001' AND tanggal = '2014-11-30'
+332 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-01'
+333 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-02'
+334 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 03-11-2014 | 06:59 | 16:12 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-03'
+335 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 04-11-2014 | 07:03 | 16:50 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-04'
+336 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 05-11-2014 | 07:57 | 17:32 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-05'
+337 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 06-11-2014 | 08:20 | 16:52 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-06'
+338 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 07-11-2014 | 07:57 | 17:05 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-07'
+339 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-08'
+340 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-09'
+341 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 10-11-2014 | 07:37 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-10'
+342 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 11-11-2014 | 07:46 | 18:01 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-11'
+343 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 12-11-2014 | 07:18 | 19:50 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-12'
+344 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 13-11-2014 |  | 19:44 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-13'
+345 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 14-11-2014 | 05:20 | 20:08 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-14'
+346 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 15-11-2014 | 11:11 | 18:38 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-15'
+347 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-16'
+348 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 17-11-2014 | 07:56 | 18:30 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-17'
+349 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 18-11-2014 | 07:45 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-18'
+350 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 19-11-2014 | 07:38 | 18:38 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-19'
+351 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 20-11-2014 | 07:17 |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-20'
+352 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 21-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-21'
+353 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-22'
+354 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-23'
+355 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 24-11-2014 | 07:18 |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-24'
+356 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 25-11-2014 | 07:01 | 17:06 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-25'
+357 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 26-11-2014 | 07:12 | 16:40 | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-26'
+358 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-27'
+359 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-28'
+360 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-29'
+361 | 196106301987101001 | Anton Rozali Mochtar, S.Sos | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196106301987101001' AND tanggal = '2014-11-30'
+362 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-01'
+363 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-02'
+364 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 03-11-2014 | 08:31 | 17:11 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-03'
+365 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 04-11-2014 | 07:30 | 20:16 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-04'
+366 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 05-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-05'
+367 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-06'
+368 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-07'
+369 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-08'
+370 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-09'
+371 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 10-11-2014 |  | 17:25 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-10'
+372 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 11-11-2014 | 08:43 | 18:58 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-11'
+373 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 12-11-2014 | 08:39 | 18:43 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-12'
+374 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 13-11-2014 | 13:37 | 18:34 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-13'
+375 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 14-11-2014 | 08:49 | 17:36 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-14'
+376 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-15'
+377 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-16'
+378 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 17-11-2014 | 07:25 | 16:20 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-17'
+379 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 18-11-2014 | 08:45 | 18:22 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-18'
+380 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 19-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-19'
+381 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 20-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-20'
+382 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 21-11-2014 | 08:41 | 18:39 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-21'
+383 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-22'
+384 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-23'
+385 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 24-11-2014 | 08:31 | 18:36 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-24'
+386 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 25-11-2014 | 08:28 | 17:14 | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-25'
+387 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-26'
+388 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-27'
+389 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-28'
+390 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-29'
+391 | 197004041998032001 | Nusi Lisabilla Estudiantin, M Hum | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197004041998032001' AND tanggal = '2014-11-30'
+392 | 196303281989031002 | Suswadi, S.Pd | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-01'
+393 | 196303281989031002 | Suswadi, S.Pd | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-02'
+394 | 196303281989031002 | Suswadi, S.Pd | 03-11-2014 | 07:14 | 19:11 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-03'
+395 | 196303281989031002 | Suswadi, S.Pd | 04-11-2014 | 07:54 | 17:14 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-04'
+396 | 196303281989031002 | Suswadi, S.Pd | 05-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-05'
+397 | 196303281989031002 | Suswadi, S.Pd | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-06'
+398 | 196303281989031002 | Suswadi, S.Pd | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-07'
+399 | 196303281989031002 | Suswadi, S.Pd | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-08'
+400 | 196303281989031002 | Suswadi, S.Pd | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-09'
+401 | 196303281989031002 | Suswadi, S.Pd | 10-11-2014 | 07:42 | 16:16 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-10'
+402 | 196303281989031002 | Suswadi, S.Pd | 11-11-2014 | 07:36 | 16:55 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-11'
+403 | 196303281989031002 | Suswadi, S.Pd | 12-11-2014 | 07:48 | 16:24 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-12'
+404 | 196303281989031002 | Suswadi, S.Pd | 13-11-2014 | 07:38 | 17:04 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-13'
+405 | 196303281989031002 | Suswadi, S.Pd | 14-11-2014 | 07:49 | 17:19 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-14'
+406 | 196303281989031002 | Suswadi, S.Pd | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-15'
+407 | 196303281989031002 | Suswadi, S.Pd | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-16'
+408 | 196303281989031002 | Suswadi, S.Pd | 17-11-2014 | 07:54 | 16:33 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-17'
+409 | 196303281989031002 | Suswadi, S.Pd | 18-11-2014 | 07:33 | 16:38 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-18'
+410 | 196303281989031002 | Suswadi, S.Pd | 19-11-2014 | 07:34 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-19'
+411 | 196303281989031002 | Suswadi, S.Pd | 20-11-2014 | 07:34 | 16:46 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-20'
+412 | 196303281989031002 | Suswadi, S.Pd | 21-11-2014 | 07:46 | 17:06 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-21'
+413 | 196303281989031002 | Suswadi, S.Pd | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-22'
+414 | 196303281989031002 | Suswadi, S.Pd | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-23'
+415 | 196303281989031002 | Suswadi, S.Pd | 24-11-2014 | 07:40 | 17:19 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-24'
+416 | 196303281989031002 | Suswadi, S.Pd | 25-11-2014 | 07:37 | 16:41 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-25'
+417 | 196303281989031002 | Suswadi, S.Pd | 26-11-2014 | 07:19 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-26'
+418 | 196303281989031002 | Suswadi, S.Pd | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-27'
+419 | 196303281989031002 | Suswadi, S.Pd | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-28'
+420 | 196303281989031002 | Suswadi, S.Pd | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-29'
+421 | 196303281989031002 | Suswadi, S.Pd | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196303281989031002' AND tanggal = '2014-11-30'
+422 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-01'
+423 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-02'
+424 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 03-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-03'
+425 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 04-11-2014 | 09:03 | 19:08 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-04'
+426 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 05-11-2014 | 08:59 | 18:54 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-05'
+427 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-06'
+428 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 07-11-2014 | 08:34 | 18:29 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-07'
+429 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-08'
+430 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-09'
+431 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 10-11-2014 | 08:46 | 19:44 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-10'
+432 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 11-11-2014 | 07:46 | 20:37 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-11'
+433 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 12-11-2014 | 08:48 | 19:02 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-12'
+434 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 13-11-2014 | 13:22 | 19:10 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-13'
+435 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 14-11-2014 | 08:27 | 19:18 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-14'
+436 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-15'
+437 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-16'
+438 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 17-11-2014 | 09:52 | 17:04 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-17'
+439 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 18-11-2014 | 11:32 | 17:36 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-18'
+440 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 19-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-19'
+441 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 20-11-2014 | 08:49 | 19:27 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-20'
+442 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 21-11-2014 | 09:05 | 20:00 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-21'
+443 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-22'
+444 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-23'
+445 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 24-11-2014 | 08:23 | 18:49 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-24'
+446 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 25-11-2014 | 08:57 | 18:56 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-25'
+447 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 26-11-2014 | 09:36 | 17:38 | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-26'
+448 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-27'
+449 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-28'
+450 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-29'
+451 | 197008011997032009 | Ni Luh Putu Candra Dewi, S.S. | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197008011997032009' AND tanggal = '2014-11-30'
+452 | 196408231997031001 | Drs. Oting Rudy Hidayat | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-01'
+453 | 196408231997031001 | Drs. Oting Rudy Hidayat | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-02'
+454 | 196408231997031001 | Drs. Oting Rudy Hidayat | 03-11-2014 | 07:29 | 16:42 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-03'
+455 | 196408231997031001 | Drs. Oting Rudy Hidayat | 04-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-04'
+456 | 196408231997031001 | Drs. Oting Rudy Hidayat | 05-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-05'
+457 | 196408231997031001 | Drs. Oting Rudy Hidayat | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-06'
+458 | 196408231997031001 | Drs. Oting Rudy Hidayat | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-07'
+459 | 196408231997031001 | Drs. Oting Rudy Hidayat | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-08'
+460 | 196408231997031001 | Drs. Oting Rudy Hidayat | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-09'
+461 | 196408231997031001 | Drs. Oting Rudy Hidayat | 10-11-2014 | 07:40 | 19:49 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-10'
+462 | 196408231997031001 | Drs. Oting Rudy Hidayat | 11-11-2014 | 07:16 | 19:09 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-11'
+463 | 196408231997031001 | Drs. Oting Rudy Hidayat | 12-11-2014 | 07:14 | 19:33 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-12'
+464 | 196408231997031001 | Drs. Oting Rudy Hidayat | 13-11-2014 | 07:11 | 18:26 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-13'
+465 | 196408231997031001 | Drs. Oting Rudy Hidayat | 14-11-2014 | 07:41 | 19:47 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-14'
+466 | 196408231997031001 | Drs. Oting Rudy Hidayat | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-15'
+467 | 196408231997031001 | Drs. Oting Rudy Hidayat | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-16'
+468 | 196408231997031001 | Drs. Oting Rudy Hidayat | 17-11-2014 | 08:15 | 16:06 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-17'
+469 | 196408231997031001 | Drs. Oting Rudy Hidayat | 18-11-2014 | 07:27 | 16:53 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-18'
+470 | 196408231997031001 | Drs. Oting Rudy Hidayat | 19-11-2014 | 07:18 | 18:38 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-19'
+471 | 196408231997031001 | Drs. Oting Rudy Hidayat | 20-11-2014 | 07:28 | 19:19 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-20'
+472 | 196408231997031001 | Drs. Oting Rudy Hidayat | 21-11-2014 | 07:48 | 18:50 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-21'
+473 | 196408231997031001 | Drs. Oting Rudy Hidayat | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-22'
+474 | 196408231997031001 | Drs. Oting Rudy Hidayat | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-23'
+475 | 196408231997031001 | Drs. Oting Rudy Hidayat | 24-11-2014 | 07:38 | 18:48 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-24'
+476 | 196408231997031001 | Drs. Oting Rudy Hidayat | 25-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-25'
+477 | 196408231997031001 | Drs. Oting Rudy Hidayat | 26-11-2014 | 07:27 | 18:18 | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-26'
+478 | 196408231997031001 | Drs. Oting Rudy Hidayat | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-27'
+479 | 196408231997031001 | Drs. Oting Rudy Hidayat | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-28'
+480 | 196408231997031001 | Drs. Oting Rudy Hidayat | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-29'
+481 | 196408231997031001 | Drs. Oting Rudy Hidayat | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196408231997031001' AND tanggal = '2014-11-30'
+482 | 195804301997031001 | Drs. Jusman | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-01'
+483 | 195804301997031001 | Drs. Jusman | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-02'
+484 | 195804301997031001 | Drs. Jusman | 03-11-2014 | 07:35 | 16:30 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-03'
+485 | 195804301997031001 | Drs. Jusman | 04-11-2014 | 08:49 | 16:04 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-04'
+486 | 195804301997031001 | Drs. Jusman | 05-11-2014 | 07:30 | 16:04 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-05'
+487 | 195804301997031001 | Drs. Jusman | 06-11-2014 | 09:38 | 16:09 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-06'
+488 | 195804301997031001 | Drs. Jusman | 07-11-2014 | 07:19 | 16:56 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-07'
+489 | 195804301997031001 | Drs. Jusman | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-08'
+490 | 195804301997031001 | Drs. Jusman | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-09'
+491 | 195804301997031001 | Drs. Jusman | 10-11-2014 | 07:41 | 16:12 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-10'
+492 | 195804301997031001 | Drs. Jusman | 11-11-2014 | 08:50 | 16:48 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-11'
+493 | 195804301997031001 | Drs. Jusman | 12-11-2014 | 07:32 | 16:08 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-12'
+494 | 195804301997031001 | Drs. Jusman | 13-11-2014 | 07:27 | 16:47 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-13'
+495 | 195804301997031001 | Drs. Jusman | 14-11-2014 | 07:24 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-14'
+496 | 195804301997031001 | Drs. Jusman | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-15'
+497 | 195804301997031001 | Drs. Jusman | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-16'
+498 | 195804301997031001 | Drs. Jusman | 17-11-2014 | 07:33 | 16:06 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-17'
+499 | 195804301997031001 | Drs. Jusman | 18-11-2014 | 08:54 | 16:08 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-18'
+500 | 195804301997031001 | Drs. Jusman | 19-11-2014 | 07:23 | 16:04 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-19'
+501 | 195804301997031001 | Drs. Jusman | 20-11-2014 | 09:34 | 16:06 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-20'
+502 | 195804301997031001 | Drs. Jusman | 21-11-2014 | 07:19 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-21'
+503 | 195804301997031001 | Drs. Jusman | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-22'
+504 | 195804301997031001 | Drs. Jusman | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-23'
+505 | 195804301997031001 | Drs. Jusman | 24-11-2014 | 07:35 | 16:07 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-24'
+506 | 195804301997031001 | Drs. Jusman | 25-11-2014 | 08:47 | 16:07 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-25'
+507 | 195804301997031001 | Drs. Jusman | 26-11-2014 | 06:40 | 16:03 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-26'
+508 | 195804301997031001 | Drs. Jusman | 27-11-2014 | 10:33 | 16:03 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-27'
+509 | 195804301997031001 | Drs. Jusman | 28-11-2014 | 08:30 | 16:33 | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-28'
+510 | 195804301997031001 | Drs. Jusman | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-29'
+511 | 195804301997031001 | Drs. Jusman | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '195804301997031001' AND tanggal = '2014-11-30'
+512 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-01'
+513 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-02'
+514 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 03-11-2014 | 07:14 | 16:28 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-03'
+515 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 04-11-2014 | 07:38 | 16:46 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-04'
+516 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 05-11-2014 | 07:28 | 17:21 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-05'
+517 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 06-11-2014 | 08:24 | 17:09 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-06'
+518 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 07-11-2014 | 08:13 | 17:01 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-07'
+519 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-08'
+520 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-09'
+521 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 10-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-10'
+522 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 11-11-2014 | 07:45 | 16:37 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-11'
+523 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 12-11-2014 | 07:21 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-12'
+524 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 13-11-2014 | 07:18 | 17:15 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-13'
+525 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 14-11-2014 | 07:21 | 17:16 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-14'
+526 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-15'
+527 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-16'
+528 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 17-11-2014 | 07:18 | 16:20 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-17'
+529 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 18-11-2014 | 07:19 | 16:58 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-18'
+530 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 19-11-2014 | 07:27 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-19'
+531 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 20-11-2014 | 07:22 | 17:19 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-20'
+532 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 21-11-2014 | 07:15 | 17:11 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-21'
+533 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-22'
+534 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-23'
+535 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 24-11-2014 | 08:08 | 16:00 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-24'
+536 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 25-11-2014 | 07:53 | 17:06 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-25'
+537 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 26-11-2014 | 07:21 | 16:05 | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-26'
+538 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-27'
+539 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-28'
+540 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-29'
+541 | 197107151998032001 | Ita Yulita, S.Si, M Hum | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197107151998032001' AND tanggal = '2014-11-30'
+542 | 197212241998032001 | Rini, S.Si | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-01'
+543 | 197212241998032001 | Rini, S.Si | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-02'
+544 | 197212241998032001 | Rini, S.Si | 03-11-2014 | 08:59 | 18:38 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-03'
+545 | 197212241998032001 | Rini, S.Si | 04-11-2014 | 08:51 | 18:24 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-04'
+546 | 197212241998032001 | Rini, S.Si | 05-11-2014 | 09:01 | 18:02 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-05'
+547 | 197212241998032001 | Rini, S.Si | 06-11-2014 | 08:52 | 18:30 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-06'
+548 | 197212241998032001 | Rini, S.Si | 07-11-2014 | 08:44 | 18:04 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-07'
+549 | 197212241998032001 | Rini, S.Si | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-08'
+550 | 197212241998032001 | Rini, S.Si | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-09'
+551 | 197212241998032001 | Rini, S.Si | 10-11-2014 | 08:55 | 18:31 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-10'
+552 | 197212241998032001 | Rini, S.Si | 11-11-2014 | 09:19 | 19:02 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-11'
+553 | 197212241998032001 | Rini, S.Si | 12-11-2014 | 09:17 | 19:51 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-12'
+554 | 197212241998032001 | Rini, S.Si | 13-11-2014 |  | 19:25 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-13'
+555 | 197212241998032001 | Rini, S.Si | 14-11-2014 | 08:46 | 18:16 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-14'
+556 | 197212241998032001 | Rini, S.Si | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-15'
+557 | 197212241998032001 | Rini, S.Si | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-16'
+558 | 197212241998032001 | Rini, S.Si | 17-11-2014 | 08:56 | 18:36 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-17'
+559 | 197212241998032001 | Rini, S.Si | 18-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-18'
+560 | 197212241998032001 | Rini, S.Si | 19-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-19'
+561 | 197212241998032001 | Rini, S.Si | 20-11-2014 | 07:30 | 17:02 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-20'
+562 | 197212241998032001 | Rini, S.Si | 21-11-2014 | 08:50 | 18:39 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-21'
+563 | 197212241998032001 | Rini, S.Si | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-22'
+564 | 197212241998032001 | Rini, S.Si | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-23'
+565 | 197212241998032001 | Rini, S.Si | 24-11-2014 | 08:54 | 16:00 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-24'
+566 | 197212241998032001 | Rini, S.Si | 25-11-2014 | 09:38 | 16:59 | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-25'
+567 | 197212241998032001 | Rini, S.Si | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-26'
+568 | 197212241998032001 | Rini, S.Si | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-27'
+569 | 197212241998032001 | Rini, S.Si | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-28'
+570 | 197212241998032001 | Rini, S.Si | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-29'
+571 | 197212241998032001 | Rini, S.Si | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197212241998032001' AND tanggal = '2014-11-30'
+572 | 196607161998031001 | Drs. Yulius Toding | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-01'
+573 | 196607161998031001 | Drs. Yulius Toding | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-02'
+574 | 196607161998031001 | Drs. Yulius Toding | 03-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-03'
+575 | 196607161998031001 | Drs. Yulius Toding | 04-11-2014 | 07:55 | 19:03 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-04'
+576 | 196607161998031001 | Drs. Yulius Toding | 05-11-2014 | 10:02 | 21:03 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-05'
+577 | 196607161998031001 | Drs. Yulius Toding | 06-11-2014 | 08:34 | 20:28 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-06'
+578 | 196607161998031001 | Drs. Yulius Toding | 07-11-2014 | 09:24 | 21:09 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-07'
+579 | 196607161998031001 | Drs. Yulius Toding | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-08'
+580 | 196607161998031001 | Drs. Yulius Toding | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-09'
+581 | 196607161998031001 | Drs. Yulius Toding | 10-11-2014 | 09:08 | 19:39 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-10'
+582 | 196607161998031001 | Drs. Yulius Toding | 11-11-2014 | 07:14 | 20:35 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-11'
+583 | 196607161998031001 | Drs. Yulius Toding | 12-11-2014 | 07:28 | 16:03 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-12'
+584 | 196607161998031001 | Drs. Yulius Toding | 13-11-2014 | 07:18 | 19:20 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-13'
+585 | 196607161998031001 | Drs. Yulius Toding | 14-11-2014 | 09:46 | 19:18 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-14'
+586 | 196607161998031001 | Drs. Yulius Toding | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-15'
+587 | 196607161998031001 | Drs. Yulius Toding | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-16'
+588 | 196607161998031001 | Drs. Yulius Toding | 17-11-2014 | 09:55 | 19:23 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-17'
+589 | 196607161998031001 | Drs. Yulius Toding | 18-11-2014 | 05:57 | 19:01 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-18'
+590 | 196607161998031001 | Drs. Yulius Toding | 19-11-2014 | 08:52 | 17:50 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-19'
+591 | 196607161998031001 | Drs. Yulius Toding | 20-11-2014 | 09:55 | 19:43 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-20'
+592 | 196607161998031001 | Drs. Yulius Toding | 21-11-2014 | 09:29 | 19:45 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-21'
+593 | 196607161998031001 | Drs. Yulius Toding | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-22'
+594 | 196607161998031001 | Drs. Yulius Toding | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-23'
+595 | 196607161998031001 | Drs. Yulius Toding | 24-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-24'
+596 | 196607161998031001 | Drs. Yulius Toding | 25-11-2014 | 08:33 | 18:55 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-25'
+597 | 196607161998031001 | Drs. Yulius Toding | 26-11-2014 | 08:01 | 17:40 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-26'
+598 | 196607161998031001 | Drs. Yulius Toding | 27-11-2014 | 08:31 | 19:25 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-27'
+599 | 196607161998031001 | Drs. Yulius Toding | 28-11-2014 | 09:18 | 20:55 | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-28'
+600 | 196607161998031001 | Drs. Yulius Toding | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-29'
+601 | 196607161998031001 | Drs. Yulius Toding | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196607161998031001' AND tanggal = '2014-11-30'
+602 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-01'
+603 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-02'
+604 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 03-11-2014 | 07:46 | 17:01 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-03'
+605 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 04-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-04'
+606 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 05-11-2014 | 07:59 | 17:16 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-05'
+607 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 06-11-2014 | 08:39 | 19:44 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-06'
+608 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 07-11-2014 | 11:36 | 18:29 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-07'
+609 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-08'
+610 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-09'
+611 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 10-11-2014 | 08:15 | 19:45 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-10'
+612 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 11-11-2014 | 06:44 | 20:37 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-11'
+613 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 12-11-2014 | 08:19 | 19:03 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-12'
+614 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 13-11-2014 | 13:22 | 17:19 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-13'
+615 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 14-11-2014 | 07:40 | 19:18 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-14'
+616 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-15'
+617 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-16'
+618 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 17-11-2014 | 07:45 | 17:04 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-17'
+619 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 18-11-2014 | 07:43 | 19:38 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-18'
+620 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 19-11-2014 | 08:53 | 18:45 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-19'
+621 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 20-11-2014 | 08:50 | 19:27 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-20'
+622 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 21-11-2014 | 07:55 | 20:01 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-21'
+623 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-22'
+624 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-23'
+625 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 24-11-2014 | 08:56 | 18:48 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-24'
+626 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 25-11-2014 | 07:30 | 18:56 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-25'
+627 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 26-11-2014 | 07:43 | 17:38 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-26'
+628 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 27-11-2014 | 07:48 | 19:39 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-27'
+629 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 28-11-2014 | 08:18 | 19:10 | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-28'
+630 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-29'
+631 | 197012141999032001 | Desrika Retno Widyastuti, S.S | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197012141999032001' AND tanggal = '2014-11-30'
+632 | 197407152000032002 | Dyah Sulistiyani | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-01'
+633 | 197407152000032002 | Dyah Sulistiyani | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-02'
+634 | 197407152000032002 | Dyah Sulistiyani | 03-11-2014 | 07:18 | 16:24 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-03'
+635 | 197407152000032002 | Dyah Sulistiyani | 04-11-2014 | 07:37 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-04'
+636 | 197407152000032002 | Dyah Sulistiyani | 05-11-2014 | 07:45 | 16:00 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-05'
+637 | 197407152000032002 | Dyah Sulistiyani | 06-11-2014 | 07:11 | 16:10 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-06'
+638 | 197407152000032002 | Dyah Sulistiyani | 07-11-2014 | 07:23 | 16:30 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-07'
+639 | 197407152000032002 | Dyah Sulistiyani | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-08'
+640 | 197407152000032002 | Dyah Sulistiyani | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-09'
+641 | 197407152000032002 | Dyah Sulistiyani | 10-11-2014 | 08:24 | 17:05 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-10'
+642 | 197407152000032002 | Dyah Sulistiyani | 11-11-2014 | 07:36 | 16:31 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-11'
+643 | 197407152000032002 | Dyah Sulistiyani | 12-11-2014 | 07:17 | 16:11 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-12'
+644 | 197407152000032002 | Dyah Sulistiyani | 13-11-2014 | 07:31 | 17:15 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-13'
+645 | 197407152000032002 | Dyah Sulistiyani | 14-11-2014 | 07:19 | 16:45 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-14'
+646 | 197407152000032002 | Dyah Sulistiyani | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-15'
+647 | 197407152000032002 | Dyah Sulistiyani | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-16'
+648 | 197407152000032002 | Dyah Sulistiyani | 17-11-2014 | 07:40 | 16:34 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-17'
+649 | 197407152000032002 | Dyah Sulistiyani | 18-11-2014 | 07:40 | 16:39 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-18'
+650 | 197407152000032002 | Dyah Sulistiyani | 19-11-2014 | 07:41 | 16:45 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-19'
+651 | 197407152000032002 | Dyah Sulistiyani | 20-11-2014 | 08:14 | 17:20 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-20'
+652 | 197407152000032002 | Dyah Sulistiyani | 21-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-21'
+653 | 197407152000032002 | Dyah Sulistiyani | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-22'
+654 | 197407152000032002 | Dyah Sulistiyani | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-23'
+655 | 197407152000032002 | Dyah Sulistiyani | 24-11-2014 | 08:17 | 17:00 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-24'
+656 | 197407152000032002 | Dyah Sulistiyani | 25-11-2014 | 09:09 | 16:42 | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-25'
+657 | 197407152000032002 | Dyah Sulistiyani | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-26'
+658 | 197407152000032002 | Dyah Sulistiyani | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-27'
+659 | 197407152000032002 | Dyah Sulistiyani | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-28'
+660 | 197407152000032002 | Dyah Sulistiyani | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-29'
+661 | 197407152000032002 | Dyah Sulistiyani | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197407152000032002' AND tanggal = '2014-11-30'
+662 | 196902201989021001 | Sutrisno, SPd | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-01'
+663 | 196902201989021001 | Sutrisno, SPd | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-02'
+664 | 196902201989021001 | Sutrisno, SPd | 03-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-03'
+665 | 196902201989021001 | Sutrisno, SPd | 04-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-04'
+666 | 196902201989021001 | Sutrisno, SPd | 05-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-05'
+667 | 196902201989021001 | Sutrisno, SPd | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-06'
+668 | 196902201989021001 | Sutrisno, SPd | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-07'
+669 | 196902201989021001 | Sutrisno, SPd | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-08'
+670 | 196902201989021001 | Sutrisno, SPd | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-09'
+671 | 196902201989021001 | Sutrisno, SPd | 10-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-10'
+672 | 196902201989021001 | Sutrisno, SPd | 11-11-2014 | 09:35 | 19:18 | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-11'
+673 | 196902201989021001 | Sutrisno, SPd | 12-11-2014 | 10:02 |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-12'
+674 | 196902201989021001 | Sutrisno, SPd | 13-11-2014 |  | 17:35 | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-13'
+675 | 196902201989021001 | Sutrisno, SPd | 14-11-2014 | 09:21 | 20:01 | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-14'
+676 | 196902201989021001 | Sutrisno, SPd | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-15'
+677 | 196902201989021001 | Sutrisno, SPd | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-16'
+678 | 196902201989021001 | Sutrisno, SPd | 17-11-2014 | 09:46 | 18:40 | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-17'
+679 | 196902201989021001 | Sutrisno, SPd | 18-11-2014 | 10:14 | 17:05 | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-18'
+680 | 196902201989021001 | Sutrisno, SPd | 19-11-2014 | 09:58 | 18:37 | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-19'
+681 | 196902201989021001 | Sutrisno, SPd | 20-11-2014 | 10:11 | 18:36 | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-20'
+682 | 196902201989021001 | Sutrisno, SPd | 21-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-21'
+683 | 196902201989021001 | Sutrisno, SPd | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-22'
+684 | 196902201989021001 | Sutrisno, SPd | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-23'
+685 | 196902201989021001 | Sutrisno, SPd | 24-11-2014 | 08:30 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-24'
+686 | 196902201989021001 | Sutrisno, SPd | 25-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-25'
+687 | 196902201989021001 | Sutrisno, SPd | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-26'
+688 | 196902201989021001 | Sutrisno, SPd | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-27'
+689 | 196902201989021001 | Sutrisno, SPd | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-28'
+690 | 196902201989021001 | Sutrisno, SPd | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-29'
+691 | 196902201989021001 | Sutrisno, SPd | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '196902201989021001' AND tanggal = '2014-11-30'
+692 | 197401042005021001 | Gunawan, SS | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-01'
+693 | 197401042005021001 | Gunawan, SS | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-02'
+694 | 197401042005021001 | Gunawan, SS | 03-11-2014 | 08:57 | 18:26 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-03'
+695 | 197401042005021001 | Gunawan, SS | 04-11-2014 | 08:49 | 19:26 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-04'
+696 | 197401042005021001 | Gunawan, SS | 05-11-2014 | 08:53 | 18:05 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-05'
+697 | 197401042005021001 | Gunawan, SS | 06-11-2014 | 08:56 | 19:03 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-06'
+698 | 197401042005021001 | Gunawan, SS | 07-11-2014 | 08:53 | 21:07 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-07'
+699 | 197401042005021001 | Gunawan, SS | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-08'
+700 | 197401042005021001 | Gunawan, SS | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-09'
+701 | 197401042005021001 | Gunawan, SS | 10-11-2014 | 09:03 | 19:58 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-10'
+702 | 197401042005021001 | Gunawan, SS | 11-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-11'
+703 | 197401042005021001 | Gunawan, SS | 12-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-12'
+704 | 197401042005021001 | Gunawan, SS | 13-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-13'
+705 | 197401042005021001 | Gunawan, SS | 14-11-2014 | 08:53 | 19:43 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-14'
+706 | 197401042005021001 | Gunawan, SS | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-15'
+707 | 197401042005021001 | Gunawan, SS | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-16'
+708 | 197401042005021001 | Gunawan, SS | 17-11-2014 | 09:27 | 20:36 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-17'
+709 | 197401042005021001 | Gunawan, SS | 18-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-18'
+710 | 197401042005021001 | Gunawan, SS | 19-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-19'
+711 | 197401042005021001 | Gunawan, SS | 20-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-20'
+712 | 197401042005021001 | Gunawan, SS | 21-11-2014 | 08:57 | 18:58 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-21'
+713 | 197401042005021001 | Gunawan, SS | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-22'
+714 | 197401042005021001 | Gunawan, SS | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-23'
+715 | 197401042005021001 | Gunawan, SS | 24-11-2014 | 08:58 | 18:37 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-24'
+716 | 197401042005021001 | Gunawan, SS | 25-11-2014 | 09:47 | 19:11 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-25'
+717 | 197401042005021001 | Gunawan, SS | 26-11-2014 | 08:49 | 18:33 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-26'
+718 | 197401042005021001 | Gunawan, SS | 27-11-2014 | 09:00 | 17:33 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-27'
+719 | 197401042005021001 | Gunawan, SS | 28-11-2014 | 09:18 | 20:55 | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-28'
+720 | 197401042005021001 | Gunawan, SS | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-29'
+721 | 197401042005021001 | Gunawan, SS | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197401042005021001' AND tanggal = '2014-11-30'
+722 | 197104151992031001 | Safei, SE | 01-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-01'
+723 | 197104151992031001 | Safei, SE | 02-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-02'
+724 | 197104151992031001 | Safei, SE | 03-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-03'
+725 | 197104151992031001 | Safei, SE | 04-11-2014 | 08:40 | 20:06 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-04'
+726 | 197104151992031001 | Safei, SE | 05-11-2014 | 08:45 | 21:03 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-05'
+727 | 197104151992031001 | Safei, SE | 06-11-2014 | 08:44 | 20:11 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-06'
+728 | 197104151992031001 | Safei, SE | 07-11-2014 | 08:57 | 20:30 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-07'
+729 | 197104151992031001 | Safei, SE | 08-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-08'
+730 | 197104151992031001 | Safei, SE | 09-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-09'
+731 | 197104151992031001 | Safei, SE | 10-11-2014 | 08:40 | 20:03 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-10'
+732 | 197104151992031001 | Safei, SE | 11-11-2014 | 07:38 | 20:34 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-11'
+733 | 197104151992031001 | Safei, SE | 12-11-2014 | 09:41 | 19:30 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-12'
+734 | 197104151992031001 | Safei, SE | 13-11-2014 | 08:24 | 19:20 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-13'
+735 | 197104151992031001 | Safei, SE | 14-11-2014 | 07:30 | 19:18 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-14'
+736 | 197104151992031001 | Safei, SE | 15-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-15'
+737 | 197104151992031001 | Safei, SE | 16-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-16'
+738 | 197104151992031001 | Safei, SE | 17-11-2014 | 09:39 | 19:23 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-17'
+739 | 197104151992031001 | Safei, SE | 18-11-2014 | 09:09 | 19:04 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-18'
+740 | 197104151992031001 | Safei, SE | 19-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-19'
+741 | 197104151992031001 | Safei, SE | 20-11-2014 | 08:57 | 20:24 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-20'
+742 | 197104151992031001 | Safei, SE | 21-11-2014 | 08:55 | 19:44 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-21'
+743 | 197104151992031001 | Safei, SE | 22-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-22'
+744 | 197104151992031001 | Safei, SE | 23-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-23'
+745 | 197104151992031001 | Safei, SE | 24-11-2014 | 10:21 | 19:16 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-24'
+746 | 197104151992031001 | Safei, SE | 25-11-2014 | 08:51 | 18:54 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-25'
+747 | 197104151992031001 | Safei, SE | 26-11-2014 | 09:10 | 22:28 | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-26'
+748 | 197104151992031001 | Safei, SE | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-27'
+749 | 197104151992031001 | Safei, SE | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-28'
+750 | 197104151992031001 | Safei, SE | 29-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-29'
+751 | 197104151992031001 | Safei, SE | 30-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197104151992031001' AND tanggal = '2014-11-30'
+752 |  |  |  |  |  | 
+753 |  |  |  |  |  | 
+754 |  |  |  |  |  | 
+755 |  |  |  |  |  | 
+756 |  |  |  |  |  | 
+757 |  |  |  |  |  | 
+758 |  |  |  |  |  | 
+759 |  |  |  |  |  | 
+760 |  |  |  |  |  | 
+761 |  |  |  |  |  | 
+762 |  |  |  |  |  | 
+763 |  |  |  |  |  | 
+764 |  |  |  |  |  | 
+765 |  |  |  |  |  | 
+766 |  |  |  |  |  | 
+767 |  |  |  |  |  | 
+768 |  |  |  |  |  | 
+769 |  |  |  |  |  | 
+770 |  |  |  |  |  | 
+771 |  |  |  |  |  | 
+772 |  |  |  |  |  | 
+773 |  |  |  |  |  | 
+774 |  |  |  |  |  | 
+775 |  |  |  |  |  | 
+776 |  |  |  |  |  | 

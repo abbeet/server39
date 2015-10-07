@@ -1,0 +1,232 @@
+ body {
+	margin: 0 0 0;
+	text-align: left;
+	
+}
+
+#leftmenu {
+	color: #557392;
+	background-color:#edf6ff;
+	font:Geneva, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	}
+.leftmenu01 {
+	color: #557392;
+	background-color:#edf6ff;
+	font:Geneva, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight: bold;
+	
+	}
+.header {
+		background-image: url(/images/header/images/header_01.gif);
+		width:1024;
+		
+		height:98;
+}
+
+
+#loginbox {
+	width: 230px;
+	height: 220px;	
+}
+.loginb {
+	background: url(../images/img_loginbox1.gif) no-repeat;
+}
+
+
+
+<!--sub header-->
+.subheader {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:16px;
+}
+<!--sub header end-->
+
+#logintext {
+	margin-left: 20px;
+	margin-top: 55px;
+	text-align: left;
+	color: #557392;
+	font: 11px Tahoma, Arial, Helvetica, sans-serif;
+}
+#content {
+	background: url(../images/bg_cont.gif);
+}
+#menu {
+	background: url(../images/bg_menu.gif);
+}
+.tmenu {
+	margin-left: 15px;
+	font: 12px Tahoma, Arial, Helvetica, sans-serif;
+	line-height: 20px;
+}
+.tmenu A {
+	text-decoration: none;
+	color: #557392;
+}
+.tmenu A:hover {
+	text-decoration: underline;
+	color: #CC405E;
+}
+.tcont {
+	padding: 15px;
+	margin-right: 10px;
+	color: #2E5A86;
+	font: 11px Tahoma, Arial, Helvetica, sans-serif;
+	line-height: 20px;
+}
+.handler {
+	width: 570px;
+   	height: 350px;
+   	overflow: auto;
+}
+.title {
+	color: #6690B9;
+	font: 12px Tahoma, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	line-height: 20px;
+}
+.tfield {
+	padding: 2px;
+	color: #5F88B2;
+	line-height: 20px;
+	height: 20px;
+	width: 150px;
+	background: #F6FBFF;
+	font: 11px Tahoma, Arial, Helvetica, sans-serif;
+	border: 1px solid #CAD7E3;
+}
+.button {
+	margin-left: 130px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #5aa4f1;
+	text-transform: none;
+}
+
+
+.title2 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+  color: #000000;
+  font-weight: bold;
+}
+
+.tabtitle {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+  color: #FFFFFF;
+  font-weight: bold;
+  background: #006699;
+}
+
+.alt_tab_title{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+  color: #000000;
+  font-weight: bold;
+  background: #FFFFFF;  
+}
+
+.tabel1{
+  font-family: Arial;
+  font-size: 10pt;
+  border: #006699 solid 1px;
+  border-collapse: collapse;  
+}
+.tabel2 {
+	font: 12px Tahoma, Arial, Helvetica, sans-serif;
+}
+.tabborder {
+  border: #006699 solid 1px;
+  border-collapse: collapse;
+}
+
+.borderan {
+  border: #000000 solid 1px;
+  border-collapse: collapse; 
+}
+
+.text {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #000000}
+.menutext {  font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 8pt; color: #000000}
+.textputih {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #FFFFFF}
+.menukiri {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #3366CC; text-decoration:none }
+.textlink {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #00ff33}
+.putih {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #FFFFFF}
+
+.formtext {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+  border-left: #999999 solid 1px;
+  border-top: #999999 solid 1px;
+  border-right: #000000 solid 2px;
+  border-bottom: #000000 solid 2px;
+}
+
+.formselect {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+}
+
+.formbutton {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+  color: #FFFFFF;
+  border-left: #3366CC solid 1px;
+  border-top: #3366CC solid 1px;
+  border-right: #000000 solid 2px;
+  border-bottom: #000000 solid 2px;
+  background: #3366CC;
+  cursor: hand;
+}
+
+a {
+  color: #3366CC;
+  text-decoration: none;
+}
+a:link {
+  color: #3366CC;
+  text-decoration: none;
+}
+a:visited {
+  color: #3366CC;
+  text-decoration: none;
+}
+a:hover {
+  color: #FF0000;
+  text-decoration: none;
+}
+.navBtn
+{
+  font-family: webdings;
+  font-size: 10px;
+  padding: -2px;
+  margin: 0px;
+  height: 22px;
+}
+.navSelect
+{FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica}
+
+a.text {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+a:link.text {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+a:visited.text {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+a:hover.text {
+  color: #FF0000;
+  text-decoration: none;
+}
+.fontred {
+	color: #FF0000;
+}

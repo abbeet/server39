@@ -1,0 +1,78 @@
+			
+			<table cellspacing="0" width="100%">   
+            <tr><td><hr /></td></tr>   	
+				<tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="center" style="width:1px; padding: 0 10px; white-space: nowrap;"><strong>Prospektus Pelatihan</strong></td>
+				</tr>
+                <tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="center" style="width:1px; padding: 0 10px; white-space: nowrap;"><strong>Pemrograman PHP-MySQL Tingkat Dasar</strong></td>
+				</tr>
+                <tr><td><hr /><br /></td></tr>
+
+			</table>
+<table style="font:12pt  Arial, Helvetica, sans-serif;">
+				<tr>
+					<td width="151" >Tempat</td>
+					<td width="94">: PPIN</td>
+				</tr>
+				<tr>
+					<td >Tanggal</td>
+					<td colspan="6">: 10 - 14 September 2012</td>
+				</tr>
+				<tr>
+					<td >Jumlah Peserta</td>
+					<td colspan="6">: 30 - 35 orang</td>
+				</tr>
+				<tr>
+					<td >Persyaratan</td>
+					<td colspan="6">: IPA/IPS</td>
+					
+				</tr>
+                <tr>
+					<td >Kualifikasi Peserta</td>
+					<td colspan="6">: Memahami pengoperasian komputer dan logika dasar pemprograman komputer</td>
+					
+				</tr>
+
+			</table>
+<table cellspacing="0" width="100%">      	
+				<tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="left" ><br />
+                    <strong>Latar Belakang</strong></td>
+  </tr>
+				<tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="justify" >Sesuai dngan kebijakan BATAN mengembangkan dan mengoperasikan program komputer apilkasi berbasis open source. Khusus program komputer aplikasi yang dikembangkan sendiri, seluruhnya menggunakan PHP-MySQL, dalam hal ini diperlukan pemahaman dasar untuk tingkat penggunaan diseluruh satker yang berada dilingkungan BATAN.</td>
+				</tr>
+                <br />
+                <tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="justify" >Dengan diadakannya pelatihan ini, para peserta pelatihan dapat memperoleh pemahaman dasar tentang PHP-MySQL. Dengan demikian diharapkan dapat menjadi mitra pengoperasian paket program komputer aplikasi yang telah dikembangkan dan dioperasikan di BATAN.</td>
+				</tr>
+                <br />
+                <tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="justify" >Dengan dapat dioperasikannya program komputer aplikasi sistem informasi sebagai alat bantu manajemen di seluruh satker diharapkan dapat meningkatkan efektivitas dan efisiensi kinerja manajemen, yang pada gilirannya akan meningkatkan produktivitas kinerja BATAN.<br /></td>
+				</tr>
+                	<tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="left" ><br /><strong>Tujuan Pelatihan</strong></td>
+  </tr>
+				<tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="justify" >Menyiapkan SDM dengan kemampuan dasar pemprograman dengan menggunakan PHP-MySQL<br /></td>
+				</tr>
+					<tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="left" ><br /><strong>Indikator Keberhasilan Pelatihan</strong></td>
+  </tr>
+				<tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="justify" >Setelah mengikuti pelatihan ini, peserta akan mampu untuk:
+1. memahami dan mengaplikasikan dasar-dasar pemprograman berbasis web dengan menggunakan PHP-MySQL;
+2. melakukan instalasi dan mengoperasikan paket program komputer aplikasi system informasi yang telah dikembangkan dengan PHP-MySQL.<br /></td>
+				</tr>
+                	<tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="left" ><br /><strong>Hasil Pelatihan/Outcome</strong></td>
+  </tr>
+				<tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="justify" >Mampu melaksanakan bimbingan pengoperasian paket komputer aplikasi system informasi kepada pengguna akhir diunit kerjanya masing-masing.</td>
+				</tr>
+                <tr style="font: 12pt Arial, Helvetica, sans-serif">
+					<td align="justify" >Peningkatan kemampuan SDM dalam hal pengelolaan paket program komputer aplikasi sebagai alat bantu manajemen.</td>
+				</tr>
+                
+</table>

@@ -1,0 +1,5387 @@
+
+
+====================================
+Log started, 30/11/2013 09:11:36
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321710' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321710'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0109069347382ms
+
+
+
+====================================
+Log started, 30/11/2013 09:11:04
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321710' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321710'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0107998847961ms
+
+
+
+====================================
+Log started, 30/11/2013 09:11:45
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321710' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321710'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0145809650421ms
+
+
+
+====================================
+Log started, 02/12/2013 10:12:29
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2323510' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2323510'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.032812833786ms
+
+
+
+====================================
+Log started, 02/12/2013 12:12:06
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322210' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322210'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0117700099945ms
+
+
+
+====================================
+Log started, 02/12/2013 03:12:26
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322210' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322210'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0186488628387ms
+
+
+
+====================================
+Log started, 02/12/2013 03:12:32
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322210' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322210'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0118088722229ms
+
+
+
+====================================
+Log started, 03/12/2013 07:12:08
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0136799812317ms
+
+
+
+====================================
+Log started, 03/12/2013 07:12:29
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0138399600983ms
+
+
+
+====================================
+Log started, 03/12/2013 02:12:25
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0645689964294ms
+
+
+
+====================================
+Log started, 03/12/2013 02:12:16
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0127758979797ms
+
+
+
+====================================
+Log started, 03/12/2013 02:12:11
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.013641834259ms
+
+
+
+====================================
+Log started, 03/12/2013 02:12:16
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0169019699097ms
+
+
+
+====================================
+Log started, 04/12/2013 10:12:19
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321610' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321610'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0126268863678ms
+
+
+
+====================================
+Log started, 05/12/2013 11:12:39
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322610' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322610'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0433619022369ms
+
+
+
+====================================
+Log started, 05/12/2013 11:12:05
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322610' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322610'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0232779979706ms
+
+
+
+====================================
+Log started, 06/12/2013 06:12:33
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322210' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322210'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0343008041382ms
+
+
+
+====================================
+Log started, 06/12/2013 06:12:06
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322210' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322210'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0207970142365ms
+
+
+
+====================================
+Log started, 09/12/2013 10:12:30
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0349540710449ms
+
+
+
+====================================
+Log started, 09/12/2013 10:12:58
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0123488903046ms
+
+
+
+====================================
+Log started, 09/12/2013 10:12:10
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0124659538269ms
+
+
+
+====================================
+Log started, 09/12/2013 10:12:53
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0124678611755ms
+
+
+
+====================================
+Log started, 09/12/2013 10:12:39
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0116119384766ms
+
+
+
+====================================
+Log started, 09/12/2013 01:12:59
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322410' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322410'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0131280422211ms
+
+
+
+====================================
+Log started, 12/12/2013 09:12:39
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0427010059357ms
+
+
+
+====================================
+Log started, 14/12/2013 11:12:53
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2323710' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2323710'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0637729167938ms
+
+
+
+====================================
+Log started, 14/12/2013 11:12:39
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2323710' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2323710'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0124130249023ms
+
+
+
+====================================
+Log started, 16/12/2013 07:12:32
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322210' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322210'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0123019218445ms
+
+
+
+====================================
+Log started, 16/12/2013 11:12:42
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321410' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321410'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0477290153503ms
+
+
+
+====================================
+Log started, 16/12/2013 11:12:38
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321410' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321410'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.013179063797ms
+
+
+
+====================================
+Log started, 16/12/2013 11:12:23
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321410' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321410'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.013473033905ms
+
+
+
+====================================
+Log started, 19/12/2013 03:12:31
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321410' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321410'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0960700511932ms
+
+
+
+====================================
+Log started, 06/01/2014 10:01:00
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.077488899231ms
+
+
+
+====================================
+Log started, 06/01/2014 10:01:18
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0157148838043ms
+
+
+
+====================================
+Log started, 09/01/2014 01:01:53
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2323210' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2323210'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0712780952454ms
+
+
+
+====================================
+Log started, 09/01/2014 01:01:33
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2323210' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2323210'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0126359462738ms
+
+
+
+====================================
+Log started, 09/01/2014 01:01:39
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2323210' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2323210'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0127699375153ms
+
+
+
+====================================
+Log started, 16/01/2014 03:01:28
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320200' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320200'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0975930690765ms
+
+
+
+====================================
+Log started, 06/02/2014 01:02:56
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0583529472351ms
+
+
+
+====================================
+Log started, 05/03/2014 10:03:24
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321410' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321410'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0639269351959ms
+
+
+
+====================================
+Log started, 17/03/2014 01:03:14
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321410' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321410'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.066342830658ms
+
+
+
+====================================
+Log started, 19/03/2014 08:03:07
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320200' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320200'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0648970603943ms
+
+
+
+====================================
+Log started, 20/03/2014 09:03:48
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320200' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320200'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0133969783783ms
+
+
+
+====================================
+Log started, 11/04/2014 09:04:03
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320910' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320910'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0619277954102ms
+
+
+
+====================================
+Log started, 16/04/2014 08:04:15
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320910' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320910'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0734081268311ms
+
+
+
+====================================
+Log started, 21/06/2014 03:06:21
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) at C:\xampp\htdocs\sitpdik\lib\codebase\db_mysql.php line 10
+
+mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established at C:\xampp\htdocs\sitpdik\lib\codebase\db_mysql.php line 10
+
+MySQL error: Access denied for user 'ODBC'@'localhost' (using password: NO)
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) at C:\xampp\htdocs\sitpdik\lib\codebase\db_mysql.php line 10
+
+mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established at C:\xampp\htdocs\sitpdik\lib\codebase\db_mysql.php line 10
+
+MySQL error: Access denied for user 'ODBC'@'localhost' (using password: NO)
+
+Critical error in Connector, processing stoped.
+
+Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\sitpdik\menus\surat_keluar\01_basic_connector.php:14) at C:\xampp\htdocs\sitpdik\lib\codebase\base_connector.php line 128
+
+
+
+====================================
+Log started, 21/06/2014 03:06:47
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00415992736816ms
+
+
+
+====================================
+Log started, 21/06/2014 03:06:51
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+rules => 
+	0 => 
+		0 => Perihal
+		1 => un
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  AND Perihal LIKE '%un%'
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  AND Perihal LIKE '%un%' ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00329899787903ms
+
+
+
+====================================
+Log started, 08/09/2014 03:09:52
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2300000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2300000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00858616828918ms
+
+
+
+====================================
+Log started, 09/09/2014 02:09:13
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2300000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2300000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00210690498352ms
+
+
+
+====================================
+Log started, 09/09/2014 02:09:31
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2300000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2300000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00238609313965ms
+
+
+
+====================================
+Log started, 09/09/2014 02:09:34
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2300000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2300000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00173878669739ms
+
+
+
+====================================
+Log started, 09/09/2014 02:09:37
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2300000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2300000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00182604789734ms
+
+
+
+====================================
+Log started, 09/09/2014 02:09:39
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+rules => 
+	0 => 
+		0 => Perihal
+		1 => test
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2300000'  AND Perihal LIKE '%test%'
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2300000'  AND Perihal LIKE '%test%' ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00180196762085ms
+
+
+
+====================================
+Log started, 09/09/2014 02:09:53
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00170993804932ms
+
+
+
+====================================
+Log started, 09/09/2014 03:09:51
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320200' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320200'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00336599349976ms
+
+
+
+====================================
+Log started, 09/09/2014 03:09:58
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320200' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320200'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0032958984375ms
+
+
+
+====================================
+Log started, 09/09/2014 04:09:36
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00286293029785ms
+
+
+
+====================================
+Log started, 09/09/2014 04:09:02
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00347590446472ms
+
+
+
+====================================
+Log started, 09/09/2014 04:09:26
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00256609916687ms
+
+
+
+====================================
+Log started, 10/09/2014 01:09:13
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2300000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2300000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00223517417908ms
+
+
+
+====================================
+Log started, 19/09/2014 05:09:19
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0637807846069ms
+
+
+
+====================================
+Log started, 19/09/2014 05:09:24
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00150203704834ms
+
+
+
+====================================
+Log started, 20/10/2014 10:10:15
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0242438316345ms
+
+
+
+====================================
+Log started, 31/10/2014 11:10:19
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0027768611908ms
+
+
+
+====================================
+Log started, 27/11/2014 09:11:41
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0287849903107ms
+
+
+
+====================================
+Log started, 27/11/2014 09:11:21
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00252103805542ms
+
+
+
+====================================
+Log started, 27/11/2014 09:11:20
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00232696533203ms
+
+
+
+====================================
+Log started, 27/11/2014 09:11:46
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00246596336365ms
+
+
+
+====================================
+Log started, 03/12/2014 08:12:53
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2323611' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2323611'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0247659683228ms
+
+
+
+====================================
+Log started, 04/12/2014 09:12:39
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00260996818542ms
+
+
+
+====================================
+Log started, 04/12/2014 09:12:40
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00284790992737ms
+
+
+
+====================================
+Log started, 05/12/2014 09:12:59
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00355696678162ms
+
+
+
+====================================
+Log started, 05/12/2014 10:12:22
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00304388999939ms
+
+
+
+====================================
+Log started, 05/12/2014 10:12:06
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00247883796692ms
+
+
+
+====================================
+Log started, 05/12/2014 03:12:18
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00225710868835ms
+
+
+
+====================================
+Log started, 05/12/2014 05:12:23
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00246095657349ms
+
+
+
+====================================
+Log started, 06/12/2014 08:12:29
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00254011154175ms
+
+
+
+====================================
+Log started, 06/12/2014 09:12:32
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322012' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322012'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00245213508606ms
+
+
+
+====================================
+Log started, 06/12/2014 09:12:50
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321001' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321001'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00240802764893ms
+
+
+
+====================================
+Log started, 06/12/2014 09:12:52
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321710' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321710'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00172209739685ms
+
+
+
+====================================
+Log started, 06/12/2014 09:12:39
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322410' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322410'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00185990333557ms
+
+
+
+====================================
+Log started, 06/12/2014 10:12:59
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00221705436707ms
+
+
+
+====================================
+Log started, 06/12/2014 10:12:16
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00222396850586ms
+
+
+
+====================================
+Log started, 06/12/2014 10:12:30
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00240421295166ms
+
+
+
+====================================
+Log started, 06/12/2014 10:12:35
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00240588188171ms
+
+
+
+====================================
+Log started, 06/12/2014 10:12:04
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00222706794739ms
+
+
+
+====================================
+Log started, 08/12/2014 01:12:52
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322110' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322110'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0024528503418ms
+
+
+
+====================================
+Log started, 17/12/2014 08:12:05
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00355696678162ms
+
+
+
+====================================
+Log started, 17/12/2014 08:12:34
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00283885002136ms
+
+
+
+====================================
+Log started, 08/01/2015 02:01:31
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00917291641235ms
+
+
+
+====================================
+Log started, 08/01/2015 03:01:27
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00251698493958ms
+
+
+
+====================================
+Log started, 08/01/2015 03:01:17
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00239205360413ms
+
+
+
+====================================
+Log started, 11/01/2015 07:01:45
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00267601013184ms
+
+
+
+====================================
+Log started, 11/01/2015 07:01:04
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00272917747498ms
+
+
+
+====================================
+Log started, 11/01/2015 07:01:56
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00234985351562ms
+
+
+
+====================================
+Log started, 11/01/2015 07:01:50
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00217080116272ms
+
+
+
+====================================
+Log started, 11/01/2015 07:01:21
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00217604637146ms
+
+
+
+====================================
+Log started, 11/01/2015 07:01:15
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00275087356567ms
+
+
+
+====================================
+Log started, 12/01/2015 08:01:05
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00331711769104ms
+
+
+
+====================================
+Log started, 13/01/2015 02:01:42
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00350499153137ms
+
+
+
+====================================
+Log started, 15/01/2015 08:01:07
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321001' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321001'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00183916091919ms
+
+
+
+====================================
+Log started, 15/01/2015 09:01:15
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00298309326172ms
+
+
+
+====================================
+Log started, 19/01/2015 02:01:25
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00232481956482ms
+
+
+
+====================================
+Log started, 19/01/2015 02:01:46
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00149202346802ms
+
+
+
+====================================
+Log started, 19/01/2015 02:01:01
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00161695480347ms
+
+
+
+====================================
+Log started, 19/01/2015 02:01:11
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00146698951721ms
+
+
+
+====================================
+Log started, 20/01/2015 05:01:13
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0227560997009ms
+
+
+
+====================================
+Log started, 29/01/2015 02:01:28
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0095648765564ms
+
+
+
+====================================
+Log started, 29/01/2015 02:01:52
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00287699699402ms
+
+
+
+====================================
+Log started, 30/01/2015 02:01:35
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.010479927063ms
+
+
+
+====================================
+Log started, 30/01/2015 03:01:51
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00235390663147ms
+
+
+
+====================================
+Log started, 30/01/2015 03:01:23
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00295400619507ms
+
+
+
+====================================
+Log started, 30/01/2015 03:01:38
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00240206718445ms
+
+
+
+====================================
+Log started, 02/02/2015 02:02:40
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00322890281677ms
+
+
+
+====================================
+Log started, 03/02/2015 02:02:29
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00319600105286ms
+
+
+
+====================================
+Log started, 03/02/2015 03:02:02
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321001' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321001'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00234389305115ms
+
+
+
+====================================
+Log started, 04/02/2015 12:02:35
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0111899375916ms
+
+
+
+====================================
+Log started, 05/02/2015 11:02:59
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00321102142334ms
+
+
+
+====================================
+Log started, 05/02/2015 12:02:34
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00327301025391ms
+
+
+
+====================================
+Log started, 05/02/2015 12:02:07
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00303792953491ms
+
+
+
+====================================
+Log started, 05/02/2015 12:02:27
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00252914428711ms
+
+
+
+====================================
+Log started, 05/02/2015 05:02:52
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00351905822754ms
+
+
+
+====================================
+Log started, 07/02/2015 10:02:36
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00840401649475ms
+
+
+
+====================================
+Log started, 07/02/2015 10:02:09
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00256395339966ms
+
+
+
+====================================
+Log started, 07/02/2015 10:02:13
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00256013870239ms
+
+
+
+====================================
+Log started, 07/02/2015 11:02:44
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00315690040588ms
+
+
+
+====================================
+Log started, 07/02/2015 11:02:09
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00259208679199ms
+
+
+
+====================================
+Log started, 07/02/2015 11:02:32
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00284004211426ms
+
+
+
+====================================
+Log started, 11/02/2015 05:02:00
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00930905342102ms
+
+
+
+====================================
+Log started, 11/02/2015 05:02:19
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00313997268677ms
+
+
+
+====================================
+Log started, 11/02/2015 05:02:31
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320700' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320700'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00261807441711ms
+
+
+
+====================================
+Log started, 12/02/2015 09:02:56
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00677585601807ms
+
+
+
+====================================
+Log started, 12/02/2015 09:02:38
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320100' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320100'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0016918182373ms
+
+
+
+====================================
+Log started, 15/02/2015 05:02:03
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320910' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320910'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00214600563049ms
+
+
+
+====================================
+Log started, 15/02/2015 05:02:19
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320910' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320910'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00158715248108ms
+
+
+
+====================================
+Log started, 15/02/2015 05:02:10
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320910' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320910'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0021231174469ms
+
+
+
+====================================
+Log started, 17/02/2015 09:02:24
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00884199142456ms
+
+
+
+====================================
+Log started, 17/02/2015 02:02:50
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2322810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2322810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.002366065979ms
+
+
+
+====================================
+Log started, 31/03/2015 09:03:19
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320910' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320910'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00334000587463ms
+
+
+
+====================================
+Log started, 26/04/2015 05:04:27
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.086009979248ms
+
+
+
+====================================
+Log started, 21/05/2015 11:05:33
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2321810' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2321810'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.0176959037781ms
+
+
+
+====================================
+Log started, 30/05/2015 03:05:01
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00199198722839ms
+
+
+
+====================================
+Log started, 11/07/2015 06:07:28
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.010931968689ms
+
+
+
+====================================
+Log started, 11/07/2015 06:07:38
+====================================
+
+Ready for SQL generation
+field => 
+	0 => 
+		0 => DicatatOleh
+		1 => DicatatOleh
+	1 => 
+		0 => NoSurat
+		1 => NoSurat
+	2 => 
+		0 => AsalSurat
+		1 => AsalSurat
+	3 => 
+		0 => Perihal
+		1 => Perihal
+	4 => 
+		0 => TglTerima
+		1 => TglTerima
+id => 
+	0 => IdSuratKeluar
+	1 => IdSuratKeluar
+table => 
+	0 =>  suratkeluar 
+	1 =>  suratkeluar 
+count => 100
+
+Exec SQL: SELECT  COUNT(*)  FROM  suratkeluar  WHERE  DicatatOleh = '2320000' 
+
+Exec SQL: SELECT  *  FROM  suratkeluar  WHERE  DicatatOleh = '2320000'  ORDER BY  TglTerima desc LIMIT 0,100
+
+Done in 0.00254702568054ms
+

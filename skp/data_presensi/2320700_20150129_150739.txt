@@ -1,0 +1,62 @@
+2 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 01-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-01'
+3 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 02-01-2015 | 07:56 | 17:04 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-02'
+4 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 03-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-03'
+5 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 04-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-04'
+6 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 05-01-2015 | 07:29 | 16:15 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-05'
+7 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 06-01-2015 | 07:20 | 16:06 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-06'
+8 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 07-01-2015 | 07:10 | 18:38 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-07'
+9 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 08-01-2015 | 07:11 | 18:31 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-08'
+10 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 09-01-2015 | 07:03 | 20:44 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-09'
+11 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 10-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-10'
+12 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 11-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-11'
+13 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 12-01-2015 | 07:09 | 16:27 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-12'
+14 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 13-01-2015 | 07:11 | 19:18 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-13'
+15 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 14-01-2015 | 07:11 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-14'
+16 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 15-01-2015 | 07:12 | 17:17 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-15'
+17 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 16-01-2015 | 07:07 | 17:11 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-16'
+18 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 17-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-17'
+19 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 18-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-18'
+20 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 19-01-2015 | 07:23 | 19:14 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-19'
+21 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 20-01-2015 | 08:51 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-20'
+22 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 21-01-2015 | 08:25 | 16:05 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-21'
+23 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 22-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-22'
+24 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 23-01-2015 | 08:55 | 20:54 | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-23'
+25 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 24-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-24'
+26 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 25-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-25'
+27 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 26-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-26'
+28 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 27-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-27'
+29 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 28-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-28'
+30 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 29-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-29'
+31 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 30-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-30'
+32 | 195704061984112001 | Dra. Intan Mardiana N., M.Hum | 31-01-2015 |  |  | 
+SELECT * FROM presensi WHERE nip = '195704061984112001' AND tanggal = '2015-01-31'

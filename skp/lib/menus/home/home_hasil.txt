@@ -1,0 +1,20 @@
+Program Perbandingan Teks:
+
+Query:
+pengetahuan logistik
+Document #1:
+manajemen transaksi! logistik
+Document #2:
+pengetahuan tentang. individu
+Document #3:
+terdapat manajemen pengetahuan, dalam transfer pengetahuan logistik
+
+----Final result similarity cosine(q, D) : dengan  TF/IDF----
+Similaritas dokumen 3 = 0.581
+Similaritas dokumen 2 = 0.245
+Similaritas dokumen 1 = 0.231
+
+---dengan BM 25 tanpa normalisasi---
+Similarity Document #3 = 0.836538538834
+Similarity Document #2 = 0.506831385135
+Similarity Document #1 = 0.426805376956

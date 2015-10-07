@@ -1,0 +1,30 @@
+2 | 196108061984031001 | Bagus Soedaryanto | 01-10-2014 |  |  | Rabu
+3 | 196108061984031001 | Bagus Soedaryanto | 02-10-2014 |  |  | Kamis
+4 | 196108061984031001 | Bagus Soedaryanto | 03-10-2014 |  |  | Jumat
+5 | 196108061984031001 | Bagus Soedaryanto | 04-10-2014 |  |  | Sabtu
+6 | 196108061984031001 | Bagus Soedaryanto | 05-10-2014 |  |  | Libur Nasional
+7 | 196108061984031001 | Bagus Soedaryanto | 06-10-2014 |  |  | Senin
+8 | 196108061984031001 | Bagus Soedaryanto | 07-10-2014 |  |  | Selasa
+9 | 196108061984031001 | Bagus Soedaryanto | 08-10-2014 | 07:31 |  | Rabu
+10 | 196108061984031001 | Bagus Soedaryanto | 09-10-2014 | 07:27 | 16:03 | Kamis
+11 | 196108061984031001 | Bagus Soedaryanto | 10-10-2014 |  |  | Jumat
+12 | 196108061984031001 | Bagus Soedaryanto | 11-10-2014 | 07:03 | 16:08 | Sabtu
+13 | 196108061984031001 | Bagus Soedaryanto | 12-10-2014 | 07:10 |  | Minggu
+14 | 196108061984031001 | Bagus Soedaryanto | 13-10-2014 |  |  | Senin
+15 | 196108061984031001 | Bagus Soedaryanto | 14-10-2014 |  |  | Selasa
+16 | 196108061984031001 | Bagus Soedaryanto | 15-10-2014 | 07:09 | 16:02 | Rabu
+17 | 196108061984031001 | Bagus Soedaryanto | 16-10-2014 | 06:51 | 16:01 | Kamis
+18 | 196108061984031001 | Bagus Soedaryanto | 17-10-2014 | 06:57 | 16:00 | Jumat
+19 | 196108061984031001 | Bagus Soedaryanto | 18-10-2014 | 07:07 | 16:00 | Sabtu
+20 | 196108061984031001 | Bagus Soedaryanto | 19-10-2014 | 07:06 | 16:32 | Minggu
+21 | 196108061984031001 | Bagus Soedaryanto | 20-10-2014 |  |  | Senin
+22 | 196108061984031001 | Bagus Soedaryanto | 21-10-2014 |  |  | Selasa
+23 | 196108061984031001 | Bagus Soedaryanto | 22-10-2014 | 06:53 |  | Rabu
+24 | 196108061984031001 | Bagus Soedaryanto | 23-10-2014 |  |  | Kamis
+25 | 196108061984031001 | Bagus Soedaryanto | 24-10-2014 |  |  | Jumat
+26 | 196108061984031001 | Bagus Soedaryanto | 25-10-2014 |  |  | Libur Nasional
+27 | 196108061984031001 | Bagus Soedaryanto | 26-10-2014 |  |  | Minggu
+28 | 196108061984031001 | Bagus Soedaryanto | 27-10-2014 |  |  | Senin
+29 | 196108061984031001 | Bagus Soedaryanto | 28-10-2014 |  |  | Selasa
+30 | 196108061984031001 | Bagus Soedaryanto | 29-10-2014 |  |  | Rabu
+31 | 196108061984031001 | Bagus Soedaryanto | 30-10-2014 |  |  | Kamis

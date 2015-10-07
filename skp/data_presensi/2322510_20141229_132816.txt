@@ -1,0 +1,82 @@
+2 | 196305071986031002 | Drs. Tri Hartono, M Hum | 01-10-2014 | 07:03 | 16:09 | 
+3 | 196305071986031002 | Drs. Tri Hartono, M Hum | 02-10-2014 | 07:16 | 16:07 | 
+4 | 196305071986031002 | Drs. Tri Hartono, M Hum | 03-10-2014 | 07:11 | 16:36 | 
+5 | 196305071986031002 | Drs. Tri Hartono, M Hum | 04-10-2014 |  |  | 
+6 | 196305071986031002 | Drs. Tri Hartono, M Hum | 05-10-2014 |  |  | 
+7 | 196305071986031002 | Drs. Tri Hartono, M Hum | 06-10-2014 | 06:58 | 16:05 | 
+8 | 196305071986031002 | Drs. Tri Hartono, M Hum | 07-10-2014 |  |  | 
+9 | 196305071986031002 | Drs. Tri Hartono, M Hum | 08-10-2014 | 06:56 | 16:03 | 
+10 | 196305071986031002 | Drs. Tri Hartono, M Hum | 09-10-2014 | 07:08 | 16:02 | 
+11 | 196305071986031002 | Drs. Tri Hartono, M Hum | 10-10-2014 | 07:20 | 16:59 | 
+12 | 196305071986031002 | Drs. Tri Hartono, M Hum | 11-10-2014 |  |  | 
+13 | 196305071986031002 | Drs. Tri Hartono, M Hum | 12-10-2014 |  |  | 
+14 | 196305071986031002 | Drs. Tri Hartono, M Hum | 13-10-2014 | 07:07 |  | 
+15 | 196305071986031002 | Drs. Tri Hartono, M Hum | 14-10-2014 | 07:27 |  | 
+16 | 196305071986031002 | Drs. Tri Hartono, M Hum | 15-10-2014 |  |  | 
+17 | 196305071986031002 | Drs. Tri Hartono, M Hum | 16-10-2014 | 07:01 | 16:19 | 
+18 | 196305071986031002 | Drs. Tri Hartono, M Hum | 17-10-2014 |  |  | 
+19 | 196305071986031002 | Drs. Tri Hartono, M Hum | 18-10-2014 |  |  | 
+20 | 196305071986031002 | Drs. Tri Hartono, M Hum | 19-10-2014 |  |  | 
+21 | 196305071986031002 | Drs. Tri Hartono, M Hum | 20-10-2014 |  |  | 
+22 | 196305071986031002 | Drs. Tri Hartono, M Hum | 21-10-2014 | 07:08 | 16:06 | 
+23 | 196305071986031002 | Drs. Tri Hartono, M Hum | 22-10-2014 | 07:10 | 16:06 | 
+24 | 196305071986031002 | Drs. Tri Hartono, M Hum | 23-10-2014 |  |  | 
+25 | 196305071986031002 | Drs. Tri Hartono, M Hum | 24-10-2014 |  |  | 
+26 | 196305071986031002 | Drs. Tri Hartono, M Hum | 25-10-2014 |  |  | 
+27 | 196305071986031002 | Drs. Tri Hartono, M Hum | 26-10-2014 |  |  | 
+28 | 196305071986031002 | Drs. Tri Hartono, M Hum | 27-10-2014 | 07:53 |  | 
+29 | 196305071986031002 | Drs. Tri Hartono, M Hum | 28-10-2014 | 07:06 | 16:06 | 
+30 | 196305071986031002 | Drs. Tri Hartono, M Hum | 29-10-2014 | 07:10 | 16:09 | 
+31 | 196305071986031002 | Drs. Tri Hartono, M Hum | 30-10-2014 | 07:08 | 16:07 | 
+32 | 196305071986031002 | Drs. Tri Hartono, M Hum | 31-10-2014 | 07:09 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '196305071986031002' AND tanggal = '2014-10-31'
+SELECT * FROM rekapitulasi WHERE nip = '196305071986031002' AND bulan = '2014-10'
+INSERT INTO rekapitulasi (nip, kdunit, bulan) VALUES ('196305071986031002', '2322510', '2014-10')
+SELECT * FROM rekapitulasi WHERE nip = '196305071986031002' AND bulan = '2014-10'
+
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('196305071986031002', '2322510', '2014-10-31', '07:30:00', '16:30:00', '07:09', 
+									'16:36', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322510_20141229_132816.xls', '1');
+33 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 01-10-2014 | 07:36 | 16:06 | 
+34 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 02-10-2014 | 07:27 |  | 
+35 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 03-10-2014 | 07:40 | 16:46 | 
+36 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 04-10-2014 |  |  | 
+37 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 05-10-2014 |  |  | 
+38 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 06-10-2014 | 07:29 | 16:04 | 
+39 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 07-10-2014 | 07:28 | 16:03 | 
+40 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 08-10-2014 | 07:32 | 16:03 | 
+41 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 09-10-2014 |  |  | 
+42 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 10-10-2014 | 07:26 | 16:58 | 
+43 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 11-10-2014 |  |  | 
+44 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 12-10-2014 |  |  | 
+45 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 13-10-2014 | 07:26 | 16:04 | 
+46 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 14-10-2014 | 07:32 | 16:08 | 
+47 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 15-10-2014 | 07:27 | 16:05 | 
+48 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 16-10-2014 |  |  | 
+49 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 17-10-2014 |  |  | 
+50 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 18-10-2014 |  |  | 
+51 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 19-10-2014 |  |  | 
+52 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 20-10-2014 | 07:20 | 16:06 | 
+53 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 21-10-2014 | 07:33 | 16:04 | 
+54 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 22-10-2014 | 07:38 |  | 
+55 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 23-10-2014 |  |  | 
+56 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 24-10-2014 | 07:35 | 16:39 | 
+57 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 25-10-2014 |  |  | 
+58 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 26-10-2014 |  |  | 
+59 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 27-10-2014 | 07:25 | 16:08 | 
+60 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 28-10-2014 | 07:32 | 16:06 | 
+61 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 29-10-2014 | 07:38 | 16:09 | 
+62 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 30-10-2014 | 07:27 | 16:02 | 
+63 | 196101151986032014 | Dra. Ari Setyastuti,M Si | 31-10-2014 |  | 16:32 | 
+SELECT * FROM presensi WHERE nip = '196101151986032014' AND tanggal = '2014-10-31'
+SELECT * FROM rekapitulasi WHERE nip = '196101151986032014' AND bulan = '2014-10'
+INSERT INTO rekapitulasi (nip, kdunit, bulan) VALUES ('196101151986032014', '2322510', '2014-10')
+SELECT * FROM rekapitulasi WHERE nip = '196101151986032014' AND bulan = '2014-10'
+
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('196101151986032014', '2322510', '2014-10-31', '07:30:00', '16:30:00', '00:00:00', 
+									'16:32', '2', '450', '0', '1', '450', '0', 
+									'1', '0', '0', '0', '0', '0', 'N', '2322510_20141229_132816.xls', '1');

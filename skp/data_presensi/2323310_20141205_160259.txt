@@ -1,0 +1,719 @@
+2 | 198609262014042001 | Dian Eka Sari, S.E | 03-11-2014 | 7:52 | 16:41 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-03'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO rekapitulasi (nip, kdunit, bulan) VALUES ('198609262014042001', '2323310', '2014-11')
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-03', '07:30:00', '16:00:00', '7:52', 
+									'16:41', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+3 | 198609262014042001 | Dian Eka Sari, S.E | 04-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-04'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-04', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2323310_20141205_160259.xls', '2');
+4 | 198609262014042001 | Dian Eka Sari, S.E | 05-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-05'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-05', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2323310_20141205_160259.xls', '2');
+5 | 198609262014042001 | Dian Eka Sari, S.E | 06-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-06'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-06', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2323310_20141205_160259.xls', '2');
+6 | 198609262014042001 | Dian Eka Sari, S.E | 07-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-07'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-07', '07:30:00', '16:30:00', '1', '450', 
+									'1', '1', '1', 'N', '2323310_20141205_160259.xls', '2');
+7 | 198609262014042001 | Dian Eka Sari, S.E | 10-11-2014 | 7:58 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-10'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-10', '07:30:00', '16:00:00', '7:58', 
+									'16:32', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+8 | 198609262014042001 | Dian Eka Sari, S.E | 11-11-2014 | 8:03 | 16:34 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-11', '07:30:00', '16:00:00', '8:03', 
+									'16:34', '2', '33', '0', '1', '33', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+9 | 198609262014042001 | Dian Eka Sari, S.E | 12-11-2014 | 7:54 | 16:39 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-12'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-12', '07:30:00', '16:00:00', '7:54', 
+									'16:39', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+10 | 198609262014042001 | Dian Eka Sari, S.E | 13-11-2014 | 8:03 | 16:47 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-13'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-13', '07:30:00', '16:00:00', '8:03', 
+									'16:47', '2', '33', '0', '1', '33', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+11 | 198609262014042001 | Dian Eka Sari, S.E | 14-11-2014 | 7:50 | 17:02 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-14'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-14', '07:30:00', '16:30:00', '7:50', 
+									'17:02', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+12 | 198609262014042001 | Dian Eka Sari, S.E | 17-11-2014 | 7:50 | 17:17 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-17'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-17', '07:30:00', '16:00:00', '7:50', 
+									'17:17', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+13 | 198609262014042001 | Dian Eka Sari, S.E | 18-11-2014 | 7:54 | 16:41 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-18'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-18', '07:30:00', '16:00:00', '7:54', 
+									'16:41', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+14 | 198609262014042001 | Dian Eka Sari, S.E | 19-11-2014 | 7:55 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-19'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-19', '07:30:00', '16:00:00', '7:55', 
+									'16:36', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+15 | 198609262014042001 | Dian Eka Sari, S.E | 20-11-2014 | 7:51 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-20'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-20', '07:30:00', '16:00:00', '7:51', 
+									'16:35', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+16 | 198609262014042001 | Dian Eka Sari, S.E | 21-11-2014 | 7:45 | 17:04 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-21'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-21', '07:30:00', '16:30:00', '7:45', 
+									'17:04', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+17 | 198609262014042001 | Dian Eka Sari, S.E | 24-11-2014 | 7:49 | 16:38 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-24'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-24', '07:30:00', '16:00:00', '7:49', 
+									'16:38', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+18 | 198609262014042001 | Dian Eka Sari, S.E | 25-11-2014 | 7:57 | 16:38 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-25'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-25', '07:30:00', '16:00:00', '7:57', 
+									'16:38', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+19 | 198609262014042001 | Dian Eka Sari, S.E | 26-11-2014 | 7:55 | 16:33 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-26'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-26', '07:30:00', '16:00:00', '7:55', 
+									'16:33', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+20 | 198609262014042001 | Dian Eka Sari, S.E | 27-11-2014 | 7:53 | 16:33 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-27'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-27', '07:30:00', '16:00:00', '7:53', 
+									'16:33', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+21 | 198609262014042001 | Dian Eka Sari, S.E | 28-11-2014 | 7:46 | 17:06 | 
+SELECT * FROM presensi WHERE nip = '198609262014042001' AND tanggal = '2014-11-28'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198609262014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198609262014042001', '2323310', '2014-11-28', '07:30:00', '16:30:00', '7:46', 
+									'17:06', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+22 | 198904052014042001 | Rahma Dona, S.Pd | 03-11-2014 | 7:56 | 16:31 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-03'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO rekapitulasi (nip, kdunit, bulan) VALUES ('198904052014042001', '2323310', '2014-11')
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-03', '07:30:00', '16:00:00', '7:56', 
+									'16:31', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+23 | 198904052014042001 | Rahma Dona, S.Pd | 04-11-2014 | 7:54 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-04'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-04', '07:30:00', '16:00:00', '7:54', 
+									'16:32', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+24 | 198904052014042001 | Rahma Dona, S.Pd | 05-11-2014 | 7:57 | 16:39 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-05'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-05', '07:30:00', '16:00:00', '7:57', 
+									'16:39', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+25 | 198904052014042001 | Rahma Dona, S.Pd | 06-11-2014 | 7:57 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-06'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-06', '07:30:00', '16:00:00', '7:57', 
+									'16:32', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+26 | 198904052014042001 | Rahma Dona, S.Pd | 07-11-2014 | 7:56 | 17:00 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-07'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-07', '07:30:00', '16:30:00', '7:56', 
+									'17:00', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+27 | 198904052014042001 | Rahma Dona, S.Pd | 10-11-2014 | 7:55 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-10'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-10', '07:30:00', '16:00:00', '7:55', 
+									'16:32', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+28 | 198904052014042001 | Rahma Dona, S.Pd | 11-11-2014 | 7:58 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-11', '07:30:00', '16:00:00', '7:58', 
+									'16:35', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+29 | 198904052014042001 | Rahma Dona, S.Pd | 12-11-2014 | 7:57 | 16:51 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-12'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-12', '07:30:00', '16:00:00', '7:57', 
+									'16:51', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+30 | 198904052014042001 | Rahma Dona, S.Pd | 13-11-2014 | 7:57 | 16:44 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-13'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-13', '07:30:00', '16:00:00', '7:57', 
+									'16:44', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+31 | 198904052014042001 | Rahma Dona, S.Pd | 14-11-2014 | 7:55 | 17:04 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-14'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-14', '07:30:00', '16:30:00', '7:55', 
+									'17:04', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+32 | 198904052014042001 | Rahma Dona, S.Pd | 17-11-2014 | 7:59 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-17'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-17', '07:30:00', '16:00:00', '7:59', 
+									'16:35', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+33 | 198904052014042001 | Rahma Dona, S.Pd | 18-11-2014 | 7:57 | 16:41 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-18'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-18', '07:30:00', '16:00:00', '7:57', 
+									'16:41', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+34 | 198904052014042001 | Rahma Dona, S.Pd | 19-11-2014 | 7:45 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-19'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-19', '07:30:00', '16:00:00', '7:45', 
+									'16:36', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+35 | 198904052014042001 | Rahma Dona, S.Pd | 20-11-2014 | 7:39 | 16:39 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-20'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-20', '07:30:00', '16:00:00', '7:39', 
+									'16:39', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+36 | 198904052014042001 | Rahma Dona, S.Pd | 21-11-2014 | 7:55 | 17:13 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-21'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-21', '07:30:00', '16:30:00', '7:55', 
+									'17:13', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+37 | 198904052014042001 | Rahma Dona, S.Pd | 24-11-2014 | 7:58 | 16:38 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-24'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-24', '07:30:00', '16:00:00', '7:58', 
+									'16:38', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+38 | 198904052014042001 | Rahma Dona, S.Pd | 25-11-2014 | 7:36 | 16:42 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-25'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-25', '07:30:00', '16:00:00', '7:36', 
+									'16:42', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+39 | 198904052014042001 | Rahma Dona, S.Pd | 26-11-2014 | 7:57 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-26'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-26', '07:30:00', '16:00:00', '7:57', 
+									'16:32', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+40 | 198904052014042001 | Rahma Dona, S.Pd | 27-11-2014 | 7:57 | 16:38 | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-27'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-27', '07:30:00', '16:00:00', '7:57', 
+									'16:38', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+41 | 198904052014042001 | Rahma Dona, S.Pd | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '198904052014042001' AND tanggal = '2014-11-28'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198904052014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('198904052014042001', '2323310', '2014-11-28', '07:30:00', '16:30:00', '1', '450', 
+									'1', '1', '1', 'N', '2323310_20141205_160259.xls', '2');
+42 | 199007192014042001 | Mutiara Alhusna, S.Sn | 03-11-2014 | 7:57 | 16:31 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-03'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO rekapitulasi (nip, kdunit, bulan) VALUES ('199007192014042001', '2323310', '2014-11')
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-03', '07:30:00', '16:00:00', '7:57', 
+									'16:31', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+43 | 199007192014042001 | Mutiara Alhusna, S.Sn | 04-11-2014 | 7:55 | 16:31 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-04'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-04', '07:30:00', '16:00:00', '7:55', 
+									'16:31', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+44 | 199007192014042001 | Mutiara Alhusna, S.Sn | 05-11-2014 | 7:56 | 16:37 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-05'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-05', '07:30:00', '16:00:00', '7:56', 
+									'16:37', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+45 | 199007192014042001 | Mutiara Alhusna, S.Sn | 06-11-2014 | 7:56 | 16:31 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-06'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-06', '07:30:00', '16:00:00', '7:56', 
+									'16:31', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+46 | 199007192014042001 | Mutiara Alhusna, S.Sn | 07-11-2014 | 7:56 | 17:06 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-07'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-07', '07:30:00', '16:30:00', '7:56', 
+									'17:06', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+47 | 199007192014042001 | Mutiara Alhusna, S.Sn | 10-11-2014 | 7:56 | 16:34 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-10'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-10', '07:30:00', '16:00:00', '7:56', 
+									'16:34', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+48 | 199007192014042001 | Mutiara Alhusna, S.Sn | 11-11-2014 | 7:11 | 16:34 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-11', '07:30:00', '16:00:00', '7:11', 
+									'16:34', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+49 | 199007192014042001 | Mutiara Alhusna, S.Sn | 12-11-2014 | 7:53 | 16:52 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-12'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-12', '07:30:00', '16:00:00', '7:53', 
+									'16:52', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+50 | 199007192014042001 | Mutiara Alhusna, S.Sn | 13-11-2014 | 7:54 | 16:34 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-13'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-13', '07:30:00', '16:00:00', '7:54', 
+									'16:34', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+51 | 199007192014042001 | Mutiara Alhusna, S.Sn | 14-11-2014 | 7:57 | 17:03 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-14'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-14', '07:30:00', '16:30:00', '7:57', 
+									'17:03', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+52 | 199007192014042001 | Mutiara Alhusna, S.Sn | 17-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-17'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-17', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2323310_20141205_160259.xls', '2');
+53 | 199007192014042001 | Mutiara Alhusna, S.Sn | 18-11-2014 | 7:54 | 16:34 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-18'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-18', '07:30:00', '16:00:00', '7:54', 
+									'16:34', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+54 | 199007192014042001 | Mutiara Alhusna, S.Sn | 19-11-2014 | 7:53 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-19'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-19', '07:30:00', '16:00:00', '7:53', 
+									'16:35', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+55 | 199007192014042001 | Mutiara Alhusna, S.Sn | 20-11-2014 | 7:53 | 16:37 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-20'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-20', '07:30:00', '16:00:00', '7:53', 
+									'16:37', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+56 | 199007192014042001 | Mutiara Alhusna, S.Sn | 21-11-2014 | 7:54 | 17:08 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-21'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-21', '07:30:00', '16:30:00', '7:54', 
+									'17:08', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+57 | 199007192014042001 | Mutiara Alhusna, S.Sn | 24-11-2014 | 7:54 | 16:35 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-24'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-24', '07:30:00', '16:00:00', '7:54', 
+									'16:35', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+58 | 199007192014042001 | Mutiara Alhusna, S.Sn | 25-11-2014 | 7:56 | 16:49 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-25'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-25', '07:30:00', '16:00:00', '7:56', 
+									'16:49', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+59 | 199007192014042001 | Mutiara Alhusna, S.Sn | 26-11-2014 | 7:56 | 16:37 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-26'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-26', '07:30:00', '16:00:00', '7:56', 
+									'16:37', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+60 | 199007192014042001 | Mutiara Alhusna, S.Sn | 27-11-2014 | 7:55 | 16:31 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-27'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-27', '07:30:00', '16:00:00', '7:55', 
+									'16:31', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+61 | 199007192014042001 | Mutiara Alhusna, S.Sn | 28-11-2014 | 7:56 | 17:08 | 
+SELECT * FROM presensi WHERE nip = '199007192014042001' AND tanggal = '2014-11-28'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '199007192014042001' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('199007192014042001', '2323310', '2014-11-28', '07:30:00', '16:30:00', '7:56', 
+									'17:08', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+62 | 198409102014041002 | Firdaus Marbhun, S.Ant | 03-11-2014 | 7:23 | 16:34 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-03'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO rekapitulasi (nip, kdunit, bulan) VALUES ('198409102014041002', '2323310', '2014-11')
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-03', '07:30:00', '16:00:00', '7:23', 
+									'16:34', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+63 | 198409102014041002 | Firdaus Marbhun, S.Ant | 04-11-2014 | 7:51 | 16:37 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-04'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-04', '07:30:00', '16:00:00', '7:51', 
+									'16:37', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+64 | 198409102014041002 | Firdaus Marbhun, S.Ant | 05-11-2014 | 7:48 | 16:37 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-05'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-05', '07:30:00', '16:00:00', '7:48', 
+									'16:37', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+65 | 198409102014041002 | Firdaus Marbhun, S.Ant | 06-11-2014 | 7:40 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-06'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-06', '07:30:00', '16:00:00', '7:40', 
+									'16:36', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+66 | 198409102014041002 | Firdaus Marbhun, S.Ant | 07-11-2014 | 7:37 | 17:20 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-07'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-07', '07:30:00', '16:30:00', '7:37', 
+									'17:20', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+67 | 198409102014041002 | Firdaus Marbhun, S.Ant | 10-11-2014 | 7:45 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-10'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-10', '07:30:00', '16:00:00', '7:45', 
+									'16:36', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+68 | 198409102014041002 | Firdaus Marbhun, S.Ant | 11-11-2014 | 7:42 | 17:06 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-11', '07:30:00', '16:00:00', '7:42', 
+									'17:06', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+69 | 198409102014041002 | Firdaus Marbhun, S.Ant | 12-11-2014 | 7:53 | 16:36 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-12'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-12', '07:30:00', '16:00:00', '7:53', 
+									'16:36', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+70 | 198409102014041002 | Firdaus Marbhun, S.Ant | 13-11-2014 | 7:53 | 16:39 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-13'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-13', '07:30:00', '16:00:00', '7:53', 
+									'16:39', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+71 | 198409102014041002 | Firdaus Marbhun, S.Ant | 14-11-2014 | 7:45 | 17:06 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-14'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-14', '07:30:00', '16:30:00', '7:45', 
+									'17:06', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+72 | 198409102014041002 | Firdaus Marbhun, S.Ant | 17-11-2014 | 7:53 | 16:34 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-17'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-17', '07:30:00', '16:00:00', '7:53', 
+									'16:34', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+73 | 198409102014041002 | Firdaus Marbhun, S.Ant | 18-11-2014 | 7:43 | 16:38 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-18'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-18', '07:30:00', '16:00:00', '7:43', 
+									'16:38', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+74 | 198409102014041002 | Firdaus Marbhun, S.Ant | 19-11-2014 | 7:52 | 20:31 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-19'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-19', '07:30:00', '16:00:00', '7:52', 
+									'20:31', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+75 | 198409102014041002 | Firdaus Marbhun, S.Ant | 20-11-2014 | 7:41 | 16:38 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-20'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-20', '07:30:00', '16:00:00', '7:41', 
+									'16:38', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+76 | 198409102014041002 | Firdaus Marbhun, S.Ant | 21-11-2014 | 7:55 | 17:04 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-21'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-21', '07:30:00', '16:30:00', '7:55', 
+									'17:04', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+77 | 198409102014041002 | Firdaus Marbhun, S.Ant | 24-11-2014 | 6:55 | 16:48 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-24'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-24', '07:30:00', '16:00:00', '6:55', 
+									'16:48', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+78 | 198409102014041002 | Firdaus Marbhun, S.Ant | 25-11-2014 | 7:47 | 16:32 | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-25'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-25', '07:30:00', '16:00:00', '7:47', 
+									'16:32', '2', '0', '0', '1', '0', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2323310_20141205_160259.xls', '1');
+79 | 198409102014041002 | Firdaus Marbhun, S.Ant | 26-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-26'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-26', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2323310_20141205_160259.xls', '2');
+80 | 198409102014041002 | Firdaus Marbhun, S.Ant | 27-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-27'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-27', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2323310_20141205_160259.xls', '2');
+81 | 198409102014041002 | Firdaus Marbhun, S.Ant | 28-11-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '198409102014041002' AND tanggal = '2014-11-28'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+SELECT * FROM rekapitulasi WHERE nip = '198409102014041002' AND bulan = '2014-11'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('198409102014041002', '2323310', '2014-11-28', '07:30:00', '16:30:00', '1', '450', 
+									'1', '1', '1', 'N', '2323310_20141205_160259.xls', '2');

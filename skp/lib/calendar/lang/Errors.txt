@@ -1,0 +1,1 @@
+[19-Aug-2005 00:36:55] PHP Fatal error:  Call to undefined function:  glob() in c:\phpdev\www\whitehorse\calendar\test.php on line 63

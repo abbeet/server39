@@ -1,0 +1,64 @@
+2 | 196401081994031000 | Drs. Abdul Rojak | 01-09-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-01'
+3 | 196401081994031000 | Drs. Abdul Rojak | 02-09-2014 | 17:38 |  | Selasa
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-02'
+4 | 196401081994031000 | Drs. Abdul Rojak | 03-09-2014 | 09:46 | 18:10 | Rabu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-03'
+5 | 196401081994031000 | Drs. Abdul Rojak | 04-09-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-04'
+6 | 196401081994031000 | Drs. Abdul Rojak | 05-09-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-05'
+7 | 196401081994031000 | Drs. Abdul Rojak | 06-09-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-06'
+8 | 196401081994031000 | Drs. Abdul Rojak | 07-09-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-07'
+9 | 196401081994031000 | Drs. Abdul Rojak | 08-09-2014 | 08:48 | 19:19 | Senin
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-08'
+10 | 196401081994031000 | Drs. Abdul Rojak | 09-09-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-09'
+11 | 196401081994031000 | Drs. Abdul Rojak | 10-09-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-10'
+12 | 196401081994031000 | Drs. Abdul Rojak | 11-09-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-11'
+13 | 196401081994031000 | Drs. Abdul Rojak | 12-09-2014 | 08:20 | 17:29 | Jumat
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-12'
+14 | 196401081994031000 | Drs. Abdul Rojak | 13-09-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-13'
+15 | 196401081994031000 | Drs. Abdul Rojak | 14-09-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-14'
+16 | 196401081994031000 | Drs. Abdul Rojak | 15-09-2014 | 09:11 |  | Senin
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-15'
+17 | 196401081994031000 | Drs. Abdul Rojak | 16-09-2014 | 08:55 | 18:43 | Selasa
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-16'
+18 | 196401081994031000 | Drs. Abdul Rojak | 17-09-2014 | 08:40 | 18:14 | Rabu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-17'
+19 | 196401081994031000 | Drs. Abdul Rojak | 18-09-2014 | 08:46 | 18:45 | Kamis
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-18'
+20 | 196401081994031000 | Drs. Abdul Rojak | 19-09-2014 | 08:48 | 18:05 | Jumat
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-19'
+21 | 196401081994031000 | Drs. Abdul Rojak | 20-09-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-20'
+22 | 196401081994031000 | Drs. Abdul Rojak | 21-09-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-21'
+23 | 196401081994031000 | Drs. Abdul Rojak | 22-09-2014 | 09:21 | 17:41 | Senin
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-22'
+24 | 196401081994031000 | Drs. Abdul Rojak | 23-09-2014 | 08:53 |  | Selasa
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-23'
+25 | 196401081994031000 | Drs. Abdul Rojak | 24-09-2014 | 09:40 | 18:40 | Rabu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-24'
+26 | 196401081994031000 | Drs. Abdul Rojak | 25-09-2014 | 17:49 |  | Kamis
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-25'
+27 | 196401081994031000 | Drs. Abdul Rojak | 26-09-2014 | 08:50 |  | Jumat
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-26'
+28 | 196401081994031000 | Drs. Abdul Rojak | 27-09-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-27'
+29 | 196401081994031000 | Drs. Abdul Rojak | 28-09-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-28'
+30 | 196401081994031000 | Drs. Abdul Rojak | 29-09-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-29'
+31 | 196401081994031000 | Drs. Abdul Rojak | 30-09-2014 | 08:51 |  | Selasa
+SELECT * FROM presensi WHERE nip = '196401081994031000' AND tanggal = '2014-09-30'
+
+						INSERT INTO import (date_from, date_until, file, importby) 
+						VALUES ('2014-09-01', '2014-09-30', '2320100_20141203_171920.xls', 'ana')
+					

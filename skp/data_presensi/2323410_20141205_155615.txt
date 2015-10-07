@@ -1,0 +1,2405 @@
+2 | 01/01/2014 | Tahun Baru | Libur Nasional |  |  | 
+3 | 01/14/2014 | Maulid Nabi | Libur Nasional |  |  | 
+4 | 01/31/2014 | Tahun Baru Imlek | Libur Nasional |  |  | 
+5 | 03/31/2014 | Nyepi | Libur Nasional |  |  | 
+6 | 04/09/2014 | Pemilu Legislatif | Libur Nasional |  |  | 
+7 | 04/18/2014 | Wafatnya Isa AM | Libur Nasional |  |  | 
+8 | 05/01/2014 | MayDay | Libur Nasional |  |  | 
+9 | 05/15/2014 | Waisak | Libur Nasional |  |  | 
+10 | 05/27/2014 | Isra Miraj | Libur Nasional |  |  | 
+11 | 05/29/2014 | Kenaikan Isa AM | Libur Nasional |  |  | 
+12 | 07/09/2014 | Pemilu Presiden | Libur Nasional |  |  | 
+13 | 07/28/2014 | Idul Fitri | Libur Nasional |  |  | 
+14 | 07/29/2014 | Idul Fitri | Libur Nasional |  |  | 
+15 | 07/30/2014 | Cuti Idul Fitri | Libur Nasional |  |  | 
+16 | 07/31/2014 | Cuti Idul Fitri | Libur Nasional |  |  | 
+17 | 08/01/2014 | Cuti Idul Fitri | Libur Nasional |  |  | 
+18 | 08/17/2014 | HUT Kemerdekaan | Libur Nasional |  |  | 
+19 | 10/05/2014 | Idul Adha | Libur Nasional |  |  | 
+20 | 10/25/2014 | Tahun Baru Islam | Libur Nasional |  |  | 
+21 | 12/25/2014 | Natal | Libur Nasional |  |  | 
+22 | 12/26/2014 | Cuti Natal | Libur Nasional |  |  | 
+23 |  |  |  |  |  | 
+24 |  |  |  |  |  | 
+25 |  |  |  |  |  | 
+26 |  |  |  |  |  | 
+27 |  |  |  |  |  | 
+28 |  |  |  |  |  | 
+29 |  |  |  |  |  | 
+30 |  |  |  |  |  | 
+31 |  |  |  |  |  | 
+32 |  |  |  |  |  | 
+33 |  |  |  |  |  | 
+34 |  |  |  |  |  | 
+35 |  |  |  |  |  | 
+36 |  |  |  |  |  | 
+37 |  |  |  |  |  | 
+38 |  |  |  |  |  | 
+39 |  |  |  |  |  | 
+40 |  |  |  |  |  | 
+41 |  |  |  |  |  | 
+42 |  |  |  |  |  | 
+2 | Senin-Kamis | 7:30 | 4:00 | 8:30 | 1:30 | 5:30
+3 | Jumat | 07:30 | 16:30 | 9:00 | 1:30 | 6:00
+4 |  |  |  |  |  | 
+5 |  |  |  |  |  | 
+6 | Kondisi | Senin-Kamis | Jumat | Potongan |  | 
+7 | Telat Lebih Dari | 00:30 | 00:30 | 1.50% |  | 
+8 | Telat Kurang Dari | 00:30 | 00:30 | 1.00% |  | 
+9 |  |  |  |  |  | 
+10 | PSW1 | 00:30 | 00:30 | 0.00% |  | 
+11 | PSW2 | 01:00 | 01:00 | 1.00% |  | 
+12 | PSW3 | 01:30 | 01:30 | 1.25% |  | 
+13 | PSW4 | 14:31 | 15:31 | 1.50% |  | 
+2 | CPNS | CPNS | 0.0% | 20.0% |  | 
+3 | Tugas Belajar | TB | 0.0% | 25.0% |  | 
+4 | Bebas Tugas Fungsional | BTF | 0.0% | 50.0% |  | 
+5 | Tidak Masuk | TM | 3.0% | 3.0% |  | 
+6 | Tidak Masuk Dengan Izin | TMI | 1.5% | 1.5% |  | 
+7 | Disiplin Ringan |  |  |  |  | 
+8 | Teguran Lisan  | DR1 | 0.0% | 20.0% | 1 | 
+9 | Teguran Tertulis  | DR2 | 0.0% | 30.0% | 2 | 
+10 | Pernyataan Tidak Puas  | DR3 | 0.0% | 40.0% | 3 | 
+11 | Disiplin Sedang |  |  |  |  | 
+12 | Penundaan KGB (1 Tahun) | DS1 | 0.0% | 40.0% | 6 | 
+13 | Penundaan KP (1 Tahun) | DS2 | 0.0% | 50.0% | 8 | 
+14 | Penurunan Pangkat (1 Tahun) | DS3 | 0.0% | 60.0% | 10 | 
+15 | Disiplin Berat |  |  |  |  | 
+16 | Penurunan Pangkat (3 tahun) | DB1 | 0.0% | 60.0% | 12 | 
+17 | Pemindahan Jabatan Rendah | DB2 | 0.0% | 70.0% | 12 | 
+18 | Pembebasan Jabatan | DB3 | 0.0% | 80.0% | 12 | 
+19 | Pemberhentian  | DB4 | 0.0% | 100.0% |  | 
+20 | Cuti Tahunan | CT | 0.0% | 0.0% |  | 
+21 | Cuti Besar | CB | 0.0% | 30.0% |  | 
+22 | Cuti Alasan Penting | CAP | 0.0% | 30.0% |  | 
+23 | Cuti Bersalin 1 | CBS1 | 0.0% | 0.0% |  | 
+24 | Cuti Bersalin 2 | CBS2 | 0.0% | 0.0% |  | 
+25 | Cuti Bersalin 3 | CBS3 | 0.0% | 40.0% | 1 | 
+26 | Cuti Bersalin 4 | CBS4 | 0.0% | 70.0% | 1 | 
+27 | Cuti Bersalin 5 | CBS5 | 0.0% | 80.0% | 1 | 
+28 | Cuti Sakit (1-2 hari) | CS | 0.0% | 0.0% |  | 
+29 | Cuti Sakit (3-14 hari) | CS1 | 0.0% | 25.0% |  | 
+30 | Cuti Sakit (15-30 hari) | CS2 | 0.0% | 50.0% |  | 
+31 | Cuti Sakit (1-2 Bulan) | CS3 | 0.0% | 70.0% |  | 
+32 | Cuti Sakit (>2 -6 Bulan) | CS4 | 0.0% | 80.0% |  | 
+33 | Cuti Sakit (>6-18 Bulan) | CS5 | 0.0% | 90.0% |  | 
+34 | Surat Tugas | ST | 0.0% | 0.0% |  | 
+35 | Libur Lokal | LILOK | 0.0% | 0.0% |  | 
+2 | 1 | Minggu |  |  |  | 
+3 | 2 | Senin |  |  |  | 
+4 | 3 | Selasa |  |  |  | 
+5 | 4 | Rabu |  |  |  | 
+6 | 5 | Kamis |  |  |  | 
+7 | 6 | Jumat |  |  |  | 
+8 |  |  |  |  |  | 
+9 |  |  |  |  |  | 
+10 |  |  |  |  |  | 
+11 |  |  |  |  |  | 
+2 | 17 | 19,360,000 |  |  |  | 
+3 | 16 | 14,131,000 |  |  |  | 
+4 | 15 | 10,315,000 |  |  |  | 
+5 | 14 | 7,529,000 |  |  |  | 
+6 | 13 | 6,023,000 |  |  |  | 
+7 | 12 | 4,819,000 |  |  |  | 
+8 | 11 | 3,855,000 |  |  |  | 
+9 | 10 | 3,352,000 |  |  |  | 
+10 | 9 | 2,915,000 |  |  |  | 
+11 | 8 | 2,535,000 |  |  |  | 
+12 | 7 | 2,304,000 |  |  |  | 
+13 | 6 | 2,095,000 |  |  |  | 
+14 | 5 | 1,904,000 |  |  |  | 
+15 | 4 | 1,814,000 |  |  |  | 
+16 | 3 | 1,727,000 |  |  |  | 
+17 | 2 | 1,645,000 |  |  |  | 
+18 | 1 | 1,563,000 |  |  |  | 
+19 |  |  |  |  |  | 
+20 |  |  |  |  |  | 
+21 |  |  |  |  |  | 
+2 | 195806101986111001 | Ikhsan, S.Sos | 9 |  |  | 
+3 | 196404141991032001 | Dra. Juniar Purba, M.Si | 9 |  |  | 
+4 | 196502041991032001 | Dra. Hendraswati | 9 |  |  | 
+5 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 9 |  |  | 
+6 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 9 |  |  | 
+7 | 197101121993031001 | Wilis Maryanto, S.H | 9 |  |  | 
+8 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 9 |  |  | 
+9 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 9 |  |  | 
+10 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 9 |  |  | 
+11 | 197603112006051001 | Sisva Maryadi, S.Sos | 8 |  |  | 
+12 | 197311212006051001 | Fathul Futuh Tamam, S.S | 8 |  |  | 
+13 | 197409172008021001 | Moch. Andri WP, S.Sos | 8 |  |  | 
+14 | 198105242008022001 | Any Rahmayani, S.S | 8 |  |  | 
+15 | 198405262008022002 | Dana Listiana, S.S | 8 |  |  | 
+16 | 197204241991031001 | Busrah, S.Sos | 7 |  |  | 
+17 | 196702231992032001 | Dra. Asnaini | 7 |  |  | 
+18 | 196209271992031001 | Abdul Wahab | 7 |  |  | 
+19 | 197210031992032001 | Eni Rohani | 7 |  |  | 
+20 | 196512011993032002 | Siti Aisyah | 7 |  |  | 
+21 | 196205071986022001 | Kamariah | 6 |  |  | 
+22 | 196912251990032001 | Alini | 6 |  |  | 
+23 | 196511051986022001 | Sukzu Hartati | 6 |  |  | 
+24 | 196604211991032001 | Apriyani Bachtiar | 6 |  |  | 
+25 | 196909031992031002 | Anas | 6 |  |  | 
+26 | 196207211986022001 | Suwarnah | 6 |  |  | 
+27 | 196912091990032001 | Erni Cahyawati | 6 |  |  | 
+28 | 197507112006051002 | Saniri | 6 |  |  | 
+29 | 196403122007011004 | Maryaman | 6 |  |  | 
+30 | 196411141999031001 | Teguh Pangarso Wiwoho | 6 |  |  | 
+31 | 196807031991031002 | Andi Makmur | 6 |  |  | 
+32 | 196406291986012001 | Zunibah | 5 |  |  | 
+33 | 196405281990031001 | Setiono Wibowo | 5 |  |  | 
+34 | 197009052006051001 | Dedi Hartono | 5 |  |  | 
+35 |  |  |  |  |  | 
+36 |  |  |  |  |  | 
+37 |  |  |  |  |  | 
+38 |  |  |  |  |  | 
+39 |  |  |  |  |  | 
+2 | 195806101986111001 | Ikhsan, S.Sos | 01-07-2014 | 07:02 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-01'
+3 | 195806101986111001 | Ikhsan, S.Sos | 02-07-2014 | 07:12 | 14:59 | Rabu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-02'
+4 | 195806101986111001 | Ikhsan, S.Sos | 03-07-2014 | 07:24 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-03'
+5 | 195806101986111001 | Ikhsan, S.Sos | 04-07-2014 | 07:18 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-04'
+6 | 195806101986111001 | Ikhsan, S.Sos | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-05'
+7 | 195806101986111001 | Ikhsan, S.Sos | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-06'
+8 | 195806101986111001 | Ikhsan, S.Sos | 07-07-2014 | 07:26 | 15:06 | Senin
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-07'
+9 | 195806101986111001 | Ikhsan, S.Sos | 08-07-2014 | 08:18 | 15:05 | Selasa
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-08'
+10 | 195806101986111001 | Ikhsan, S.Sos | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-09'
+11 | 195806101986111001 | Ikhsan, S.Sos | 10-07-2014 | 07:50 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-10'
+12 | 195806101986111001 | Ikhsan, S.Sos | 11-07-2014 | 07:20 | 15:31 | Jumat
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-11'
+13 | 195806101986111001 | Ikhsan, S.Sos | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-12'
+14 | 195806101986111001 | Ikhsan, S.Sos | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-13'
+15 | 195806101986111001 | Ikhsan, S.Sos | 14-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-14'
+16 | 195806101986111001 | Ikhsan, S.Sos | 15-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-15'
+17 | 195806101986111001 | Ikhsan, S.Sos | 16-07-2014 | 07:39 | 15:05 | Rabu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-16'
+18 | 195806101986111001 | Ikhsan, S.Sos | 17-07-2014 | 07:37 | 15:24 | Kamis
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-17'
+19 | 195806101986111001 | Ikhsan, S.Sos | 18-07-2014 | 07:42 | 15:12 | Jumat
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-18'
+20 | 195806101986111001 | Ikhsan, S.Sos | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-19'
+21 | 195806101986111001 | Ikhsan, S.Sos | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-20'
+22 | 195806101986111001 | Ikhsan, S.Sos | 21-07-2014 | 07:32 | 15:03 | Senin
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-21'
+23 | 195806101986111001 | Ikhsan, S.Sos | 22-07-2014 | 07:28 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-22'
+24 | 195806101986111001 | Ikhsan, S.Sos | 23-07-2014 | 07:43 | 15:12 | Rabu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-23'
+25 | 195806101986111001 | Ikhsan, S.Sos | 24-07-2014 | 07:38 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-24'
+26 | 195806101986111001 | Ikhsan, S.Sos | 25-07-2014 | 07:26 | 15:08 | Jumat
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-25'
+27 | 195806101986111001 | Ikhsan, S.Sos | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-26'
+28 | 195806101986111001 | Ikhsan, S.Sos | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-27'
+29 | 195806101986111001 | Ikhsan, S.Sos | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-28'
+30 | 195806101986111001 | Ikhsan, S.Sos | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-29'
+31 | 195806101986111001 | Ikhsan, S.Sos | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-30'
+32 | 195806101986111001 | Ikhsan, S.Sos | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '195806101986111001' AND tanggal = '2014-07-31'
+33 | 196404141991032001 | Dra. Juniar Purba, M.Si | 01-07-2014 | 07:55 | 14:53 | Selasa
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-01'
+34 | 196404141991032001 | Dra. Juniar Purba, M.Si | 02-07-2014 | 08:03 | 15:02 | Rabu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-02'
+35 | 196404141991032001 | Dra. Juniar Purba, M.Si | 03-07-2014 | 08:06 | 15:04 | Kamis
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-03'
+36 | 196404141991032001 | Dra. Juniar Purba, M.Si | 04-07-2014 | 07:40 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-04'
+37 | 196404141991032001 | Dra. Juniar Purba, M.Si | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-05'
+38 | 196404141991032001 | Dra. Juniar Purba, M.Si | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-06'
+39 | 196404141991032001 | Dra. Juniar Purba, M.Si | 07-07-2014 | 08:05 | 15:07 | Senin
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-07'
+40 | 196404141991032001 | Dra. Juniar Purba, M.Si | 08-07-2014 | 08:12 | 15:03 | Selasa
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-08'
+41 | 196404141991032001 | Dra. Juniar Purba, M.Si | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-09'
+42 | 196404141991032001 | Dra. Juniar Purba, M.Si | 10-07-2014 | 07:59 | 15:09 | Kamis
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-10'
+43 | 196404141991032001 | Dra. Juniar Purba, M.Si | 11-07-2014 | 08:07 | 15:41 | Jumat
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-11'
+44 | 196404141991032001 | Dra. Juniar Purba, M.Si | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-12'
+45 | 196404141991032001 | Dra. Juniar Purba, M.Si | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-13'
+46 | 196404141991032001 | Dra. Juniar Purba, M.Si | 14-07-2014 | 07:50 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-14'
+47 | 196404141991032001 | Dra. Juniar Purba, M.Si | 15-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-15'
+48 | 196404141991032001 | Dra. Juniar Purba, M.Si | 16-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-16'
+49 | 196404141991032001 | Dra. Juniar Purba, M.Si | 17-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-17'
+50 | 196404141991032001 | Dra. Juniar Purba, M.Si | 18-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-18'
+51 | 196404141991032001 | Dra. Juniar Purba, M.Si | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-19'
+52 | 196404141991032001 | Dra. Juniar Purba, M.Si | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-20'
+53 | 196404141991032001 | Dra. Juniar Purba, M.Si | 21-07-2014 | 07:55 | 15:12 | Senin
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-21'
+54 | 196404141991032001 | Dra. Juniar Purba, M.Si | 22-07-2014 | 07:55 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-22'
+55 | 196404141991032001 | Dra. Juniar Purba, M.Si | 23-07-2014 | 07:48 | 15:11 | Rabu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-23'
+56 | 196404141991032001 | Dra. Juniar Purba, M.Si | 24-07-2014 | 08:20 | 15:12 | Kamis
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-24'
+57 | 196404141991032001 | Dra. Juniar Purba, M.Si | 25-07-2014 | 08:01 | 14:57 | Jumat
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-25'
+58 | 196404141991032001 | Dra. Juniar Purba, M.Si | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-26'
+59 | 196404141991032001 | Dra. Juniar Purba, M.Si | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-27'
+60 | 196404141991032001 | Dra. Juniar Purba, M.Si | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-28'
+61 | 196404141991032001 | Dra. Juniar Purba, M.Si | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-29'
+62 | 196404141991032001 | Dra. Juniar Purba, M.Si | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-30'
+63 | 196404141991032001 | Dra. Juniar Purba, M.Si | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196404141991032001' AND tanggal = '2014-07-31'
+64 | 196502041991032001 | Dra. Hendraswati | 01-07-2014 | 07:54 | 15:06 | Selasa
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-01'
+65 | 196502041991032001 | Dra. Hendraswati | 02-07-2014 | 07:45 | 15:12 | Rabu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-02'
+66 | 196502041991032001 | Dra. Hendraswati | 03-07-2014 | 07:45 | 15:06 | Kamis
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-03'
+67 | 196502041991032001 | Dra. Hendraswati | 04-07-2014 | 07:50 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-04'
+68 | 196502041991032001 | Dra. Hendraswati | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-05'
+69 | 196502041991032001 | Dra. Hendraswati | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-06'
+70 | 196502041991032001 | Dra. Hendraswati | 07-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-07'
+71 | 196502041991032001 | Dra. Hendraswati | 08-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-08'
+72 | 196502041991032001 | Dra. Hendraswati | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-09'
+73 | 196502041991032001 | Dra. Hendraswati | 10-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-10'
+74 | 196502041991032001 | Dra. Hendraswati | 11-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-11'
+75 | 196502041991032001 | Dra. Hendraswati | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-12'
+76 | 196502041991032001 | Dra. Hendraswati | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-13'
+77 | 196502041991032001 | Dra. Hendraswati | 14-07-2014 | 07:58 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-14'
+78 | 196502041991032001 | Dra. Hendraswati | 15-07-2014 | 07:52 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-15'
+79 | 196502041991032001 | Dra. Hendraswati | 16-07-2014 | 07:57 | 15:15 | Rabu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-16'
+80 | 196502041991032001 | Dra. Hendraswati | 17-07-2014 | 08:00 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-17'
+81 | 196502041991032001 | Dra. Hendraswati | 18-07-2014 | 07:48 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-18'
+82 | 196502041991032001 | Dra. Hendraswati | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-19'
+83 | 196502041991032001 | Dra. Hendraswati | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-20'
+84 | 196502041991032001 | Dra. Hendraswati | 21-07-2014 | 07:51 | 15:05 | Senin
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-21'
+85 | 196502041991032001 | Dra. Hendraswati | 22-07-2014 | 07:55 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-22'
+86 | 196502041991032001 | Dra. Hendraswati | 23-07-2014 | 07:47 | 15:03 | Rabu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-23'
+87 | 196502041991032001 | Dra. Hendraswati | 24-07-2014 | 07:39 | 15:03 | Kamis
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-24'
+88 | 196502041991032001 | Dra. Hendraswati | 25-07-2014 | 07:50 | 15:16 | Jumat
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-25'
+89 | 196502041991032001 | Dra. Hendraswati | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-26'
+90 | 196502041991032001 | Dra. Hendraswati | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-27'
+91 | 196502041991032001 | Dra. Hendraswati | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-28'
+92 | 196502041991032001 | Dra. Hendraswati | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-29'
+93 | 196502041991032001 | Dra. Hendraswati | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-30'
+94 | 196502041991032001 | Dra. Hendraswati | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502041991032001' AND tanggal = '2014-07-31'
+95 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 01-07-2014 | 08:22 | 14:47 | Selasa
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-01'
+96 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 02-07-2014 | 08:09 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-02'
+97 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 03-07-2014 | 08:06 | 15:04 | Kamis
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-03'
+98 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 04-07-2014 | 08:10 | 15:35 | Jumat
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-04'
+99 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-05'
+100 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-06'
+101 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 07-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-07'
+102 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 08-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-08'
+103 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-09'
+104 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 10-07-2014 | 08:10 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-10'
+105 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 11-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-11'
+106 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-12'
+107 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-13'
+108 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 14-07-2014 | 08:20 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-14'
+109 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 15-07-2014 | 08:15 | 15:05 | Selasa
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-15'
+110 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 16-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-16'
+111 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 17-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-17'
+112 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 18-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-18'
+113 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-19'
+114 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-20'
+115 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 21-07-2014 | 08:20 | 15:10 | Senin
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-21'
+116 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 22-07-2014 | 08:15 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-22'
+117 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 23-07-2014 | 08:36 | 15:04 | Rabu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-23'
+118 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 24-07-2014 | 08:08 | 14:57 | Kamis
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-24'
+119 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 25-07-2014 | 08:15 | 13:00 | Jumat
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-25'
+120 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-26'
+121 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-27'
+122 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-28'
+123 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-29'
+124 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-30'
+125 | 196508051991031002 | Drs. Poltak Johansen, M.Si | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196508051991031002' AND tanggal = '2014-07-31'
+126 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 01-07-2014 | 07:07 | 15:03 | Selasa
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-01'
+127 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 02-07-2014 | 07:11 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-02'
+128 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 03-07-2014 | 07:06 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-03'
+129 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 04-07-2014 | 07:40 | 15:38 | Jumat
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-04'
+130 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-05'
+131 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-06'
+132 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 07-07-2014 | 07:11 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-07'
+133 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 08-07-2014 | 07:43 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-08'
+134 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-09'
+135 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 10-07-2014 | 07:44 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-10'
+136 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 11-07-2014 | 07:39 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-11'
+137 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-12'
+138 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-13'
+139 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 14-07-2014 | 07:03 | 15:03 | Senin
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-14'
+140 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 15-07-2014 | 07:28 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-15'
+141 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 16-07-2014 | 07:42 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-16'
+142 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 17-07-2014 | 07:27 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-17'
+143 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 18-07-2014 | 07:01 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-18'
+144 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-19'
+145 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-20'
+146 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 21-07-2014 | 07:49 | 15:03 | Senin
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-21'
+147 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 22-07-2014 | 07:48 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-22'
+148 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 23-07-2014 | 07:36 | 15:04 | Rabu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-23'
+149 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 24-07-2014 | 07:41 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-24'
+150 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 25-07-2014 | 07:54 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-25'
+151 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-26'
+152 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-27'
+153 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-28'
+154 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-29'
+155 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-30'
+156 | 196402281992031003 | M. Natsir, S.Sos, M.Si | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196402281992031003' AND tanggal = '2014-07-31'
+157 | 197101121993031001 | Wilis Maryanto, S.H | 01-07-2014 | 07:37 | 17:55 | Selasa
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-01'
+158 | 197101121993031001 | Wilis Maryanto, S.H | 02-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-02'
+159 | 197101121993031001 | Wilis Maryanto, S.H | 03-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-03'
+160 | 197101121993031001 | Wilis Maryanto, S.H | 04-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-04'
+161 | 197101121993031001 | Wilis Maryanto, S.H | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-05'
+162 | 197101121993031001 | Wilis Maryanto, S.H | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-06'
+163 | 197101121993031001 | Wilis Maryanto, S.H | 07-07-2014 | 08:17 | 15:51 | Senin
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-07'
+164 | 197101121993031001 | Wilis Maryanto, S.H | 08-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-08'
+165 | 197101121993031001 | Wilis Maryanto, S.H | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-09'
+166 | 197101121993031001 | Wilis Maryanto, S.H | 10-07-2014 | 07:44 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-10'
+167 | 197101121993031001 | Wilis Maryanto, S.H | 11-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-11'
+168 | 197101121993031001 | Wilis Maryanto, S.H | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-12'
+169 | 197101121993031001 | Wilis Maryanto, S.H | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-13'
+170 | 197101121993031001 | Wilis Maryanto, S.H | 14-07-2014 | 07:30 | 16:30 | Senin
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-14'
+171 | 197101121993031001 | Wilis Maryanto, S.H | 15-07-2014 | 07:28 | 16:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-15'
+172 | 197101121993031001 | Wilis Maryanto, S.H | 16-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-16'
+173 | 197101121993031001 | Wilis Maryanto, S.H | 17-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-17'
+174 | 197101121993031001 | Wilis Maryanto, S.H | 18-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-18'
+175 | 197101121993031001 | Wilis Maryanto, S.H | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-19'
+176 | 197101121993031001 | Wilis Maryanto, S.H | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-20'
+177 | 197101121993031001 | Wilis Maryanto, S.H | 21-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-21'
+178 | 197101121993031001 | Wilis Maryanto, S.H | 22-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-22'
+179 | 197101121993031001 | Wilis Maryanto, S.H | 23-07-2014 | 07:54 | 15:22 | Rabu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-23'
+180 | 197101121993031001 | Wilis Maryanto, S.H | 24-07-2014 | 08:53 | 15:18 | Kamis
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-24'
+181 | 197101121993031001 | Wilis Maryanto, S.H | 25-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-25'
+182 | 197101121993031001 | Wilis Maryanto, S.H | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-26'
+183 | 197101121993031001 | Wilis Maryanto, S.H | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-27'
+184 | 197101121993031001 | Wilis Maryanto, S.H | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-28'
+185 | 197101121993031001 | Wilis Maryanto, S.H | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-29'
+186 | 197101121993031001 | Wilis Maryanto, S.H | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-30'
+187 | 197101121993031001 | Wilis Maryanto, S.H | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197101121993031001' AND tanggal = '2014-07-31'
+188 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 01-07-2014 | 07:51 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-01'
+189 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 02-07-2014 | 07:59 | 15:16 | Rabu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-02'
+190 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 03-07-2014 | 07:46 | 15:05 | Kamis
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-03'
+191 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 04-07-2014 | 07:40 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-04'
+192 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-05'
+193 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-06'
+194 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 07-07-2014 | 08:07 | 15:08 | Senin
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-07'
+195 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 08-07-2014 | 07:52 | 15:05 | Selasa
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-08'
+196 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-09'
+197 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 10-07-2014 | 08:03 | 15:06 | Kamis
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-10'
+198 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 11-07-2014 | 07:49 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-11'
+199 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-12'
+200 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-13'
+201 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 14-07-2014 | 08:00 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-14'
+202 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 15-07-2014 | 07:22 | 15:06 | Selasa
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-15'
+203 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 16-07-2014 | 07:27 | 15:04 | Rabu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-16'
+204 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 17-07-2014 | 08:27 | 14:57 | Kamis
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-17'
+205 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 18-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-18'
+206 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-19'
+207 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-20'
+208 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 21-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-21'
+209 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 22-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-22'
+210 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 23-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-23'
+211 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 24-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-24'
+212 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 25-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-25'
+213 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-26'
+214 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-27'
+215 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-28'
+216 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-29'
+217 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-30'
+218 | 197106071999032001 | Neni Puji Nur Rahmawati, S.Si | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197106071999032001' AND tanggal = '2014-07-31'
+219 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 01-07-2014 | 08:00 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-01'
+220 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 02-07-2014 | 08:00 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-02'
+221 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 03-07-2014 | 08:00 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-03'
+222 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 04-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-04'
+223 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-05'
+224 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-06'
+225 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 07-07-2014 | 08:00 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-07'
+226 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 08-07-2014 | 08:00 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-08'
+227 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-09'
+228 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 10-07-2014 | 08:00 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-10'
+229 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 11-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-11'
+230 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-12'
+231 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-13'
+232 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 14-07-2014 | 08:00 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-14'
+233 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 15-07-2014 | 08:00 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-15'
+234 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 16-07-2014 | 08:00 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-16'
+235 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 17-07-2014 | 08:00 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-17'
+236 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 18-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-18'
+237 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-19'
+238 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-20'
+239 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 21-07-2014 | 08:00 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-21'
+240 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 22-07-2014 | 08:00 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-22'
+241 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 23-07-2014 | 08:00 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-23'
+242 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 24-07-2014 | 08:00 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-24'
+243 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 25-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-25'
+244 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-26'
+245 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-27'
+246 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-28'
+247 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-29'
+248 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-30'
+249 | 197307112006052001 | Benedikta Juliatri Widi Wulandari, S.Sos | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197307112006052001' AND tanggal = '2014-07-31'
+250 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 01-07-2014 | 07:43 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-01'
+251 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 02-07-2014 | 08:09 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-02'
+252 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 03-07-2014 | 07:38 | 15:25 | Kamis
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-03'
+253 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 04-07-2014 | 07:36 | 15:25 | Jumat
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-04'
+254 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-05'
+255 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-06'
+256 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 07-07-2014 | 07:45 | 15:04 | Senin
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-07'
+257 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 08-07-2014 | 07:54 | 13:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-08'
+258 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-09'
+259 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 10-07-2014 | 07:47 | 14:59 | Kamis
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-10'
+260 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 11-07-2014 | 07:58 | 15:28 | Jumat
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-11'
+261 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-12'
+262 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-13'
+263 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 14-07-2014 | 08:17 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-14'
+264 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 15-07-2014 | 07:53 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-15'
+265 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 16-07-2014 | 07:44 | 15:01 | Rabu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-16'
+266 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 17-07-2014 | 07:47 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-17'
+267 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 18-07-2014 | 07:45 | 15:33 | Jumat
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-18'
+268 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-19'
+269 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-20'
+270 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 21-07-2014 | 09:34 | 15:02 | Senin
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-21'
+271 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 22-07-2014 | 07:49 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-22'
+272 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 23-07-2014 | 07:43 | 15:06 | Rabu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-23'
+273 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 24-07-2014 | 07:40 | 15:03 | Kamis
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-24'
+274 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 25-07-2014 | 07:46 | 15:12 | Jumat
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-25'
+275 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-26'
+276 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-27'
+277 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-28'
+278 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-29'
+279 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-30'
+280 | 196502091991032001 | Dra. Lisyawati Nurcahyani, M.Si | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196502091991032001' AND tanggal = '2014-07-31'
+281 | 197603112006051001 | Sisva Maryadi, S.Sos | 01-07-2014 | 07:11 | 15:06 | Selasa
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-01'
+282 | 197603112006051001 | Sisva Maryadi, S.Sos | 02-07-2014 | 07:16 | 15:02 | Rabu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-02'
+283 | 197603112006051001 | Sisva Maryadi, S.Sos | 03-07-2014 | 07:00 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-03'
+284 | 197603112006051001 | Sisva Maryadi, S.Sos | 04-07-2014 | 07:22 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-04'
+285 | 197603112006051001 | Sisva Maryadi, S.Sos | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-05'
+286 | 197603112006051001 | Sisva Maryadi, S.Sos | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-06'
+287 | 197603112006051001 | Sisva Maryadi, S.Sos | 07-07-2014 | 07:38 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-07'
+288 | 197603112006051001 | Sisva Maryadi, S.Sos | 08-07-2014 | 07:25 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-08'
+289 | 197603112006051001 | Sisva Maryadi, S.Sos | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-09'
+290 | 197603112006051001 | Sisva Maryadi, S.Sos | 10-07-2014 | 07:04 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-10'
+291 | 197603112006051001 | Sisva Maryadi, S.Sos | 11-07-2014 | 07:21 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-11'
+292 | 197603112006051001 | Sisva Maryadi, S.Sos | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-12'
+293 | 197603112006051001 | Sisva Maryadi, S.Sos | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-13'
+294 | 197603112006051001 | Sisva Maryadi, S.Sos | 14-07-2014 | 07:12 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-14'
+295 | 197603112006051001 | Sisva Maryadi, S.Sos | 15-07-2014 | 07:22 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-15'
+296 | 197603112006051001 | Sisva Maryadi, S.Sos | 16-07-2014 | 07:06 | 15:11 | Rabu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-16'
+297 | 197603112006051001 | Sisva Maryadi, S.Sos | 17-07-2014 | 07:06 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-17'
+298 | 197603112006051001 | Sisva Maryadi, S.Sos | 18-07-2014 | 07:15 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-18'
+299 | 197603112006051001 | Sisva Maryadi, S.Sos | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-19'
+300 | 197603112006051001 | Sisva Maryadi, S.Sos | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-20'
+301 | 197603112006051001 | Sisva Maryadi, S.Sos | 21-07-2014 | 07:01 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-21'
+302 | 197603112006051001 | Sisva Maryadi, S.Sos | 22-07-2014 | 07:10 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-22'
+303 | 197603112006051001 | Sisva Maryadi, S.Sos | 23-07-2014 | 07:02 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-23'
+304 | 197603112006051001 | Sisva Maryadi, S.Sos | 24-07-2014 | 07:05 | 15:03 | Kamis
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-24'
+305 | 197603112006051001 | Sisva Maryadi, S.Sos | 25-07-2014 | 07:14 | 15:31 | Jumat
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-25'
+306 | 197603112006051001 | Sisva Maryadi, S.Sos | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-26'
+307 | 197603112006051001 | Sisva Maryadi, S.Sos | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-27'
+308 | 197603112006051001 | Sisva Maryadi, S.Sos | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-28'
+309 | 197603112006051001 | Sisva Maryadi, S.Sos | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-29'
+310 | 197603112006051001 | Sisva Maryadi, S.Sos | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-30'
+311 | 197603112006051001 | Sisva Maryadi, S.Sos | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197603112006051001' AND tanggal = '2014-07-31'
+312 | 197311212006051001 | Fathul Futuh Tamam, S.S | 01-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-01'
+313 | 197311212006051001 | Fathul Futuh Tamam, S.S | 02-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-02'
+314 | 197311212006051001 | Fathul Futuh Tamam, S.S | 03-07-2014 | 07:50 | 16:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-03'
+315 | 197311212006051001 | Fathul Futuh Tamam, S.S | 04-07-2014 | 05:43 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-04'
+316 | 197311212006051001 | Fathul Futuh Tamam, S.S | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-05'
+317 | 197311212006051001 | Fathul Futuh Tamam, S.S | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-06'
+318 | 197311212006051001 | Fathul Futuh Tamam, S.S | 07-07-2014 | 07:00 | 16:00 | Senin
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-07'
+319 | 197311212006051001 | Fathul Futuh Tamam, S.S | 08-07-2014 | 07:20 | 16:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-08'
+320 | 197311212006051001 | Fathul Futuh Tamam, S.S | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-09'
+321 | 197311212006051001 | Fathul Futuh Tamam, S.S | 10-07-2014 | 07:25 | 16:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-10'
+322 | 197311212006051001 | Fathul Futuh Tamam, S.S | 11-07-2014 | 07:30 | 16:00 | Jumat
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-11'
+323 | 197311212006051001 | Fathul Futuh Tamam, S.S | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-12'
+324 | 197311212006051001 | Fathul Futuh Tamam, S.S | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-13'
+325 | 197311212006051001 | Fathul Futuh Tamam, S.S | 14-07-2014 | 07:20 | 15:30 | Senin
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-14'
+326 | 197311212006051001 | Fathul Futuh Tamam, S.S | 15-07-2014 | 07:30 | 15:30 | Selasa
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-15'
+327 | 197311212006051001 | Fathul Futuh Tamam, S.S | 16-07-2014 | 07:30 | 15:30 | Rabu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-16'
+328 | 197311212006051001 | Fathul Futuh Tamam, S.S | 17-07-2014 | 07:30 | 15:45 | Kamis
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-17'
+329 | 197311212006051001 | Fathul Futuh Tamam, S.S | 18-07-2014 | 07:20 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-18'
+330 | 197311212006051001 | Fathul Futuh Tamam, S.S | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-19'
+331 | 197311212006051001 | Fathul Futuh Tamam, S.S | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-20'
+332 | 197311212006051001 | Fathul Futuh Tamam, S.S | 21-07-2014 | 07:40 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-21'
+333 | 197311212006051001 | Fathul Futuh Tamam, S.S | 22-07-2014 | 07:50 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-22'
+334 | 197311212006051001 | Fathul Futuh Tamam, S.S | 23-07-2014 | 07:50 | 16:00 | Rabu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-23'
+335 | 197311212006051001 | Fathul Futuh Tamam, S.S | 24-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-24'
+336 | 197311212006051001 | Fathul Futuh Tamam, S.S | 25-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-25'
+337 | 197311212006051001 | Fathul Futuh Tamam, S.S | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-26'
+338 | 197311212006051001 | Fathul Futuh Tamam, S.S | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-27'
+339 | 197311212006051001 | Fathul Futuh Tamam, S.S | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-28'
+340 | 197311212006051001 | Fathul Futuh Tamam, S.S | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-29'
+341 | 197311212006051001 | Fathul Futuh Tamam, S.S | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-30'
+342 | 197311212006051001 | Fathul Futuh Tamam, S.S | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197311212006051001' AND tanggal = '2014-07-31'
+343 | 197409172008021001 | Moch. Andri WP, S.Sos | 01-07-2014 | 08:03 | 15:44 | Selasa
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-01'
+344 | 197409172008021001 | Moch. Andri WP, S.Sos | 02-07-2014 | 08:13 | 15:33 | Rabu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-02'
+345 | 197409172008021001 | Moch. Andri WP, S.Sos | 03-07-2014 | 08:10 | 15:20 | Kamis
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-03'
+346 | 197409172008021001 | Moch. Andri WP, S.Sos | 04-07-2014 | 08:26 | 15:56 | Jumat
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-04'
+347 | 197409172008021001 | Moch. Andri WP, S.Sos | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-05'
+348 | 197409172008021001 | Moch. Andri WP, S.Sos | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-06'
+349 | 197409172008021001 | Moch. Andri WP, S.Sos | 07-07-2014 | 08:24 | 15:36 | Senin
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-07'
+350 | 197409172008021001 | Moch. Andri WP, S.Sos | 08-07-2014 | 08:11 | 15:11 | Selasa
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-08'
+351 | 197409172008021001 | Moch. Andri WP, S.Sos | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-09'
+352 | 197409172008021001 | Moch. Andri WP, S.Sos | 10-07-2014 | 08:16 | 15:41 | Kamis
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-10'
+353 | 197409172008021001 | Moch. Andri WP, S.Sos | 11-07-2014 | 08:25 | 15:39 | Jumat
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-11'
+354 | 197409172008021001 | Moch. Andri WP, S.Sos | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-12'
+355 | 197409172008021001 | Moch. Andri WP, S.Sos | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-13'
+356 | 197409172008021001 | Moch. Andri WP, S.Sos | 14-07-2014 | 07:45 | 15:40 | Senin
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-14'
+357 | 197409172008021001 | Moch. Andri WP, S.Sos | 15-07-2014 | 07:47 | 15:15 | Selasa
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-15'
+358 | 197409172008021001 | Moch. Andri WP, S.Sos | 16-07-2014 | 07:57 | 15:14 | Rabu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-16'
+359 | 197409172008021001 | Moch. Andri WP, S.Sos | 17-07-2014 | 07:57 | 15:16 | Kamis
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-17'
+360 | 197409172008021001 | Moch. Andri WP, S.Sos | 18-07-2014 | 08:30 | 16:08 | Jumat
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-18'
+361 | 197409172008021001 | Moch. Andri WP, S.Sos | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-19'
+362 | 197409172008021001 | Moch. Andri WP, S.Sos | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-20'
+363 | 197409172008021001 | Moch. Andri WP, S.Sos | 21-07-2014 | 07:46 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-21'
+364 | 197409172008021001 | Moch. Andri WP, S.Sos | 22-07-2014 | 08:03 | 15:35 | Selasa
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-22'
+365 | 197409172008021001 | Moch. Andri WP, S.Sos | 23-07-2014 | 08:02 | 15:13 | Rabu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-23'
+366 | 197409172008021001 | Moch. Andri WP, S.Sos | 24-07-2014 | 07:42 | 15:13 | Kamis
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-24'
+367 | 197409172008021001 | Moch. Andri WP, S.Sos | 25-07-2014 | 08:00 | 15:14 | Jumat
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-25'
+368 | 197409172008021001 | Moch. Andri WP, S.Sos | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-26'
+369 | 197409172008021001 | Moch. Andri WP, S.Sos | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-27'
+370 | 197409172008021001 | Moch. Andri WP, S.Sos | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-28'
+371 | 197409172008021001 | Moch. Andri WP, S.Sos | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-29'
+372 | 197409172008021001 | Moch. Andri WP, S.Sos | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-30'
+373 | 197409172008021001 | Moch. Andri WP, S.Sos | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197409172008021001' AND tanggal = '2014-07-31'
+374 | 198105242008022001 | Any Rahmayani, S.S | 01-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-01'
+375 | 198105242008022001 | Any Rahmayani, S.S | 02-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-02'
+376 | 198105242008022001 | Any Rahmayani, S.S | 03-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-03'
+377 | 198105242008022001 | Any Rahmayani, S.S | 04-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-04'
+378 | 198105242008022001 | Any Rahmayani, S.S | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-05'
+379 | 198105242008022001 | Any Rahmayani, S.S | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-06'
+380 | 198105242008022001 | Any Rahmayani, S.S | 07-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-07'
+381 | 198105242008022001 | Any Rahmayani, S.S | 08-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-08'
+382 | 198105242008022001 | Any Rahmayani, S.S | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-09'
+383 | 198105242008022001 | Any Rahmayani, S.S | 10-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-10'
+384 | 198105242008022001 | Any Rahmayani, S.S | 11-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-11'
+385 | 198105242008022001 | Any Rahmayani, S.S | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-12'
+386 | 198105242008022001 | Any Rahmayani, S.S | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-13'
+387 | 198105242008022001 | Any Rahmayani, S.S | 14-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-14'
+388 | 198105242008022001 | Any Rahmayani, S.S | 15-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-15'
+389 | 198105242008022001 | Any Rahmayani, S.S | 16-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-16'
+390 | 198105242008022001 | Any Rahmayani, S.S | 17-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-17'
+391 | 198105242008022001 | Any Rahmayani, S.S | 18-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-18'
+392 | 198105242008022001 | Any Rahmayani, S.S | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-19'
+393 | 198105242008022001 | Any Rahmayani, S.S | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-20'
+394 | 198105242008022001 | Any Rahmayani, S.S | 21-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-21'
+395 | 198105242008022001 | Any Rahmayani, S.S | 22-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-22'
+396 | 198105242008022001 | Any Rahmayani, S.S | 23-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-23'
+397 | 198105242008022001 | Any Rahmayani, S.S | 24-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-24'
+398 | 198105242008022001 | Any Rahmayani, S.S | 25-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-25'
+399 | 198105242008022001 | Any Rahmayani, S.S | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-26'
+400 | 198105242008022001 | Any Rahmayani, S.S | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-27'
+401 | 198105242008022001 | Any Rahmayani, S.S | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-28'
+402 | 198105242008022001 | Any Rahmayani, S.S | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-29'
+403 | 198105242008022001 | Any Rahmayani, S.S | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-30'
+404 | 198105242008022001 | Any Rahmayani, S.S | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198105242008022001' AND tanggal = '2014-07-31'
+405 | 198405262008022002 | Dana Listiana, S.S | 01-07-2014 | 07:54 | 15:25 | Selasa
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-01'
+406 | 198405262008022002 | Dana Listiana, S.S | 02-07-2014 | 07:48 | 15:11 | Rabu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-02'
+407 | 198405262008022002 | Dana Listiana, S.S | 03-07-2014 | 08:02 | 15:29 | Kamis
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-03'
+408 | 198405262008022002 | Dana Listiana, S.S | 04-07-2014 | 07:51 | 16:30 | Jumat
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-04'
+409 | 198405262008022002 | Dana Listiana, S.S | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-05'
+410 | 198405262008022002 | Dana Listiana, S.S | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-06'
+411 | 198405262008022002 | Dana Listiana, S.S | 07-07-2014 | 07:51 | 15:37 | Senin
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-07'
+412 | 198405262008022002 | Dana Listiana, S.S | 08-07-2014 | 07:39 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-08'
+413 | 198405262008022002 | Dana Listiana, S.S | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-09'
+414 | 198405262008022002 | Dana Listiana, S.S | 10-07-2014 | 07:55 | 15:18 | Kamis
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-10'
+415 | 198405262008022002 | Dana Listiana, S.S | 11-07-2014 | 07:51 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-11'
+416 | 198405262008022002 | Dana Listiana, S.S | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-12'
+417 | 198405262008022002 | Dana Listiana, S.S | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-13'
+418 | 198405262008022002 | Dana Listiana, S.S | 14-07-2014 | 08:28 | 15:42 | Senin
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-14'
+419 | 198405262008022002 | Dana Listiana, S.S | 15-07-2014 | 07:44 | 15:47 | Selasa
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-15'
+420 | 198405262008022002 | Dana Listiana, S.S | 16-07-2014 | 08:07 | 15:39 | Rabu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-16'
+421 | 198405262008022002 | Dana Listiana, S.S | 17-07-2014 | 08:12 | 15:44 | Kamis
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-17'
+422 | 198405262008022002 | Dana Listiana, S.S | 18-07-2014 | 07:54 | 16:02 | Jumat
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-18'
+423 | 198405262008022002 | Dana Listiana, S.S | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-19'
+424 | 198405262008022002 | Dana Listiana, S.S | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-20'
+425 | 198405262008022002 | Dana Listiana, S.S | 21-07-2014 | 08:08 | 15:34 | Senin
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-21'
+426 | 198405262008022002 | Dana Listiana, S.S | 22-07-2014 | 07:55 | 15:30 | Selasa
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-22'
+427 | 198405262008022002 | Dana Listiana, S.S | 23-07-2014 | 08:01 | 15:18 | Rabu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-23'
+428 | 198405262008022002 | Dana Listiana, S.S | 24-07-2014 | 07:53 | 15:13 | Kamis
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-24'
+429 | 198405262008022002 | Dana Listiana, S.S | 25-07-2014 | 08:17 | 16:00 | Jumat
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-25'
+430 | 198405262008022002 | Dana Listiana, S.S | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-26'
+431 | 198405262008022002 | Dana Listiana, S.S | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-27'
+432 | 198405262008022002 | Dana Listiana, S.S | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-28'
+433 | 198405262008022002 | Dana Listiana, S.S | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-29'
+434 | 198405262008022002 | Dana Listiana, S.S | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-30'
+435 | 198405262008022002 | Dana Listiana, S.S | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '198405262008022002' AND tanggal = '2014-07-31'
+436 | 197204241991031001 | Busrah, S.Sos | 01-07-2014 | 07:51 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-01'
+437 | 197204241991031001 | Busrah, S.Sos | 02-07-2014 | 07:59 | 15:16 | Rabu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-02'
+438 | 197204241991031001 | Busrah, S.Sos | 03-07-2014 | 07:46 | 15:05 | Kamis
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-03'
+439 | 197204241991031001 | Busrah, S.Sos | 04-07-2014 | 07:40 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-04'
+440 | 197204241991031001 | Busrah, S.Sos | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-05'
+441 | 197204241991031001 | Busrah, S.Sos | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-06'
+442 | 197204241991031001 | Busrah, S.Sos | 07-07-2014 | 08:07 | 15:08 | Senin
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-07'
+443 | 197204241991031001 | Busrah, S.Sos | 08-07-2014 | 07:52 | 15:05 | Selasa
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-08'
+444 | 197204241991031001 | Busrah, S.Sos | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-09'
+445 | 197204241991031001 | Busrah, S.Sos | 10-07-2014 | 08:03 | 15:06 | Kamis
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-10'
+446 | 197204241991031001 | Busrah, S.Sos | 11-07-2014 | 07:49 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-11'
+447 | 197204241991031001 | Busrah, S.Sos | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-12'
+448 | 197204241991031001 | Busrah, S.Sos | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-13'
+449 | 197204241991031001 | Busrah, S.Sos | 14-07-2014 | 08:00 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-14'
+450 | 197204241991031001 | Busrah, S.Sos | 15-07-2014 | 07:22 | 15:06 | Selasa
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-15'
+451 | 197204241991031001 | Busrah, S.Sos | 16-07-2014 | 07:27 | 15:04 | Rabu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-16'
+452 | 197204241991031001 | Busrah, S.Sos | 17-07-2014 | 08:27 | 14:57 | Kamis
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-17'
+453 | 197204241991031001 | Busrah, S.Sos | 18-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-18'
+454 | 197204241991031001 | Busrah, S.Sos | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-19'
+455 | 197204241991031001 | Busrah, S.Sos | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-20'
+456 | 197204241991031001 | Busrah, S.Sos | 21-07-2014 | 08:32 | 15:41 | Senin
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-21'
+457 | 197204241991031001 | Busrah, S.Sos | 22-07-2014 | 08:00 | 15:10 | Selasa
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-22'
+458 | 197204241991031001 | Busrah, S.Sos | 23-07-2014 | 08:05 | 15:10 | Rabu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-23'
+459 | 197204241991031001 | Busrah, S.Sos | 24-07-2014 | 08:00 | 15:13 | Kamis
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-24'
+460 | 197204241991031001 | Busrah, S.Sos | 25-07-2014 | 08:15 | 15:52 | Jumat
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-25'
+461 | 197204241991031001 | Busrah, S.Sos | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-26'
+462 | 197204241991031001 | Busrah, S.Sos | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-27'
+463 | 197204241991031001 | Busrah, S.Sos | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-28'
+464 | 197204241991031001 | Busrah, S.Sos | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-29'
+465 | 197204241991031001 | Busrah, S.Sos | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-30'
+466 | 197204241991031001 | Busrah, S.Sos | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197204241991031001' AND tanggal = '2014-07-31'
+467 | 196702231992032001 | Dra. Asnaini | 01-07-2014 | 07:43 | 15:06 | Selasa
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-01'
+468 | 196702231992032001 | Dra. Asnaini | 02-07-2014 | 07:48 | 15:05 | Rabu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-02'
+469 | 196702231992032001 | Dra. Asnaini | 03-07-2014 | 07:41 | 15:12 | Kamis
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-03'
+470 | 196702231992032001 | Dra. Asnaini | 04-07-2014 | 07:22 | 15:34 | Jumat
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-04'
+471 | 196702231992032001 | Dra. Asnaini | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-05'
+472 | 196702231992032001 | Dra. Asnaini | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-06'
+473 | 196702231992032001 | Dra. Asnaini | 07-07-2014 | 08:02 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-07'
+474 | 196702231992032001 | Dra. Asnaini | 08-07-2014 | 07:59 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-08'
+475 | 196702231992032001 | Dra. Asnaini | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-09'
+476 | 196702231992032001 | Dra. Asnaini | 10-07-2014 | 07:18 | 16:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-10'
+477 | 196702231992032001 | Dra. Asnaini | 11-07-2014 | 07:37 | 15:13 | Jumat
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-11'
+478 | 196702231992032001 | Dra. Asnaini | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-12'
+479 | 196702231992032001 | Dra. Asnaini | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-13'
+480 | 196702231992032001 | Dra. Asnaini | 14-07-2014 | 07:04 | 15:14 | Senin
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-14'
+481 | 196702231992032001 | Dra. Asnaini | 15-07-2014 | 07:22 | 15:23 | Selasa
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-15'
+482 | 196702231992032001 | Dra. Asnaini | 16-07-2014 | 07:20 | 15:05 | Rabu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-16'
+483 | 196702231992032001 | Dra. Asnaini | 17-07-2014 | 07:00 | 15:24 | Kamis
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-17'
+484 | 196702231992032001 | Dra. Asnaini | 18-07-2014 | 07:19 | 15:40 | Jumat
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-18'
+485 | 196702231992032001 | Dra. Asnaini | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-19'
+486 | 196702231992032001 | Dra. Asnaini | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-20'
+487 | 196702231992032001 | Dra. Asnaini | 21-07-2014 | 07:34 | 15:23 | Senin
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-21'
+488 | 196702231992032001 | Dra. Asnaini | 22-07-2014 | 07:47 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-22'
+489 | 196702231992032001 | Dra. Asnaini | 23-07-2014 | 08:01 | 15:38 | Rabu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-23'
+490 | 196702231992032001 | Dra. Asnaini | 24-07-2014 | 07:45 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-24'
+491 | 196702231992032001 | Dra. Asnaini | 25-07-2014 | 08:02 | 15:16 | Jumat
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-25'
+492 | 196702231992032001 | Dra. Asnaini | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-26'
+493 | 196702231992032001 | Dra. Asnaini | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-27'
+494 | 196702231992032001 | Dra. Asnaini | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-28'
+495 | 196702231992032001 | Dra. Asnaini | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-29'
+496 | 196702231992032001 | Dra. Asnaini | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-30'
+497 | 196702231992032001 | Dra. Asnaini | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196702231992032001' AND tanggal = '2014-07-31'
+498 | 196209271992031001 | Abdul Wahab | 01-07-2014 | 08:40 | 15:18 | Selasa
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-01'
+499 | 196209271992031001 | Abdul Wahab | 02-07-2014 | 08:03 | 15:04 | Rabu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-02'
+500 | 196209271992031001 | Abdul Wahab | 03-07-2014 | 08:02 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-03'
+501 | 196209271992031001 | Abdul Wahab | 04-07-2014 | 08:01 | 15:37 | Jumat
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-04'
+502 | 196209271992031001 | Abdul Wahab | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-05'
+503 | 196209271992031001 | Abdul Wahab | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-06'
+504 | 196209271992031001 | Abdul Wahab | 07-07-2014 | 07:36 | 15:05 | Senin
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-07'
+505 | 196209271992031001 | Abdul Wahab | 08-07-2014 | 08:19 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-08'
+506 | 196209271992031001 | Abdul Wahab | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-09'
+507 | 196209271992031001 | Abdul Wahab | 10-07-2014 | 07:53 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-10'
+508 | 196209271992031001 | Abdul Wahab | 11-07-2014 | 07:48 | 15:37 | Jumat
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-11'
+509 | 196209271992031001 | Abdul Wahab | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-12'
+510 | 196209271992031001 | Abdul Wahab | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-13'
+511 | 196209271992031001 | Abdul Wahab | 14-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-14'
+512 | 196209271992031001 | Abdul Wahab | 15-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-15'
+513 | 196209271992031001 | Abdul Wahab | 16-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-16'
+514 | 196209271992031001 | Abdul Wahab | 17-07-2014 | 08:24 | 15:34 | Kamis
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-17'
+515 | 196209271992031001 | Abdul Wahab | 18-07-2014 | 07:53 | 15:43 | Jumat
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-18'
+516 | 196209271992031001 | Abdul Wahab | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-19'
+517 | 196209271992031001 | Abdul Wahab | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-20'
+518 | 196209271992031001 | Abdul Wahab | 21-07-2014 | 07:42 | 15:06 | Senin
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-21'
+519 | 196209271992031001 | Abdul Wahab | 22-07-2014 | 07:55 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-22'
+520 | 196209271992031001 | Abdul Wahab | 23-07-2014 | 07:45 | 15:01 | Rabu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-23'
+521 | 196209271992031001 | Abdul Wahab | 24-07-2014 | 07:53 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-24'
+522 | 196209271992031001 | Abdul Wahab | 25-07-2014 | 07:47 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-25'
+523 | 196209271992031001 | Abdul Wahab | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-26'
+524 | 196209271992031001 | Abdul Wahab | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-27'
+525 | 196209271992031001 | Abdul Wahab | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-28'
+526 | 196209271992031001 | Abdul Wahab | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-29'
+527 | 196209271992031001 | Abdul Wahab | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-30'
+528 | 196209271992031001 | Abdul Wahab | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196209271992031001' AND tanggal = '2014-07-31'
+529 | 197210031992032001 | Eni Rohani | 01-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-01'
+530 | 197210031992032001 | Eni Rohani | 02-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-02'
+531 | 197210031992032001 | Eni Rohani | 03-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-03'
+532 | 197210031992032001 | Eni Rohani | 04-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-04'
+533 | 197210031992032001 | Eni Rohani | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-05'
+534 | 197210031992032001 | Eni Rohani | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-06'
+535 | 197210031992032001 | Eni Rohani | 07-07-2014 | 08:00 | 15:35 | Senin
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-07'
+536 | 197210031992032001 | Eni Rohani | 08-07-2014 | 08:35 | 15:45 | Selasa
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-08'
+537 | 197210031992032001 | Eni Rohani | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-09'
+538 | 197210031992032001 | Eni Rohani | 10-07-2014 | 07:53 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-10'
+539 | 197210031992032001 | Eni Rohani | 11-07-2014 | 07:48 | 15:37 | Jumat
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-11'
+540 | 197210031992032001 | Eni Rohani | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-12'
+541 | 197210031992032001 | Eni Rohani | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-13'
+542 | 197210031992032001 | Eni Rohani | 14-07-2014 | 07:30 | 15:10 | Senin
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-14'
+543 | 197210031992032001 | Eni Rohani | 15-07-2014 | 07:47 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-15'
+544 | 197210031992032001 | Eni Rohani | 16-07-2014 | 07:44 | 15:28 | Rabu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-16'
+545 | 197210031992032001 | Eni Rohani | 17-07-2014 | 07:11 | 15:32 | Kamis
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-17'
+546 | 197210031992032001 | Eni Rohani | 18-07-2014 | 07:17 | 16:03 | Jumat
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-18'
+547 | 197210031992032001 | Eni Rohani | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-19'
+548 | 197210031992032001 | Eni Rohani | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-20'
+549 | 197210031992032001 | Eni Rohani | 21-07-2014 | 08:32 | 15:45 | Senin
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-21'
+550 | 197210031992032001 | Eni Rohani | 22-07-2014 | 08:57 | 15:10 | Selasa
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-22'
+551 | 197210031992032001 | Eni Rohani | 23-07-2014 | 08:05 | 15:33 | Rabu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-23'
+552 | 197210031992032001 | Eni Rohani | 24-07-2014 | 08:10 | 16:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-24'
+553 | 197210031992032001 | Eni Rohani | 25-07-2014 | 08:00 | 15:45 | Jumat
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-25'
+554 | 197210031992032001 | Eni Rohani | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-26'
+555 | 197210031992032001 | Eni Rohani | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-27'
+556 | 197210031992032001 | Eni Rohani | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-28'
+557 | 197210031992032001 | Eni Rohani | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-29'
+558 | 197210031992032001 | Eni Rohani | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-30'
+559 | 197210031992032001 | Eni Rohani | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197210031992032001' AND tanggal = '2014-07-31'
+560 | 196512011993032002 | Siti Aisyah | 01-07-2014 | 07:59 | 15:04 | Selasa
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-01'
+561 | 196512011993032002 | Siti Aisyah | 02-07-2014 | 07:53 | 15:10 | Rabu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-02'
+562 | 196512011993032002 | Siti Aisyah | 03-07-2014 | 07:54 | 15:05 | Kamis
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-03'
+563 | 196512011993032002 | Siti Aisyah | 04-07-2014 | 07:59 | 15:27 | Jumat
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-04'
+564 | 196512011993032002 | Siti Aisyah | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-05'
+565 | 196512011993032002 | Siti Aisyah | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-06'
+566 | 196512011993032002 | Siti Aisyah | 07-07-2014 | 07:55 | 15:07 | Senin
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-07'
+567 | 196512011993032002 | Siti Aisyah | 08-07-2014 | 07:57 | 15:09 | Selasa
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-08'
+568 | 196512011993032002 | Siti Aisyah | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-09'
+569 | 196512011993032002 | Siti Aisyah | 10-07-2014 | 07:58 | 15:08 | Kamis
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-10'
+570 | 196512011993032002 | Siti Aisyah | 11-07-2014 | 07:58 | 15:46 | Jumat
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-11'
+571 | 196512011993032002 | Siti Aisyah | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-12'
+572 | 196512011993032002 | Siti Aisyah | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-13'
+573 | 196512011993032002 | Siti Aisyah | 14-07-2014 | 08:09 | 15:02 | Senin
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-14'
+574 | 196512011993032002 | Siti Aisyah | 15-07-2014 | 07:53 | 15:14 | Selasa
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-15'
+575 | 196512011993032002 | Siti Aisyah | 16-07-2014 | 07:53 | 15:14 | Rabu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-16'
+576 | 196512011993032002 | Siti Aisyah | 17-07-2014 | 07:53 | 15:04 | Kamis
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-17'
+577 | 196512011993032002 | Siti Aisyah | 18-07-2014 | 08:01 | 15:33 | Jumat
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-18'
+578 | 196512011993032002 | Siti Aisyah | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-19'
+579 | 196512011993032002 | Siti Aisyah | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-20'
+580 | 196512011993032002 | Siti Aisyah | 21-07-2014 | 07:54 | 15:02 | Senin
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-21'
+581 | 196512011993032002 | Siti Aisyah | 22-07-2014 | 07:56 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-22'
+582 | 196512011993032002 | Siti Aisyah | 23-07-2014 | 08:00 | 15:10 | Rabu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-23'
+583 | 196512011993032002 | Siti Aisyah | 24-07-2014 | 08:03 | 15:11 | Kamis
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-24'
+584 | 196512011993032002 | Siti Aisyah | 25-07-2014 | 08:10 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-25'
+585 | 196512011993032002 | Siti Aisyah | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-26'
+586 | 196512011993032002 | Siti Aisyah | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-27'
+587 | 196512011993032002 | Siti Aisyah | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-28'
+588 | 196512011993032002 | Siti Aisyah | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-29'
+589 | 196512011993032002 | Siti Aisyah | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-30'
+590 | 196512011993032002 | Siti Aisyah | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196512011993032002' AND tanggal = '2014-07-31'
+591 | 196205071986022001 | Kamariah | 01-07-2014 | 08:05 | 15:04 | Selasa
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-01'
+592 | 196205071986022001 | Kamariah | 02-07-2014 | 07:53 | 15:01 | Rabu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-02'
+593 | 196205071986022001 | Kamariah | 03-07-2014 | 07:51 | 15:02 | Kamis
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-03'
+594 | 196205071986022001 | Kamariah | 04-07-2014 | 07:56 | 15:31 | Jumat
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-04'
+595 | 196205071986022001 | Kamariah | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-05'
+596 | 196205071986022001 | Kamariah | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-06'
+597 | 196205071986022001 | Kamariah | 07-07-2014 | 07:47 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-07'
+598 | 196205071986022001 | Kamariah | 08-07-2014 | 07:42 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-08'
+599 | 196205071986022001 | Kamariah | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-09'
+600 | 196205071986022001 | Kamariah | 10-07-2014 | 08:02 | 15:04 | Kamis
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-10'
+601 | 196205071986022001 | Kamariah | 11-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-11'
+602 | 196205071986022001 | Kamariah | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-12'
+603 | 196205071986022001 | Kamariah | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-13'
+604 | 196205071986022001 | Kamariah | 14-07-2014 | 07:47 | 15:04 | Senin
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-14'
+605 | 196205071986022001 | Kamariah | 15-07-2014 | 07:57 | 15:03 | Selasa
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-15'
+606 | 196205071986022001 | Kamariah | 16-07-2014 | 08:16 | 15:14 | Rabu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-16'
+607 | 196205071986022001 | Kamariah | 17-07-2014 | 07:59 | 15:03 | Kamis
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-17'
+608 | 196205071986022001 | Kamariah | 18-07-2014 | 07:52 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-18'
+609 | 196205071986022001 | Kamariah | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-19'
+610 | 196205071986022001 | Kamariah | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-20'
+611 | 196205071986022001 | Kamariah | 21-07-2014 | 08:13 | 15:08 | Senin
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-21'
+612 | 196205071986022001 | Kamariah | 22-07-2014 | 08:00 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-22'
+613 | 196205071986022001 | Kamariah | 23-07-2014 | 07:49 | 15:02 | Rabu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-23'
+614 | 196205071986022001 | Kamariah | 24-07-2014 | 08:03 | 15:04 | Kamis
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-24'
+615 | 196205071986022001 | Kamariah | 25-07-2014 | 08:04 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-25'
+616 | 196205071986022001 | Kamariah | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-26'
+617 | 196205071986022001 | Kamariah | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-27'
+618 | 196205071986022001 | Kamariah | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-28'
+619 | 196205071986022001 | Kamariah | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-29'
+620 | 196205071986022001 | Kamariah | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-30'
+621 | 196205071986022001 | Kamariah | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196205071986022001' AND tanggal = '2014-07-31'
+622 | 196912251990032001 | Alini | 01-07-2014 | 07:47 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-01'
+623 | 196912251990032001 | Alini | 02-07-2014 | 07:35 | 15:10 | Rabu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-02'
+624 | 196912251990032001 | Alini | 03-07-2014 | 07:41 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-03'
+625 | 196912251990032001 | Alini | 04-07-2014 | 07:44 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-04'
+626 | 196912251990032001 | Alini | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-05'
+627 | 196912251990032001 | Alini | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-06'
+628 | 196912251990032001 | Alini | 07-07-2014 | 07:36 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-07'
+629 | 196912251990032001 | Alini | 08-07-2014 | 07:42 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-08'
+630 | 196912251990032001 | Alini | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-09'
+631 | 196912251990032001 | Alini | 10-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-10'
+632 | 196912251990032001 | Alini | 11-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-11'
+633 | 196912251990032001 | Alini | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-12'
+634 | 196912251990032001 | Alini | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-13'
+635 | 196912251990032001 | Alini | 14-07-2014 | 07:47 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-14'
+636 | 196912251990032001 | Alini | 15-07-2014 | 07:38 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-15'
+637 | 196912251990032001 | Alini | 16-07-2014 | 07:45 | 15:01 | Rabu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-16'
+638 | 196912251990032001 | Alini | 17-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-17'
+639 | 196912251990032001 | Alini | 18-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-18'
+640 | 196912251990032001 | Alini | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-19'
+641 | 196912251990032001 | Alini | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-20'
+642 | 196912251990032001 | Alini | 21-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-21'
+643 | 196912251990032001 | Alini | 22-07-2014 | 07:49 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-22'
+644 | 196912251990032001 | Alini | 23-07-2014 | 07:42 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-23'
+645 | 196912251990032001 | Alini | 24-07-2014 | 07:43 | 15:03 | Kamis
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-24'
+646 | 196912251990032001 | Alini | 25-07-2014 | 07:47 | 16:02 | Jumat
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-25'
+647 | 196912251990032001 | Alini | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-26'
+648 | 196912251990032001 | Alini | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-27'
+649 | 196912251990032001 | Alini | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-28'
+650 | 196912251990032001 | Alini | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-29'
+651 | 196912251990032001 | Alini | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-30'
+652 | 196912251990032001 | Alini | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912251990032001' AND tanggal = '2014-07-31'
+653 | 196511051986022001 | Sukzu Hartati | 01-07-2014 | 07:11 | 15:03 | Selasa
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-01'
+654 | 196511051986022001 | Sukzu Hartati | 02-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-02'
+655 | 196511051986022001 | Sukzu Hartati | 03-07-2014 | 07:24 | 15:03 | Kamis
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-03'
+656 | 196511051986022001 | Sukzu Hartati | 04-07-2014 | 07:27 | 15:01 | Jumat
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-04'
+657 | 196511051986022001 | Sukzu Hartati | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-05'
+658 | 196511051986022001 | Sukzu Hartati | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-06'
+659 | 196511051986022001 | Sukzu Hartati | 07-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-07'
+660 | 196511051986022001 | Sukzu Hartati | 08-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-08'
+661 | 196511051986022001 | Sukzu Hartati | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-09'
+662 | 196511051986022001 | Sukzu Hartati | 10-07-2014 | 07:35 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-10'
+663 | 196511051986022001 | Sukzu Hartati | 11-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-11'
+664 | 196511051986022001 | Sukzu Hartati | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-12'
+665 | 196511051986022001 | Sukzu Hartati | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-13'
+666 | 196511051986022001 | Sukzu Hartati | 14-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-14'
+667 | 196511051986022001 | Sukzu Hartati | 15-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-15'
+668 | 196511051986022001 | Sukzu Hartati | 16-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-16'
+669 | 196511051986022001 | Sukzu Hartati | 17-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-17'
+670 | 196511051986022001 | Sukzu Hartati | 18-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-18'
+671 | 196511051986022001 | Sukzu Hartati | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-19'
+672 | 196511051986022001 | Sukzu Hartati | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-20'
+673 | 196511051986022001 | Sukzu Hartati | 21-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-21'
+674 | 196511051986022001 | Sukzu Hartati | 22-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-22'
+675 | 196511051986022001 | Sukzu Hartati | 23-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-23'
+676 | 196511051986022001 | Sukzu Hartati | 24-07-2014 | 08:00 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-24'
+677 | 196511051986022001 | Sukzu Hartati | 25-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-25'
+678 | 196511051986022001 | Sukzu Hartati | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-26'
+679 | 196511051986022001 | Sukzu Hartati | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-27'
+680 | 196511051986022001 | Sukzu Hartati | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-28'
+681 | 196511051986022001 | Sukzu Hartati | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-29'
+682 | 196511051986022001 | Sukzu Hartati | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-30'
+683 | 196511051986022001 | Sukzu Hartati | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196511051986022001' AND tanggal = '2014-07-31'
+684 | 196604211991032001 | Apriyani Bachtiar | 01-07-2014 | 07:45 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-01'
+685 | 196604211991032001 | Apriyani Bachtiar | 02-07-2014 | 07:36 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-02'
+686 | 196604211991032001 | Apriyani Bachtiar | 03-07-2014 | 07:43 | 15:03 | Kamis
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-03'
+687 | 196604211991032001 | Apriyani Bachtiar | 04-07-2014 | 07:35 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-04'
+688 | 196604211991032001 | Apriyani Bachtiar | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-05'
+689 | 196604211991032001 | Apriyani Bachtiar | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-06'
+690 | 196604211991032001 | Apriyani Bachtiar | 07-07-2014 | 07:43 | 15:03 | Senin
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-07'
+691 | 196604211991032001 | Apriyani Bachtiar | 08-07-2014 | 07:48 | 15:04 | Selasa
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-08'
+692 | 196604211991032001 | Apriyani Bachtiar | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-09'
+693 | 196604211991032001 | Apriyani Bachtiar | 10-07-2014 | 07:47 | 15:06 | Kamis
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-10'
+694 | 196604211991032001 | Apriyani Bachtiar | 11-07-2014 | 07:41 | 15:46 | Jumat
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-11'
+695 | 196604211991032001 | Apriyani Bachtiar | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-12'
+696 | 196604211991032001 | Apriyani Bachtiar | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-13'
+697 | 196604211991032001 | Apriyani Bachtiar | 14-07-2014 | 07:45 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-14'
+698 | 196604211991032001 | Apriyani Bachtiar | 15-07-2014 | 07:45 | 14:59 | Selasa
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-15'
+699 | 196604211991032001 | Apriyani Bachtiar | 16-07-2014 | 07:37 | 15:03 | Rabu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-16'
+700 | 196604211991032001 | Apriyani Bachtiar | 17-07-2014 | 07:45 | 15:02 | Kamis
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-17'
+701 | 196604211991032001 | Apriyani Bachtiar | 18-07-2014 | 07:42 | 15:33 | Jumat
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-18'
+702 | 196604211991032001 | Apriyani Bachtiar | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-19'
+703 | 196604211991032001 | Apriyani Bachtiar | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-20'
+704 | 196604211991032001 | Apriyani Bachtiar | 21-07-2014 | 07:45 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-21'
+705 | 196604211991032001 | Apriyani Bachtiar | 22-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-22'
+706 | 196604211991032001 | Apriyani Bachtiar | 23-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-23'
+707 | 196604211991032001 | Apriyani Bachtiar | 24-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-24'
+708 | 196604211991032001 | Apriyani Bachtiar | 25-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-25'
+709 | 196604211991032001 | Apriyani Bachtiar | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-26'
+710 | 196604211991032001 | Apriyani Bachtiar | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-27'
+711 | 196604211991032001 | Apriyani Bachtiar | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-28'
+712 | 196604211991032001 | Apriyani Bachtiar | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-29'
+713 | 196604211991032001 | Apriyani Bachtiar | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-30'
+714 | 196604211991032001 | Apriyani Bachtiar | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196604211991032001' AND tanggal = '2014-07-31'
+715 | 196909031992031002 | Anas | 01-07-2014 | 08:10 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-01'
+716 | 196909031992031002 | Anas | 02-07-2014 | 07:50 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-02'
+717 | 196909031992031002 | Anas | 03-07-2014 | 08:06 | 15:04 | Kamis
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-03'
+718 | 196909031992031002 | Anas | 04-07-2014 | 08:10 | 15:35 | Jumat
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-04'
+719 | 196909031992031002 | Anas | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-05'
+720 | 196909031992031002 | Anas | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-06'
+721 | 196909031992031002 | Anas | 07-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-07'
+722 | 196909031992031002 | Anas | 08-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-08'
+723 | 196909031992031002 | Anas | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-09'
+724 | 196909031992031002 | Anas | 10-07-2014 | 08:10 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-10'
+725 | 196909031992031002 | Anas | 11-07-2014 | 08:00 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-11'
+726 | 196909031992031002 | Anas | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-12'
+727 | 196909031992031002 | Anas | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-13'
+728 | 196909031992031002 | Anas | 14-07-2014 | 08:20 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-14'
+729 | 196909031992031002 | Anas | 15-07-2014 | 08:15 | 15:05 | Selasa
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-15'
+730 | 196909031992031002 | Anas | 16-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-16'
+731 | 196909031992031002 | Anas | 17-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-17'
+732 | 196909031992031002 | Anas | 18-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-18'
+733 | 196909031992031002 | Anas | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-19'
+734 | 196909031992031002 | Anas | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-20'
+735 | 196909031992031002 | Anas | 21-07-2014 | 08:20 | 13:00 | Senin
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-21'
+736 | 196909031992031002 | Anas | 22-07-2014 | 08:15 | 13:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-22'
+737 | 196909031992031002 | Anas | 23-07-2014 | 08:36 | 13:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-23'
+738 | 196909031992031002 | Anas | 24-07-2014 | 08:00 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-24'
+739 | 196909031992031002 | Anas | 25-07-2014 | 08:45 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-25'
+740 | 196909031992031002 | Anas | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-26'
+741 | 196909031992031002 | Anas | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-27'
+742 | 196909031992031002 | Anas | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-28'
+743 | 196909031992031002 | Anas | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-29'
+744 | 196909031992031002 | Anas | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-30'
+745 | 196909031992031002 | Anas | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196909031992031002' AND tanggal = '2014-07-31'
+746 | 196207211986022001 | Suwarnah | 01-07-2014 | 07:49 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-01'
+747 | 196207211986022001 | Suwarnah | 02-07-2014 | 07:58 | 15:07 | Rabu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-02'
+748 | 196207211986022001 | Suwarnah | 03-07-2014 | 07:45 | 15:05 | Kamis
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-03'
+749 | 196207211986022001 | Suwarnah | 04-07-2014 | 07:59 | 15:33 | Jumat
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-04'
+750 | 196207211986022001 | Suwarnah | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-05'
+751 | 196207211986022001 | Suwarnah | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-06'
+752 | 196207211986022001 | Suwarnah | 07-07-2014 | 07:52 | 15:12 | Senin
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-07'
+753 | 196207211986022001 | Suwarnah | 08-07-2014 | 08:00 | 15:06 | Selasa
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-08'
+754 | 196207211986022001 | Suwarnah | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-09'
+755 | 196207211986022001 | Suwarnah | 10-07-2014 | 07:58 | 15:11 | Kamis
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-10'
+756 | 196207211986022001 | Suwarnah | 11-07-2014 | 07:53 | 15:39 | Jumat
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-11'
+757 | 196207211986022001 | Suwarnah | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-12'
+758 | 196207211986022001 | Suwarnah | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-13'
+759 | 196207211986022001 | Suwarnah | 14-07-2014 | 07:55 | 15:06 | Senin
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-14'
+760 | 196207211986022001 | Suwarnah | 15-07-2014 | 07:52 | 15:18 | Selasa
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-15'
+761 | 196207211986022001 | Suwarnah | 16-07-2014 | 07:49 | 15:06 | Rabu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-16'
+762 | 196207211986022001 | Suwarnah | 17-07-2014 | 07:52 | 15:24 | Kamis
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-17'
+763 | 196207211986022001 | Suwarnah | 18-07-2014 | 07:52 | 15:40 | Jumat
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-18'
+764 | 196207211986022001 | Suwarnah | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-19'
+765 | 196207211986022001 | Suwarnah | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-20'
+766 | 196207211986022001 | Suwarnah | 21-07-2014 | 07:50 | 15:06 | Senin
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-21'
+767 | 196207211986022001 | Suwarnah | 22-07-2014 | 07:53 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-22'
+768 | 196207211986022001 | Suwarnah | 23-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-23'
+769 | 196207211986022001 | Suwarnah | 24-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-24'
+770 | 196207211986022001 | Suwarnah | 25-07-2014 | 08:10 | 15:00 | Jumat
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-25'
+771 | 196207211986022001 | Suwarnah | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-26'
+772 | 196207211986022001 | Suwarnah | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-27'
+773 | 196207211986022001 | Suwarnah | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-28'
+774 | 196207211986022001 | Suwarnah | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-29'
+775 | 196207211986022001 | Suwarnah | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-30'
+776 | 196207211986022001 | Suwarnah | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196207211986022001' AND tanggal = '2014-07-31'
+777 | 196912091990032001 | Erni Cahyawati | 01-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-01'
+778 | 196912091990032001 | Erni Cahyawati | 02-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-02'
+779 | 196912091990032001 | Erni Cahyawati | 03-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-03'
+780 | 196912091990032001 | Erni Cahyawati | 04-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-04'
+781 | 196912091990032001 | Erni Cahyawati | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-05'
+782 | 196912091990032001 | Erni Cahyawati | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-06'
+783 | 196912091990032001 | Erni Cahyawati | 07-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-07'
+784 | 196912091990032001 | Erni Cahyawati | 08-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-08'
+785 | 196912091990032001 | Erni Cahyawati | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-09'
+786 | 196912091990032001 | Erni Cahyawati | 10-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-10'
+787 | 196912091990032001 | Erni Cahyawati | 11-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-11'
+788 | 196912091990032001 | Erni Cahyawati | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-12'
+789 | 196912091990032001 | Erni Cahyawati | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-13'
+790 | 196912091990032001 | Erni Cahyawati | 14-07-2014 | 07:52 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-14'
+791 | 196912091990032001 | Erni Cahyawati | 15-07-2014 | 07:46 | 15:03 | Selasa
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-15'
+792 | 196912091990032001 | Erni Cahyawati | 16-07-2014 | 07:47 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-16'
+793 | 196912091990032001 | Erni Cahyawati | 17-07-2014 | 07:35 | 13:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-17'
+794 | 196912091990032001 | Erni Cahyawati | 18-07-2014 | 07:40 | 13:00 | Jumat
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-18'
+795 | 196912091990032001 | Erni Cahyawati | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-19'
+796 | 196912091990032001 | Erni Cahyawati | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-20'
+797 | 196912091990032001 | Erni Cahyawati | 21-07-2014 | 07:46 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-21'
+798 | 196912091990032001 | Erni Cahyawati | 22-07-2014 | 07:43 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-22'
+799 | 196912091990032001 | Erni Cahyawati | 23-07-2014 | 07:30 | 13:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-23'
+800 | 196912091990032001 | Erni Cahyawati | 24-07-2014 | 07:47 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-24'
+801 | 196912091990032001 | Erni Cahyawati | 25-07-2014 | 07:38 | 14:58 | Jumat
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-25'
+802 | 196912091990032001 | Erni Cahyawati | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-26'
+803 | 196912091990032001 | Erni Cahyawati | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-27'
+804 | 196912091990032001 | Erni Cahyawati | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-28'
+805 | 196912091990032001 | Erni Cahyawati | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-29'
+806 | 196912091990032001 | Erni Cahyawati | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-30'
+807 | 196912091990032001 | Erni Cahyawati | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196912091990032001' AND tanggal = '2014-07-31'
+808 | 197507112006051002 | Saniri | 01-07-2014 | 08:13 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-01'
+809 | 197507112006051002 | Saniri | 02-07-2014 | 07:45 | 15:26 | Rabu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-02'
+810 | 197507112006051002 | Saniri | 03-07-2014 | 09:28 | 15:12 | Kamis
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-03'
+811 | 197507112006051002 | Saniri | 04-07-2014 | 07:48 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-04'
+812 | 197507112006051002 | Saniri | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-05'
+813 | 197507112006051002 | Saniri | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-06'
+814 | 197507112006051002 | Saniri | 07-07-2014 | 07:54 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-07'
+815 | 197507112006051002 | Saniri | 08-07-2014 | 08:17 | 15:20 | Selasa
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-08'
+816 | 197507112006051002 | Saniri | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-09'
+817 | 197507112006051002 | Saniri | 10-07-2014 | 07:48 | 15:17 | Kamis
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-10'
+818 | 197507112006051002 | Saniri | 11-07-2014 | 08:35 | 16:08 | Jumat
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-11'
+819 | 197507112006051002 | Saniri | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-12'
+820 | 197507112006051002 | Saniri | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-13'
+821 | 197507112006051002 | Saniri | 14-07-2014 | 07:27 | 15:02 | Senin
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-14'
+822 | 197507112006051002 | Saniri | 15-07-2014 | 07:22 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-15'
+823 | 197507112006051002 | Saniri | 16-07-2014 | 07:02 | 15:01 | Rabu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-16'
+824 | 197507112006051002 | Saniri | 17-07-2014 | 07:23 | 15:16 | Kamis
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-17'
+825 | 197507112006051002 | Saniri | 18-07-2014 | 07:20 | 15:40 | Jumat
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-18'
+826 | 197507112006051002 | Saniri | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-19'
+827 | 197507112006051002 | Saniri | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-20'
+828 | 197507112006051002 | Saniri | 21-07-2014 | 08:54 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-21'
+829 | 197507112006051002 | Saniri | 22-07-2014 | 08:15 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-22'
+830 | 197507112006051002 | Saniri | 23-07-2014 | 08:03 | 15:13 | Rabu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-23'
+831 | 197507112006051002 | Saniri | 24-07-2014 | 08:31 | 15:04 | Kamis
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-24'
+832 | 197507112006051002 | Saniri | 25-07-2014 | 08:45 | 16:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-25'
+833 | 197507112006051002 | Saniri | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-26'
+834 | 197507112006051002 | Saniri | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-27'
+835 | 197507112006051002 | Saniri | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-28'
+836 | 197507112006051002 | Saniri | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-29'
+837 | 197507112006051002 | Saniri | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-30'
+838 | 197507112006051002 | Saniri | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197507112006051002' AND tanggal = '2014-07-31'
+839 | 196403122007011004 | Maryaman | 01-07-2014 | 07:42 | 15:08 | Selasa
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-01'
+840 | 196403122007011004 | Maryaman | 02-07-2014 | 08:13 | 15:08 | Rabu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-02'
+841 | 196403122007011004 | Maryaman | 03-07-2014 | 07:44 | 15:04 | Kamis
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-03'
+842 | 196403122007011004 | Maryaman | 04-07-2014 | 08:00 | 15:31 | Jumat
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-04'
+843 | 196403122007011004 | Maryaman | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-05'
+844 | 196403122007011004 | Maryaman | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-06'
+845 | 196403122007011004 | Maryaman | 07-07-2014 | 07:50 | 15:09 | Senin
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-07'
+846 | 196403122007011004 | Maryaman | 08-07-2014 | 08:18 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-08'
+847 | 196403122007011004 | Maryaman | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-09'
+848 | 196403122007011004 | Maryaman | 10-07-2014 | 08:14 | 15:05 | Kamis
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-10'
+849 | 196403122007011004 | Maryaman | 11-07-2014 | 07:38 | 15:37 | Jumat
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-11'
+850 | 196403122007011004 | Maryaman | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-12'
+851 | 196403122007011004 | Maryaman | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-13'
+852 | 196403122007011004 | Maryaman | 14-07-2014 | 08:01 | 15:02 | Senin
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-14'
+853 | 196403122007011004 | Maryaman | 15-07-2014 | 08:08 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-15'
+854 | 196403122007011004 | Maryaman | 16-07-2014 | 07:47 | 15:02 | Rabu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-16'
+855 | 196403122007011004 | Maryaman | 17-07-2014 | 07:28 | 15:02 | Kamis
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-17'
+856 | 196403122007011004 | Maryaman | 18-07-2014 | 07:34 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-18'
+857 | 196403122007011004 | Maryaman | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-19'
+858 | 196403122007011004 | Maryaman | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-20'
+859 | 196403122007011004 | Maryaman | 21-07-2014 | 08:14 | 15:12 | Senin
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-21'
+860 | 196403122007011004 | Maryaman | 22-07-2014 | 07:59 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-22'
+861 | 196403122007011004 | Maryaman | 23-07-2014 | 07:50 | 15:18 | Rabu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-23'
+862 | 196403122007011004 | Maryaman | 24-07-2014 | 08:06 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-24'
+863 | 196403122007011004 | Maryaman | 25-07-2014 | 08:16 | 15:16 | Jumat
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-25'
+864 | 196403122007011004 | Maryaman | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-26'
+865 | 196403122007011004 | Maryaman | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-27'
+866 | 196403122007011004 | Maryaman | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-28'
+867 | 196403122007011004 | Maryaman | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-29'
+868 | 196403122007011004 | Maryaman | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-30'
+869 | 196403122007011004 | Maryaman | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196403122007011004' AND tanggal = '2014-07-31'
+870 | 196411141999031001 | Teguh Pangarso Wiwoho | 01-07-2014 | 07:30 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-01'
+871 | 196411141999031001 | Teguh Pangarso Wiwoho | 02-07-2014 | 07:36 | 15:02 | Rabu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-02'
+872 | 196411141999031001 | Teguh Pangarso Wiwoho | 03-07-2014 | 07:48 | 14:58 | Kamis
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-03'
+873 | 196411141999031001 | Teguh Pangarso Wiwoho | 04-07-2014 | 07:28 | 15:34 | Jumat
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-04'
+874 | 196411141999031001 | Teguh Pangarso Wiwoho | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-05'
+875 | 196411141999031001 | Teguh Pangarso Wiwoho | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-06'
+876 | 196411141999031001 | Teguh Pangarso Wiwoho | 07-07-2014 | 07:48 | 14:59 | Senin
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-07'
+877 | 196411141999031001 | Teguh Pangarso Wiwoho | 08-07-2014 | 07:13 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-08'
+878 | 196411141999031001 | Teguh Pangarso Wiwoho | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-09'
+879 | 196411141999031001 | Teguh Pangarso Wiwoho | 10-07-2014 | 07:47 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-10'
+880 | 196411141999031001 | Teguh Pangarso Wiwoho | 11-07-2014 | 07:21 | 15:37 | Jumat
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-11'
+881 | 196411141999031001 | Teguh Pangarso Wiwoho | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-12'
+882 | 196411141999031001 | Teguh Pangarso Wiwoho | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-13'
+883 | 196411141999031001 | Teguh Pangarso Wiwoho | 14-07-2014 | 07:30 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-14'
+884 | 196411141999031001 | Teguh Pangarso Wiwoho | 15-07-2014 | 07:22 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-15'
+885 | 196411141999031001 | Teguh Pangarso Wiwoho | 16-07-2014 | 07:04 | 15:01 | Rabu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-16'
+886 | 196411141999031001 | Teguh Pangarso Wiwoho | 17-07-2014 | 07:00 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-17'
+887 | 196411141999031001 | Teguh Pangarso Wiwoho | 18-07-2014 | 07:14 | 15:34 | Jumat
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-18'
+888 | 196411141999031001 | Teguh Pangarso Wiwoho | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-19'
+889 | 196411141999031001 | Teguh Pangarso Wiwoho | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-20'
+890 | 196411141999031001 | Teguh Pangarso Wiwoho | 21-07-2014 | 07:20 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-21'
+891 | 196411141999031001 | Teguh Pangarso Wiwoho | 22-07-2014 | 07:16 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-22'
+892 | 196411141999031001 | Teguh Pangarso Wiwoho | 23-07-2014 | 07:39 | 14:59 | Rabu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-23'
+893 | 196411141999031001 | Teguh Pangarso Wiwoho | 24-07-2014 | 07:22 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-24'
+894 | 196411141999031001 | Teguh Pangarso Wiwoho | 25-07-2014 | 07:27 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-25'
+895 | 196411141999031001 | Teguh Pangarso Wiwoho | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-26'
+896 | 196411141999031001 | Teguh Pangarso Wiwoho | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-27'
+897 | 196411141999031001 | Teguh Pangarso Wiwoho | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-28'
+898 | 196411141999031001 | Teguh Pangarso Wiwoho | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-29'
+899 | 196411141999031001 | Teguh Pangarso Wiwoho | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-30'
+900 | 196411141999031001 | Teguh Pangarso Wiwoho | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196411141999031001' AND tanggal = '2014-07-31'
+901 | 196807031991031002 | Andi Makmur | 01-07-2014 | 07:42 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-01'
+902 | 196807031991031002 | Andi Makmur | 02-07-2014 | 07:34 | 14:59 | Rabu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-02'
+903 | 196807031991031002 | Andi Makmur | 03-07-2014 | 07:43 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-03'
+904 | 196807031991031002 | Andi Makmur | 04-07-2014 | 07:22 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-04'
+905 | 196807031991031002 | Andi Makmur | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-05'
+906 | 196807031991031002 | Andi Makmur | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-06'
+907 | 196807031991031002 | Andi Makmur | 07-07-2014 | 07:42 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-07'
+908 | 196807031991031002 | Andi Makmur | 08-07-2014 | 07:16 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-08'
+909 | 196807031991031002 | Andi Makmur | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-09'
+910 | 196807031991031002 | Andi Makmur | 10-07-2014 | 07:35 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-10'
+911 | 196807031991031002 | Andi Makmur | 11-07-2014 | 07:26 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-11'
+912 | 196807031991031002 | Andi Makmur | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-12'
+913 | 196807031991031002 | Andi Makmur | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-13'
+914 | 196807031991031002 | Andi Makmur | 14-07-2014 | 07:55 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-14'
+915 | 196807031991031002 | Andi Makmur | 15-07-2014 | 07:22 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-15'
+916 | 196807031991031002 | Andi Makmur | 16-07-2014 | 07:50 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-16'
+917 | 196807031991031002 | Andi Makmur | 17-07-2014 | 07:00 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-17'
+918 | 196807031991031002 | Andi Makmur | 18-07-2014 | 07:20 | 15:31 | Jumat
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-18'
+919 | 196807031991031002 | Andi Makmur | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-19'
+920 | 196807031991031002 | Andi Makmur | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-20'
+921 | 196807031991031002 | Andi Makmur | 21-07-2014 | 07:44 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-21'
+922 | 196807031991031002 | Andi Makmur | 22-07-2014 | 07:15 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-22'
+923 | 196807031991031002 | Andi Makmur | 23-07-2014 | 07:19 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-23'
+924 | 196807031991031002 | Andi Makmur | 24-07-2014 | 07:26 | 15:03 | Kamis
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-24'
+925 | 196807031991031002 | Andi Makmur | 25-07-2014 | 07:27 | 14:53 | Jumat
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-25'
+926 | 196807031991031002 | Andi Makmur | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-26'
+927 | 196807031991031002 | Andi Makmur | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-27'
+928 | 196807031991031002 | Andi Makmur | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-28'
+929 | 196807031991031002 | Andi Makmur | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-29'
+930 | 196807031991031002 | Andi Makmur | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-30'
+931 | 196807031991031002 | Andi Makmur | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196807031991031002' AND tanggal = '2014-07-31'
+932 | 196406291986012001 | Zunibah | 01-07-2014 | 07:53 | 15:03 | Selasa
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-01'
+933 | 196406291986012001 | Zunibah | 02-07-2014 | 07:33 | 14:59 | Rabu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-02'
+934 | 196406291986012001 | Zunibah | 03-07-2014 | 07:55 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-03'
+935 | 196406291986012001 | Zunibah | 04-07-2014 | 08:03 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-04'
+936 | 196406291986012001 | Zunibah | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-05'
+937 | 196406291986012001 | Zunibah | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-06'
+938 | 196406291986012001 | Zunibah | 07-07-2014 | 08:13 | 15:04 | Senin
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-07'
+939 | 196406291986012001 | Zunibah | 08-07-2014 | 07:59 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-08'
+940 | 196406291986012001 | Zunibah | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-09'
+941 | 196406291986012001 | Zunibah | 10-07-2014 | 07:52 | 15:02 | Kamis
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-10'
+942 | 196406291986012001 | Zunibah | 11-07-2014 | 08:05 | 15:29 | Jumat
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-11'
+943 | 196406291986012001 | Zunibah | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-12'
+944 | 196406291986012001 | Zunibah | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-13'
+945 | 196406291986012001 | Zunibah | 14-07-2014 | 07:30 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-14'
+946 | 196406291986012001 | Zunibah | 15-07-2014 | 08:04 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-15'
+947 | 196406291986012001 | Zunibah | 16-07-2014 | 07:48 | 14:59 | Rabu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-16'
+948 | 196406291986012001 | Zunibah | 17-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-17'
+949 | 196406291986012001 | Zunibah | 18-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-18'
+950 | 196406291986012001 | Zunibah | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-19'
+951 | 196406291986012001 | Zunibah | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-20'
+952 | 196406291986012001 | Zunibah | 21-07-2014 |  |  | Senin
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-21'
+953 | 196406291986012001 | Zunibah | 22-07-2014 |  |  | Selasa
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-22'
+954 | 196406291986012001 | Zunibah | 23-07-2014 |  |  | Rabu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-23'
+955 | 196406291986012001 | Zunibah | 24-07-2014 |  |  | Kamis
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-24'
+956 | 196406291986012001 | Zunibah | 25-07-2014 |  |  | Jumat
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-25'
+957 | 196406291986012001 | Zunibah | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-26'
+958 | 196406291986012001 | Zunibah | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-27'
+959 | 196406291986012001 | Zunibah | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-28'
+960 | 196406291986012001 | Zunibah | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-29'
+961 | 196406291986012001 | Zunibah | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-30'
+962 | 196406291986012001 | Zunibah | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196406291986012001' AND tanggal = '2014-07-31'
+963 | 196405281990031001 | Setiono Wibowo | 01-07-2014 | 07:46 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-01'
+964 | 196405281990031001 | Setiono Wibowo | 02-07-2014 | 07:50 | 15:01 | Rabu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-02'
+965 | 196405281990031001 | Setiono Wibowo | 03-07-2014 | 07:31 | 15:03 | Kamis
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-03'
+966 | 196405281990031001 | Setiono Wibowo | 04-07-2014 | 07:56 | 15:31 | Jumat
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-04'
+967 | 196405281990031001 | Setiono Wibowo | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-05'
+968 | 196405281990031001 | Setiono Wibowo | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-06'
+969 | 196405281990031001 | Setiono Wibowo | 07-07-2014 | 07:38 | 15:03 | Senin
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-07'
+970 | 196405281990031001 | Setiono Wibowo | 08-07-2014 | 07:43 | 15:02 | Selasa
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-08'
+971 | 196405281990031001 | Setiono Wibowo | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-09'
+972 | 196405281990031001 | Setiono Wibowo | 10-07-2014 | 07:54 | 15:01 | Kamis
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-10'
+973 | 196405281990031001 | Setiono Wibowo | 11-07-2014 | 07:39 | 15:34 | Jumat
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-11'
+974 | 196405281990031001 | Setiono Wibowo | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-12'
+975 | 196405281990031001 | Setiono Wibowo | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-13'
+976 | 196405281990031001 | Setiono Wibowo | 14-07-2014 | 07:14 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-14'
+977 | 196405281990031001 | Setiono Wibowo | 15-07-2014 | 07:23 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-15'
+978 | 196405281990031001 | Setiono Wibowo | 16-07-2014 | 07:11 | 15:01 | Rabu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-16'
+979 | 196405281990031001 | Setiono Wibowo | 17-07-2014 | 07:57 | 15:28 | Kamis
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-17'
+980 | 196405281990031001 | Setiono Wibowo | 18-07-2014 | 07:18 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-18'
+981 | 196405281990031001 | Setiono Wibowo | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-19'
+982 | 196405281990031001 | Setiono Wibowo | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-20'
+983 | 196405281990031001 | Setiono Wibowo | 21-07-2014 | 07:26 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-21'
+984 | 196405281990031001 | Setiono Wibowo | 22-07-2014 | 07:36 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-22'
+985 | 196405281990031001 | Setiono Wibowo | 23-07-2014 | 07:21 | 15:10 | Rabu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-23'
+986 | 196405281990031001 | Setiono Wibowo | 24-07-2014 | 07:27 | 15:17 | Kamis
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-24'
+987 | 196405281990031001 | Setiono Wibowo | 25-07-2014 | 07:48 | 14:56 | Jumat
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-25'
+988 | 196405281990031001 | Setiono Wibowo | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-26'
+989 | 196405281990031001 | Setiono Wibowo | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-27'
+990 | 196405281990031001 | Setiono Wibowo | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-28'
+991 | 196405281990031001 | Setiono Wibowo | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-29'
+992 | 196405281990031001 | Setiono Wibowo | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-30'
+993 | 196405281990031001 | Setiono Wibowo | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '196405281990031001' AND tanggal = '2014-07-31'
+994 | 197009052006051001 | Dedi Hartono | 01-07-2014 | 07:51 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-01'
+995 | 197009052006051001 | Dedi Hartono | 02-07-2014 | 07:50 | 14:59 | Rabu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-02'
+996 | 197009052006051001 | Dedi Hartono | 03-07-2014 | 07:47 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-03'
+997 | 197009052006051001 | Dedi Hartono | 04-07-2014 | 07:42 | 15:32 | Jumat
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-04'
+998 | 197009052006051001 | Dedi Hartono | 05-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-05'
+999 | 197009052006051001 | Dedi Hartono | 06-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-06'
+1000 | 197009052006051001 | Dedi Hartono | 07-07-2014 | 07:38 | 15:00 | Senin
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-07'
+1001 | 197009052006051001 | Dedi Hartono | 08-07-2014 | 07:49 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-08'
+1002 | 197009052006051001 | Dedi Hartono | 09-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-09'
+1003 | 197009052006051001 | Dedi Hartono | 10-07-2014 | 07:40 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-10'
+1004 | 197009052006051001 | Dedi Hartono | 11-07-2014 | 07:38 | 15:31 | Jumat
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-11'
+1005 | 197009052006051001 | Dedi Hartono | 12-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-12'
+1006 | 197009052006051001 | Dedi Hartono | 13-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-13'
+1007 | 197009052006051001 | Dedi Hartono | 14-07-2014 | 07:26 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-14'
+1008 | 197009052006051001 | Dedi Hartono | 15-07-2014 | 07:21 | 15:01 | Selasa
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-15'
+1009 | 197009052006051001 | Dedi Hartono | 16-07-2014 | 07:08 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-16'
+1010 | 197009052006051001 | Dedi Hartono | 17-07-2014 | 07:09 | 15:00 | Kamis
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-17'
+1011 | 197009052006051001 | Dedi Hartono | 18-07-2014 | 07:20 | 15:31 | Jumat
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-18'
+1012 | 197009052006051001 | Dedi Hartono | 19-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-19'
+1013 | 197009052006051001 | Dedi Hartono | 20-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-20'
+1014 | 197009052006051001 | Dedi Hartono | 21-07-2014 | 07:31 | 15:01 | Senin
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-21'
+1015 | 197009052006051001 | Dedi Hartono | 22-07-2014 | 07:37 | 15:00 | Selasa
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-22'
+1016 | 197009052006051001 | Dedi Hartono | 23-07-2014 | 07:36 | 15:00 | Rabu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-23'
+1017 | 197009052006051001 | Dedi Hartono | 24-07-2014 | 07:31 | 15:02 | Kamis
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-24'
+1018 | 197009052006051001 | Dedi Hartono | 25-07-2014 | 07:36 | 15:30 | Jumat
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-25'
+1019 | 197009052006051001 | Dedi Hartono | 26-07-2014 |  |  | Sabtu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-26'
+1020 | 197009052006051001 | Dedi Hartono | 27-07-2014 |  |  | Minggu
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-27'
+1021 | 197009052006051001 | Dedi Hartono | 28-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-28'
+1022 | 197009052006051001 | Dedi Hartono | 29-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-29'
+1023 | 197009052006051001 | Dedi Hartono | 30-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-30'
+1024 | 197009052006051001 | Dedi Hartono | 31-07-2014 |  |  | Libur Nasional
+SELECT * FROM presensi WHERE nip = '197009052006051001' AND tanggal = '2014-07-31'
+1025 |  |  |  |  |  | 
+1026 |  |  |  |  |  | 
+1027 |  |  |  |  |  | 
+1028 |  |  |  |  |  | 
+1029 |  |  |  |  |  | 
+1030 |  |  |  |  |  | 
+1031 |  |  |  |  |  | 
+1032 |  |  |  |  |  | 
+1033 |  |  |  |  |  | 
+1034 |  |  |  |  |  | 
+1035 |  |  |  |  |  | 
+1036 |  |  |  |  |  | 
+1037 |  |  |  |  |  | 
+1038 |  |  |  |  |  | 
+1039 |  |  |  |  |  | 
+1040 |  |  |  |  |  | 
+1041 |  |  |  |  |  | 
+1042 |  |  |  |  |  | 
+1043 |  |  |  |  |  | 
+1044 |  |  |  |  |  | 
+1045 |  |  |  |  |  | 
+1046 |  |  |  |  |  | 
+1047 |  |  |  |  |  | 
+1048 |  |  |  |  |  | 
+1049 |  |  |  |  |  | 
+1050 |  |  |  |  |  | 
+1051 |  |  |  |  |  | 
+1052 |  |  |  |  |  | 
+1053 |  |  |  |  |  | 
+1054 |  |  |  |  |  | 
+1055 |  |  |  |  |  | 
+1056 |  |  |  |  |  | 
+1057 |  |  |  |  |  | 
+1058 |  |  |  |  |  | 
+1059 |  |  |  |  |  | 
+1060 |  |  |  |  |  | 
+1061 |  |  |  |  |  | 
+1062 |  |  |  |  |  | 
+1063 |  |  |  |  |  | 
+1064 |  |  |  |  |  | 
+1065 |  |  |  |  |  | 
+1066 |  |  |  |  |  | 
+1067 |  |  |  |  |  | 
+1068 |  |  |  |  |  | 
+1069 |  |  |  |  |  | 
+1070 |  |  |  |  |  | 
+1071 |  |  |  |  |  | 
+1072 |  |  |  |  |  | 
+1073 |  |  |  |  |  | 
+1074 |  |  |  |  |  | 
+1075 |  |  |  |  |  | 
+1076 |  |  |  |  |  | 
+1077 |  |  |  |  |  | 
+1078 |  |  |  |  |  | 
+1079 |  |  |  |  |  | 
+1080 |  |  |  |  |  | 
+1081 |  |  |  |  |  | 
+1082 |  |  |  |  |  | 
+1083 |  |  |  |  |  | 
+1084 |  |  |  |  |  | 
+1085 |  |  |  |  |  | 
+1086 |  |  |  |  |  | 
+1087 |  |  |  |  |  | 
+1088 |  |  |  |  |  | 
+1089 |  |  |  |  |  | 
+1090 |  |  |  |  |  | 
+1091 |  |  |  |  |  | 
+1092 |  |  |  |  |  | 
+1093 |  |  |  |  |  | 
+1094 |  |  |  |  |  | 
+1095 |  |  |  |  |  | 
+1096 |  |  |  |  |  | 
+1097 |  |  |  |  |  | 
+1098 |  |  |  |  |  | 
+1099 |  |  |  |  |  | 
+1100 |  |  |  |  |  | 
+1101 |  |  |  |  |  | 
+1102 |  |  |  |  |  | 
+1103 |  |  |  |  |  | 
+1104 |  |  |  |  |  | 
+1105 |  |  |  |  |  | 
+1106 |  |  |  |  |  | 
+1107 |  |  |  |  |  | 
+1108 |  |  |  |  |  | 
+1109 |  |  |  |  |  | 
+1110 |  |  |  |  |  | 
+1111 |  |  |  |  |  | 
+1112 |  |  |  |  |  | 
+1113 |  |  |  |  |  | 
+1114 |  |  |  |  |  | 
+1115 |  |  |  |  |  | 
+1116 |  |  |  |  |  | 
+1117 |  |  |  |  |  | 
+2 |  | 1 |  |  |  | JULI 2014
+3 |  | Values |  | Status Pegawai | Potongan Status Pegawai | GRADE
+4 | NIP | Potongan Harian | PP53 |  | 0% | 
+5 | (blank) |  |  |  | 0% | 
+6 | 195806101986111001 | 0.02 | 08:41:00 |  | 0% | 9
+7 | 196404141991032001 | 0.035 | 02:24:00 |  | 0% | 9
+8 | 196502041991032001 | 0.02 | 00:11:00 |  | 0% | 9
+9 | 196508051991031002 | 0.08 | 14:23:00 |  | 0% | 9
+10 | 196402281992031003 | 0 | 19:51:00 |  | 0% | 9
+11 | 197101121993031001 | 0.175 | 15:47:00 |  | 0% | 9
+12 | 197106071999032001 | 0.035 | 06:42:00 |  | 0% | 9
+13 | 197307112006052001 | 0 | 03:00:00 |  | 0% | 9
+14 | 196502091991032001 | 0.055 | 03:07:00 |  | 0% | 9
+15 | 197603112006051001 | 0 | 17:39:00 |  | 0% | 8
+16 | 197311212006051001 | 0.12 | 13:23:00 |  | 0% | 8
+17 | 197409172008021001 | 0.01 | 22:08:00 |  | 0% | 8
+18 | 198105242008022001 | 0 | 15:00:00 |  | 0% | 8
+19 | 198405262008022002 | 0 | 17:57:00 |  | 0% | 8
+20 | 197204241991031001 | 0.005 | 23:58:00 |  | 0% | 7
+21 | 196702231992032001 | 0.015 | 18:15:00 |  | 0% | 7
+22 | 196209271992031001 | 0.015 | 19:02:00 |  | 0% | 7
+23 | 197210031992032001 | 0.01 | 15:05:00 |  | 0% | 7
+24 | 196512011993032002 | 0.015 | 00:27:00 |  | 0% | 7
+25 | 196205071986022001 | 0.02 | 01:21:00 |  | 0% | 6
+26 | 196912251990032001 | 0 | 04:25:00 |  | 0% | 6
+27 | 196511051986022001 | 0.095 | 01:27:00 |  | 0% | 6
+28 | 196604211991032001 | 0.005 | 22:14:00 |  | 0% | 6
+29 | 196909031992031002 | 0.085 | 17:42:00 |  | 0% | 6
+30 | 196207211986022001 | 0.01 | 11:52:00 |  | 0% | 6
+31 | 196912091990032001 | 0.04 | 07:02:00 |  | 0% | 6
+32 | 197507112006051002 | 0.0375 | 01:07:00 |  | 0% | 6
+33 | 196403122007011004 | 0.035 | 01:00:00 |  | 0% | 6
+34 | 196411141999031001 | 0.015 | 18:51:00 |  | 0% | 6
+35 | 196807031991031002 | 0.015 | 20:15:00 |  | 0% | 6
+36 | 196406291986012001 | 0.03 | 19:46:00 |  | 0% | 5
+37 | 196405281990031001 | 0.01 | 20:10:00 |  | 0% | 5
+38 | 197009052006051001 | 0.005 | 20:06:00 |  | 0% | 5
+39 | Grand Total | 101% | 20:18:00 |  | 0% | 
+40 |  |  |  |  |  | 
+41 |  |  |  |  |  | 
+42 |  |  |  |  |  | 
+43 |  |  |  |  |  | 
+44 |  |  |  |  |  | 
+45 |  |  |  |  |  | 
+46 |  |  |  |  |  | 
+47 |  |  |  |  |  | 
+48 |  |  |  |  |  | 
+49 |  |  |  |  |  | 
+50 |  |  |  |  |  | 
+51 |  |  |  |  |  | 
+52 |  |  |  |  |  | 
+53 |  |  |  |  |  | 
+54 |  |  |  |  |  | 
+55 |  |  |  |  |  | 
+56 |  |  |  |  |  | 
+57 |  |  |  |  |  | 
+58 |  |  |  |  |  | 
+59 |  |  |  |  |  | 
+60 |  |  |  |  |  | 
+61 |  |  |  |  |  | 
+62 |  |  |  |  |  | 
+63 |  |  |  |  |  | 
+64 |  |  |  |  |  | 
+65 |  |  |  |  |  | 
+66 |  |  |  |  |  | 
+67 |  |  |  |  |  | 
+68 |  |  |  |  |  | 
+69 |  |  |  |  |  | 
+70 |  |  |  |  |  | 
+71 |  |  |  |  |  | 
+72 |  |  |  |  |  | 
+73 |  |  |  |  |  | 
+74 |  |  |  |  |  | 
+75 |  |  |  |  |  | 
+76 |  |  |  |  |  | 
+77 |  |  |  |  |  | 
+78 |  |  |  |  |  | 
+79 |  |  |  |  |  | 
+80 |  |  |  |  |  | 
+81 |  |  |  |  |  | 
+82 |  |  |  |  |  | 
+83 |  |  |  |  |  | 
+84 |  |  |  |  |  | 
+85 |  |  |  |  |  | 
+86 |  |  |  |  |  | 
+87 |  |  |  |  |  | 
+88 |  |  |  |  |  | 
+89 |  |  |  |  |  | 
+90 |  |  |  |  |  | 
+91 |  |  |  |  |  | 
+92 |  |  |  |  |  | 
+93 |  |  |  |  |  | 
+94 |  |  |  |  |  | 
+95 |  |  |  |  |  | 
+96 |  |  |  |  |  | 
+97 |  |  |  |  |  | 
+98 |  |  |  |  |  | 
+99 |  |  |  |  |  | 
+100 |  |  |  |  |  | 
+101 |  |  |  |  |  | 
+102 |  |  |  |  |  | 
+103 |  |  |  |  |  | 
+104 |  |  |  |  |  | 
+105 |  |  |  |  |  | 
+106 |  |  |  |  |  | 
+107 |  |  |  |  |  | 
+108 |  |  |  |  |  | 
+109 |  |  |  |  |  | 
+110 |  |  |  |  |  | 
+111 |  |  |  |  |  | 
+112 |  |  |  |  |  | 

@@ -1,0 +1,156 @@
+2 | 197906122011011003 | M. Yasser Darwis, SS | 01-07-2014 | 07:36 | 16:07 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-01'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO rekapitulasi (nip, kdunit, bulan) VALUES ('197906122011011003', '2322410', '2014-07')
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-01', '07:30:00', '16:00:00', '07:36', 
+									'16:07', '2', '6', '0', '1', '6', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+3 | 197906122011011003 | M. Yasser Darwis, SS | 02-07-2014 | 07:41 | 16:02 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-02'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-02', '07:30:00', '16:00:00', '07:41', 
+									'16:02', '2', '11', '0', '1', '11', '0', 
+									'0', '0', '1', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+4 | 197906122011011003 | M. Yasser Darwis, SS | 03-07-2014 | 07:44 | 16:00 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-03'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-03', '07:30:00', '16:00:00', '07:44', 
+									'16:00', '2', '14', '0', '1', '14', '0', 
+									'0', '0', '1', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+5 | 197906122011011003 | M. Yasser Darwis, SS | 04-07-2014 | 07:43 | 16:24 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-04'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-04', '07:30:00', '16:30:00', '07:43', 
+									'16:24', '2', '13', '6', '1', '13', '0', 
+									'0', '0', '1', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+6 | 197906122011011003 | M. Yasser Darwis, SS | 07-07-2014 | 07:44 | 16:18 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-07', '07:30:00', '16:00:00', '07:44', 
+									'16:18', '2', '14', '0', '1', '14', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+7 | 197906122011011003 | M. Yasser Darwis, SS | 08-07-2014 | 09:01 | 16:25 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-08'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-08', '07:30:00', '16:00:00', '09:01', 
+									'16:25', '2', '91', '0', '1', '91', '1', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+8 | 197906122011011003 | M. Yasser Darwis, SS | 10-07-2014 | 07:39 | 16:12 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-10'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-10', '07:30:00', '16:00:00', '07:39', 
+									'16:12', '2', '9', '0', '1', '9', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+9 | 197906122011011003 | M. Yasser Darwis, SS | 11-07-2014 | 07:44 | 16:30 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-11'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-11', '07:30:00', '16:30:00', '07:44', 
+									'16:30', '2', '14', '0', '1', '14', '0', 
+									'0', '0', '1', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+10 | 197906122011011003 | M. Yasser Darwis, SS | 14-07-2014 | 07:41 | 16:37 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-14'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-14', '07:30:00', '16:00:00', '07:41', 
+									'16:37', '2', '11', '0', '1', '11', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+11 | 197906122011011003 | M. Yasser Darwis, SS | 15-07-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-15'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-15', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2322410_20141205_214101.xls', '2');
+12 | 197906122011011003 | M. Yasser Darwis, SS | 16-07-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-16'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-16', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2322410_20141205_214101.xls', '2');
+13 | 197906122011011003 | M. Yasser Darwis, SS | 17-07-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-17'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-17', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2322410_20141205_214101.xls', '2');
+14 | 197906122011011003 | M. Yasser Darwis, SS | 18-07-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-18'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-18', '07:30:00', '16:30:00', '1', '450', 
+									'1', '1', '1', 'N', '2322410_20141205_214101.xls', '2');
+15 | 197906122011011003 | M. Yasser Darwis, SS | 21-07-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-21'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-21', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2322410_20141205_214101.xls', '2');
+16 | 197906122011011003 | M. Yasser Darwis, SS | 22-07-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-22'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-22', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2322410_20141205_214101.xls', '2');
+17 | 197906122011011003 | M. Yasser Darwis, SS | 23-07-2014 | 07:36 | 16:07 | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-23'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, jam_masuk, jam_keluar, `status`, 
+									kekurangan_masuk, kekurangan_keluar, hadir, TL, TL2, TL3, PSW, PSW1, PSW2, PSW3, PSW4, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-23', '07:30:00', '16:00:00', '07:36', 
+									'16:07', '2', '6', '0', '1', '6', '0', 
+									'0', '0', '0', '0', '0', '0', 'N', '2322410_20141205_214101.xls', '1');
+18 | 197906122011011003 | M. Yasser Darwis, SS | 24-07-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-24'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-24', '07:30:00', '16:00:00', '1', '450', 
+									'1', '1', '1', 'N', '2322410_20141205_214101.xls', '2');
+19 | 197906122011011003 | M. Yasser Darwis, SS | 25-07-2014 |  |  | 
+SELECT * FROM presensi WHERE nip = '197906122011011003' AND tanggal = '2014-07-25'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+SELECT * FROM rekapitulasi WHERE nip = '197906122011011003' AND bulan = '2014-07'
+INSERT INTO presensi (nip, kdunit, tanggal, batas_masuk, batas_keluar, `status`, kekurangan_masuk, tidak_hadir, 
+									tanpa_keterangan, TK, jam_kerja, src, cek)
+									VALUES ('197906122011011003', '2322410', '2014-07-25', '07:30:00', '16:30:00', '1', '450', 
+									'1', '1', '1', 'N', '2322410_20141205_214101.xls', '2');
