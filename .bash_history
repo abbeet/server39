@@ -11,3 +11,6 @@ logout
 su -
 logout
 su -
+bu -
+su -
+logout
