@@ -4,12 +4,14 @@
 	$title = get_title();
 	$version = get_version();
 	$copyright = get_copyright();   */
-
 	session_start();
 	include_once "includes/includes.php";
 	$errmsg = @$_SESSION['errmsg'];
 	$title = get_title();
 	$copyright = get_copyright();
+	// setting erro and time
+	error_reporting (E_ALL ^ E_NOTICE);
+	date_default_timezone_set("Asia/Jakarta");
 	
 	if (@$_POST['xlogin']) 
 	{
@@ -40,13 +42,13 @@
 
 				@session_start();
 				@session_id();
-				@session_register('sukki'); $_SESSION['sukki'] = 1;
-				@session_register('xusername'); $_SESSION['xusername'] = $xuser->username;
-				@session_register('xlevel'); $_SESSION['xlevel'] = $xuser->level;
-				@session_register('xuserid'); $_SESSION['xuserid'] = $xuser->id;
-				@session_register('xuserpass'); $_SESSION['xuserpass'] = $xuser->password;
-				@session_register('xkdunit'); $_SESSION['xkdunit'] = $xuser->kdunit;
-				@session_register('xth'); $_SESSION['xth'] = date('Y');
+				$_SESSION['sukki'] = 1;
+				$_SESSION['xusername'] = $xuser->username;
+				$_SESSION['xlevel'] = $xuser->level;
+				$_SESSION['xuserid'] = $xuser->id;
+				$_SESSION['xuserpass'] = $xuser->password;
+				$_SESSION['xkdunit'] = $xuser->kdunit;
+				$_SESSION['xth'] = date('Y');
 				update_log($sql,'xlogin',1);
 				update_lastvisit($xuser->id); ?>
 				<meta http-equiv="refresh" content="0;URL=index.php" /><?php

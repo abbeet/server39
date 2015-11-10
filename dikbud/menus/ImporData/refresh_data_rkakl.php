@@ -1,286 +1,619 @@
 <?php
+	error_reporting(E_ALL ^ (E_NOTICE | E_DEPRECATED) );
+
+	require_once "lib/phpxbase/Column.class.php";
+	require_once "lib/phpxbase/Record.class.php";
+	require_once "lib/phpxbase/Table.class.php";
+	
 	checkauthentication();
 	$err = false;
-	$xkdunit = $_SESSION['xkdunit'];
-	$xusername = $_SESSION['xusername'] ;
-	$kdsatker = kd_satker($xkdunit) ;
+	$th = $_SESSION['xth'];
 	$xlevel = $_SESSION['xlevel'];
-	$ta_input = $_SESSION['xth'];
-	$file_1 = $ta_input.'_D_OUTPUT.KEU';
-	$file_2 = $ta_input.'_D_SOUTPUT.KEU';
-	$file_3 = $ta_input.'_D_KMPNEN.KEU';
-	$file_4 = $ta_input.'_D_SKMPNEN.KEU';
-	$file_5 = $ta_input.'_D_AKUN.KEU';
-	$file_6 = $ta_input.'_D_ITEM.KEU';
-	$file_7 = $ta_input.'_D_TRKTRM.KEU';
-	extract($_POST);
+	$xkdunit = $_SESSION['xkdunit'];
+	$xusername = $_SESSION['xusername'];
+	
+	if ( $_REQUEST['kdsatker'] == '' )   $kdsatker = '189643' ;
+	else   $kdsatker = $_REQUEST['kdsatker'] ;
+
 	extract($_POST);
 	$xmenu_p = xmenu_id($p);
 	$p_next = $xmenu_p->parent;
+	#$dirData = "c:\\xampp\\htdocs\\siren\\file_dipa\\";
+	$dirData = "/var/www/html/dikbud/file_dipa/".$kdsatker."/";
+	
+	$tabel_1 = $dirData.$th."_d_output.keu" ;
+	$tabel_2 = $dirData.$th."_d_soutput.keu" ;
+	$tabel_3 = $dirData.$th."_d_kmpnen.keu" ;
+	$tabel_4 = $dirData.$th."_d_skmpnen.keu" ;
+	$tabel_5 = $dirData.$th."_d_akun.keu" ;
+	$tabel_6 = $dirData.$th."_d_item.keu" ;
+	$tabel_7 = $dirData.$th."_D_TRKTRM.KEU" ;
+
+	#$conn = new COM("ADODB.Connection");
+	#$dirData = "c:\\xampp\\htdocs\\siren\\file_dipa\\";
+	#$conn->Open("Provider=vfpoledb.1;Data Source=$dirData;Collating Sequence=Machine");
+	//$Data= $conn->Execute("select THANG,sum(JUMLAH) AS jml from $tabel_6 group by THANG");	
+	//$th_file	= $Data->Fields(0);
+	//$jumlah		= $Data->Fields(1);
+	
+	$th_file = $th ;
+	#echo 'Tahun '.$th.'<br>';
+	#echo 'tabel 1 '.$tabel_1.'<br>';
 	
 	if (isset($form)) 
 	{		
 		if ($err != true) 
 		{
-	
-			$kdsatker_input = $_REQUEST['kdsatker'];
-						
-			if( $kdsatker_input <> '' ) 
-			{
-					
-odbc_close_all();
-$dsn = "Driver={Microsoft Visual FoxPro Driver}; SourceType=DBF; SourceDB=C:\\xampp\\htdocs\\dikbud\\file_dipa\\".$kdsatker_input."\\; Exclusive=No;";
-
-$sambung_dipa = odbc_connect( $dsn,"","");
-    if ( $sambung_dipa != 0 )   
-    {
-        echo "<strong> Tersambung RKAKL </strong></<br>";
-				$oData="select THANG,KDSATKER from $file_1 ";	
-				$Data=odbc_exec($sambung_dipa,$oData);
-				$row = odbc_fetch_row($Data);
-				$ta		=odbc_result($Data,THANG);
-				$kdsatker_data	=odbc_result($Data,KDSATKER);
-
-	}	# AND CEK KONEKSI
-
 			if ($_REQUEST['output'] == "1")
 			{
+				mysql_query("DELETE FROM d_output WHERE THANG = '".$th."' AND KDSATKER = '".$kdsatker."' ");
 				
-				mysql_query("DELETE FROM d_output WHERE THANG = '".$ta_input."' AND KDSATKER = '".$kdsatker_input."' ");
-				$oOutput="select THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,KDOUTPUT,VOL from $file_1 where THANG='$ta_input' ";	
-				$Output=odbc_exec($sambung_dipa,$oOutput);
-				while($row = odbc_fetch_row($Output)){
-					$THANG		=odbc_result($Output,THANG);
-					$KDSATKER	=odbc_result($Output,KDSATKER);
-					$KDDEPT		=odbc_result($Output,KDDEPT);
-					$KDUNIT		=odbc_result($Output,KDUNIT);
-					$KDPROGRAM	=odbc_result($Output,KDPROGRAM);
-					$KDGIAT		=odbc_result($Output,KDGIAT);
-					$KDOUTPUT	=odbc_result($Output,KDOUTPUT);
-					$VOL		=odbc_result($Output,VOL);
-
-					$sql = "INSERT INTO d_output(THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,KDOUTPUT,VOL) VALUES ('$THANG', '$KDSATKER', '$KDDEPT', '$KDUNIT', '$KDPROGRAM', '$KDGIAT', '$KDOUTPUT', '$VOL')";
+				/*
+				$Output = $conn->Execute("SELECT THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, VOL FROM ".$tabel_1." WHERE 
+				THANG = '".$th."'");	
+				
+				while (!$Output->EOF) 
+				{
+					$THANG		= $Output->Fields(0);
+					$KDSATKER	= $Output->Fields(1);
+					$KDDEPT		= $Output->Fields(2);
+					$KDUNIT		= $Output->Fields(3);
+					$KDPROGRAM	= $Output->Fields(4);
+					$KDGIAT		= $Output->Fields(5);
+					$KDOUTPUT	= $Output->Fields(6);
+					$VOL		= $Output->Fields(7);
+					
+					echo 'THANG '.$THANG.'<BR>';
+					echo 'KDSATKER '.$KDSATKER.'<BR>';
+					
+					$sql = "INSERT INTO d_output(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, VOL) VALUES ('".$THANG."', '".$KDSATKER."', 
+					'".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$VOL."')";
+					
 					mysql_query($sql);
+    				$Output->MoveNext();
+				}
+				
+				$Output->Close();
+				*/
+				
+				$table_1 = new XBaseTable($tabel_1);
+				$table_1->open();
+				
+				while ($record = $table_1->nextRecord())
+				{
+					foreach ($table_1->getColumns() as $i=>$c)
+					{
+						if ($c->getName() == "THANG") 			$THANG 		= $record->getString($c); 
+						else if ($c->getName() == "KDSATKER") 	$KDSATKER	= $record->getString($c);
+						else if ($c->getName() == "KDDEPT")		$KDDEPT		= $record->getString($c);
+						else if ($c->getName() == "KDUNIT")		$KDUNIT		= $record->getString($c);
+						else if ($c->getName() == "KDPROGRAM")	$KDPROGRAM	= $record->getString($c);
+						else if ($c->getName() == "KDGIAT")		$KDGIAT		= $record->getString($c);
+						else if ($c->getName() == "KDOUTPUT")	$KDOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "VOL")		$VOL		= $record->getString($c);
+					}
+					
+					if ($THANG == $th)
+					{
+						echo 'THANG '.$THANG.'<BR>';
+						echo 'KDSATKER '.$KDSATKER.'<BR>';
 						
-				}	# AND WHILE
-			}		# AND CEK FILE OUTPUT
+						$sql = "INSERT INTO d_output(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, VOL) VALUES ('".$THANG."', 
+						'".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$VOL."')";
+						
+						mysql_query($sql);
+					}
+				}
+				
+				$table_1->close();
+			}
 				
 			if ($_REQUEST['soutput'] == "1")
 			{
 								
-				mysql_query("DELETE FROM d_soutput WHERE THANG = '".$ta_input."' AND KDSATKER = '".$kdsatker_input."' ");
-				$oSOutput="select THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,KDOUTPUT,KDSOUTPUT,URSOUTPUT,VOLSOUT from $file_2 where THANG='$ta_input' ";	
-				$SOutput=odbc_exec($sambung_dipa,$oSOutput);
-				while($row = odbc_fetch_row($SOutput)){
-					$THANG		=odbc_result($SOutput,THANG);
-					$KDSATKER	=odbc_result($SOutput,KDSATKER);
-					$KDDEPT		=odbc_result($SOutput,KDDEPT);
-					$KDUNIT		=odbc_result($SOutput,KDUNIT);
-					$KDPROGRAM	=odbc_result($SOutput,KDPROGRAM);
-					$KDGIAT		=odbc_result($SOutput,KDGIAT);
-					$KDOUTPUT	=odbc_result($SOutput,KDOUTPUT);
-					$KDSOUTPUT	=odbc_result($SOutput,KDSOUTPUT);
-					$URSOUTPUT	=odbc_result($SOutput,URSOUTPUT);
-					$VOLSOUT	=odbc_result($SOutput,VOLSOUT);
+				mysql_query("DELETE FROM d_soutput WHERE THANG = '".$th."' AND KDSATKER = '".$kdsatker."' ");
+				
+				/*
+				$SOutput = $conn->Execute("SELECT THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, URSOUTPUT, VOLSOUT 
+				FROM ".$tabel_2." WHERE THANG = '".$th."'");	
+				
+				while (!$SOutput->EOF) 
+				{
+					$THANG		= $SOutput->Fields(0);
+					$KDSATKER	= $SOutput->Fields(1);
+					$KDDEPT		= $SOutput->Fields(2);
+					$KDUNIT		= $SOutput->Fields(3);
+					$KDPROGRAM	= $SOutput->Fields(4);
+					$KDGIAT		= $SOutput->Fields(5);
+					$KDOUTPUT	= $SOutput->Fields(6);
+					$KDSOUTPUT	= $SOutput->Fields(7);
+					$URSOUTPUT	= addslashes($SOutput->Fields(8));
+					$VOLSOUT	= $SOutput->Fields(9);
 
-					$sql = "INSERT INTO d_soutput(THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, URSOUTPUT, VOLSOUT) VALUES ('$THANG', '$KDSATKER', '$KDDEPT', '$KDUNIT', '$KDPROGRAM', '$KDGIAT', '$KDOUTPUT', '$KDSOUTPUT', '$URSOUTPUT', '$VOLSOUT')";
+					$sql = "INSERT INTO d_soutput(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, URSOUTPUT, VOLSOUT) VALUES 
+					('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$KDSOUTPUT."', 
+					'".$URSOUTPUT."', '".$VOLSOUT."')";
+					
 					mysql_query($sql);
+    				$SOutput->MoveNext();
 						
-				}	# AND WHILE
-			}		# AND CEK FILE SOUTPUT
+				}
+				
+				$SOutput->Close();
+				*/
+				
+				$table_2 = new XBaseTable($tabel_2);
+				$table_2->open();
+				
+				while ($record = $table_2->nextRecord())
+				{
+					foreach ($table_2->getColumns() as $i=>$c)
+					{
+						if ($c->getName() == "THANG") 			$THANG 		= $record->getString($c); 
+						else if ($c->getName() == "KDSATKER") 	$KDSATKER	= $record->getString($c);
+						else if ($c->getName() == "KDDEPT")		$KDDEPT		= $record->getString($c);
+						else if ($c->getName() == "KDUNIT")		$KDUNIT		= $record->getString($c);
+						else if ($c->getName() == "KDPROGRAM")	$KDPROGRAM	= $record->getString($c);
+						else if ($c->getName() == "KDGIAT")		$KDGIAT		= $record->getString($c);
+						else if ($c->getName() == "KDOUTPUT")	$KDOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "KDSOUTPUT")	$KDSOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "URSOUTPUT")	$URSOUTPUT	= addslashes($record->getString($c));
+						else if ($c->getName() == "VOLSOUT")	$VOLSOUT	= $record->getString($c);
+					}
+					
+					if ($THANG == $th)
+					{
+						$sql = "INSERT INTO d_soutput(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, URSOUTPUT, VOLSOUT) VALUES 
+						('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$KDSOUTPUT."', 
+						'".$URSOUTPUT."', '".$VOLSOUT."')";
+					
+						mysql_query($sql);
+					}
+				}
+				
+				$table_2->close();
+			}
 			
 			if ($_REQUEST['kmpnen'] == "1")
 			{
-				mysql_query("DELETE FROM d_kmpnen WHERE THANG = '".$ta_input."' AND KDSATKER = '".$kdsatker_input."'");
-				$oKmpnen="select THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,KDOUTPUT,KDSOUTPUT,KDKMPNEN,URKMPNEN,KDSBIAYA from $file_3 where THANG='$ta_input' ";	
-				$Kmpnen=odbc_exec($sambung_dipa,$oKmpnen);
-				while($row = odbc_fetch_row($Kmpnen)){
-					$THANG		=odbc_result($Kmpnen,THANG);
-					$KDSATKER	=odbc_result($Kmpnen,KDSATKER);
-					$KDDEPT		=odbc_result($Kmpnen,KDDEPT);
-					$KDUNIT		=odbc_result($Kmpnen,KDUNIT);
-					$KDPROGRAM	=odbc_result($Kmpnen,KDPROGRAM);
-					$KDGIAT		=odbc_result($Kmpnen,KDGIAT);
-					$KDOUTPUT	=odbc_result($Kmpnen,KDOUTPUT);
-					$KDSOUTPUT	=odbc_result($Kmpnen,KDSOUTPUT);
-					$KDKMPNEN	=odbc_result($Kmpnen,KDKMPNEN);
-					$URKMPNEN	=odbc_result($Kmpnen,URKMPNEN);
-					$KDSBIAYA	=odbc_result($Kmpnen,KDSBIAYA);
+				mysql_query("DELETE FROM d_kmpnen WHERE THANG = '".$th."' AND KDSATKER = '".$kdsatker."' ");
+				
+				/*
+				$Kmpnen = $conn->Execute("SELECT THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,KDOUTPUT,KDSOUTPUT,KDKMPNEN,URKMPNEN FROM ".$tabel_3." WHERE 
+				THANG = '".$th."'");	
+				
+				while (!$Kmpnen->EOF) 
+				{
+					$THANG		= $Kmpnen->Fields(0);
+					$KDSATKER	= $Kmpnen->Fields(1);
+					$KDDEPT		= $Kmpnen->Fields(2);
+					$KDUNIT		= $Kmpnen->Fields(3);
+					$KDPROGRAM	= $Kmpnen->Fields(4);
+					$KDGIAT		= $Kmpnen->Fields(5);
+					$KDOUTPUT	= $Kmpnen->Fields(6);
+					$KDSOUTPUT	= $Kmpnen->Fields(7);
+					$KDKMPNEN	= $Kmpnen->Fields(8);
+					$URKMPNEN	= addslashes($Kmpnen->Fields(9));
+
+					$sql = "INSERT INTO d_kmpnen(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, URKMPNEN) VALUES 
+					('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$KDSOUTPUT."', 
+					'".$KDKMPNEN."', '".$URKMPNEN."')";
 					
-					$sql = "INSERT INTO d_kmpnen(THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, URKMPNEN, KDSBIAYA) VALUES ('$THANG', '$KDSATKER', '$KDDEPT', '$KDUNIT', '$KDPROGRAM', '$KDGIAT', '$KDOUTPUT', '$KDSOUTPUT', '$KDKMPNEN', '$URKMPNEN', '$KDSBIAYA')";
 					mysql_query($sql);
-						
-				}	# AND WHILE
-			}		# AND CEK FILE KMPNEN
+    				$Kmpnen->MoveNext();
+
+				}
+				
+				$Kmpnen->Close();
+				*/
+				
+				$table_3 = new XBaseTable($tabel_3);
+				$table_3->open();
+				
+				while ($record = $table_3->nextRecord())
+				{
+					foreach ($table_3->getColumns() as $i=>$c)
+					{
+						if ($c->getName() == "THANG") 			$THANG 		= $record->getString($c); 
+						else if ($c->getName() == "KDSATKER") 	$KDSATKER	= $record->getString($c);
+						else if ($c->getName() == "KDDEPT")		$KDDEPT		= $record->getString($c);
+						else if ($c->getName() == "KDUNIT")		$KDUNIT		= $record->getString($c);
+						else if ($c->getName() == "KDPROGRAM")	$KDPROGRAM	= $record->getString($c);
+						else if ($c->getName() == "KDGIAT")		$KDGIAT		= $record->getString($c);
+						else if ($c->getName() == "KDOUTPUT")	$KDOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "KDSOUTPUT")	$KDSOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "KDKMPNEN")	$KDKMPNEN	= $record->getString($c);
+						else if ($c->getName() == "URKMPNEN")	$URKMPNEN	= addslashes($record->getString($c));
+					}
+					
+					if ($THANG == $th)
+					{
+						$sql = "INSERT INTO d_kmpnen(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, URKMPNEN) VALUES 
+						('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$KDSOUTPUT."', 
+						'".$KDKMPNEN."', '".$URKMPNEN."')";
+					
+						mysql_query($sql);
+					}
+				}
+				
+				$table_3->close();
+			}
 	
 			if ($_REQUEST['skmpnen'] == "1")
 			{
-				mysql_query("DELETE FROM d_skmpnen WHERE THANG = '".$ta_input."' AND KDSATKER = '".$kdsatker_input."'");
-				$oSKmpnen="select THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,KDOUTPUT,KDSOUTPUT,KDKMPNEN,KDSKMPNEN,URSKMPNEN from $file_4 where THANG='$ta_input' ";	
-				$SKmpnen=odbc_exec($sambung_dipa,$oSKmpnen);
-				while($row = odbc_fetch_row($SKmpnen)){
-					$THANG		=odbc_result($SKmpnen,THANG);
-					$KDSATKER	=odbc_result($SKmpnen,KDSATKER);
-					$KDDEPT		=odbc_result($SKmpnen,KDDEPT);
-					$KDUNIT		=odbc_result($SKmpnen,KDUNIT);
-					$KDPROGRAM	=odbc_result($SKmpnen,KDPROGRAM);
-					$KDGIAT		=odbc_result($SKmpnen,KDGIAT);
-					$KDOUTPUT	=odbc_result($SKmpnen,KDOUTPUT);
-					$KDSOUTPUT	=odbc_result($SKmpnen,KDSOUTPUT);
-					$KDKMPNEN	=odbc_result($SKmpnen,KDKMPNEN);
-					$KDSKMPNEN	=odbc_result($SKmpnen,KDSKMPNEN);
-					$URSKMPNEN	=odbc_result($SKmpnen,URSKMPNEN);
+				mysql_query("DELETE FROM d_skmpnen WHERE THANG = '".$th."' AND KDSATKER = '".$kdsatker."' ");
+				
+				/*
+				$SKmpnen = $conn->Execute("SELECT THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN,URSKMPNEN 
+				FROM ".$tabel_4." WHERE THANG = '".$th."'");	
+				
+				while (!$SKmpnen->EOF) 
+				{
+					$THANG		= $SKmpnen->Fields(0);
+					$KDSATKER	= $SKmpnen->Fields(1);
+					$KDDEPT		= $SKmpnen->Fields(2);
+					$KDUNIT		= $SKmpnen->Fields(3);
+					$KDPROGRAM	= $SKmpnen->Fields(4);
+					$KDGIAT		= $SKmpnen->Fields(5);
+					$KDOUTPUT	= $SKmpnen->Fields(6);
+					$KDSOUTPUT	= $SKmpnen->Fields(7);
+					$KDKMPNEN	= $SKmpnen->Fields(8);
+					$KDSKMPNEN	= $SKmpnen->Fields(9);
+					$URSKMPNEN	= addslashes($SKmpnen->Fields(10));
 
-					$sql = "INSERT INTO d_skmpnen(THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN, URSKMPNEN) VALUES ('$THANG', '$KDSATKER', '$KDDEPT', '$KDUNIT', '$KDPROGRAM', '$KDGIAT', '$KDOUTPUT', '$KDSOUTPUT', '$KDKMPNEN', '$KDSKMPNEN', '$URSKMPNEN')";
+					$sql = "INSERT INTO d_skmpnen(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN, URSKMPNEN) 
+					VALUES ('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$KDSOUTPUT."', 
+					'".$KDKMPNEN."', '".$KDSKMPNEN."', '".$URSKMPNEN."')";
+					
 					mysql_query($sql);
-						
-				}	# AND WHILE
-			}		# AND CEK FILE KMPNEN
+    				$SKmpnen->MoveNext();
+				}
+				
+				$SKmpnen->Close();
+				*/
+				
+				$table_4 = new XBaseTable($tabel_4);
+				$table_4->open();
+				
+				while ($record = $table_4->nextRecord())
+				{
+					foreach ($table_4->getColumns() as $i=>$c)
+					{
+						if ($c->getName() == "THANG") 			$THANG 		= $record->getString($c); 
+						else if ($c->getName() == "KDSATKER") 	$KDSATKER	= $record->getString($c);
+						else if ($c->getName() == "KDDEPT")		$KDDEPT		= $record->getString($c);
+						else if ($c->getName() == "KDUNIT")		$KDUNIT		= $record->getString($c);
+						else if ($c->getName() == "KDPROGRAM")	$KDPROGRAM	= $record->getString($c);
+						else if ($c->getName() == "KDGIAT")		$KDGIAT		= $record->getString($c);
+						else if ($c->getName() == "KDOUTPUT")	$KDOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "KDSOUTPUT")	$KDSOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "KDKMPNEN")	$KDKMPNEN	= $record->getString($c);
+						else if ($c->getName() == "KDSKMPNEN")	$KDSKMPNEN	= $record->getString($c);
+						else if ($c->getName() == "URSKMPNEN")	$URSKMPNEN	= addslashes($record->getString($c));
+					}
+					
+					if ($THANG == $th)
+					{
+						$sql = "INSERT INTO d_skmpnen(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN, 
+						URSKMPNEN) VALUES ('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', 
+						'".$KDSOUTPUT."', '".$KDKMPNEN."', '".$KDSKMPNEN."', '".$URSKMPNEN."')";
+					
+						mysql_query($sql);
+					}
+				}
+				
+				$table_4->close();
+			}
 
 			if ($_REQUEST['dipa'] == "1")
 			{
-				mysql_query("DELETE FROM d_akun WHERE THANG = '".$ta_input."' AND KDSATKER = '".$kdsatker_input."'");
-				$oAkun="select THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,KDOUTPUT,KDSOUTPUT,KDKMPNEN,KDSKMPNEN,KDAKUN from $file_5 where THANG='$ta_input' ";	
-				$Akun=odbc_exec($sambung_dipa,$oAkun);
-				while($row = odbc_fetch_row($Akun)){
-					$THANG		=odbc_result($Akun,THANG);
-					$KDSATKER	=odbc_result($Akun,KDSATKER);
-					$KDDEPT		=odbc_result($Akun,KDDEPT);
-					$KDUNIT		=odbc_result($Akun,KDUNIT);
-					$KDPROGRAM	=odbc_result($Akun,KDPROGRAM);
-					$KDGIAT		=odbc_result($Akun,KDGIAT);
-					$KDOUTPUT	=odbc_result($Akun,KDOUTPUT);
-					$KDSOUTPUT	=odbc_result($Akun,KDSOUTPUT);
-					$KDKMPNEN	=odbc_result($Akun,KDKMPNEN);
-					$KDSKMPNEN	=odbc_result($Akun,KDSKMPNEN);
-					$KDAKUN		=odbc_result($Akun,KDAKUN);
+				mysql_query("DELETE FROM d_akun WHERE THANG = '".$th."' AND KDSATKER = '".$kdsatker."' ");
+				
+				/*
+				$Akun = $conn->Execute("SELECT THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT,KDSOUTPUT, KDKMPNEN, KDSKMPNEN, KDAKUN 
+				FROM ".$tabel_5." WHERE THANG = '".$th."'");	
+				
+				while (!$Akun->EOF) 
+				{
+					$THANG		= $Akun->Fields(0);
+					$KDSATKER	= $Akun->Fields(1);
+					$KDDEPT		= $Akun->Fields(2);
+					$KDUNIT		= $Akun->Fields(3);
+					$KDPROGRAM	= $Akun->Fields(4);
+					$KDGIAT		= $Akun->Fields(5);
+					$KDOUTPUT	= $Akun->Fields(6);
+					$KDSOUTPUT	= $Akun->Fields(7);
+					$KDKMPNEN	= $Akun->Fields(8);
+					$KDSKMPNEN	= $Akun->Fields(9);
+					$KDAKUN		= $Akun->Fields(10);
 
-					$sql = "INSERT INTO d_akun(THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN, KDAKUN) VALUES ('$THANG', '$KDSATKER', '$KDDEPT', '$KDUNIT', '$KDPROGRAM', '$KDGIAT', '$KDOUTPUT', '$KDSOUTPUT', '$KDKMPNEN', '$KDSKMPNEN', '$KDAKUN')";
+					$sql = "INSERT INTO d_akun(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN, KDAKUN) VALUES 
+					('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$KDSOUTPUT."', 
+					'".$KDKMPNEN."', '".$KDSKMPNEN."', '".$KDAKUN."')";
+					
 					mysql_query($sql);
-						
-				}	# AND WHILE
-			}		# AND CEK FILE SKMPNEN
+    				$Akun->MoveNext();
+				}
+				
+				$Akun->Close();
+				*/
+				
+				$table_5 = new XBaseTable($tabel_5);
+				$table_5->open();
+				
+				while ($record = $table_5->nextRecord())
+				{
+					foreach ($table_5->getColumns() as $i=>$c)
+					{
+						if ($c->getName() == "THANG") 			$THANG 		= $record->getString($c); 
+						else if ($c->getName() == "KDSATKER") 	$KDSATKER	= $record->getString($c);
+						else if ($c->getName() == "KDDEPT")		$KDDEPT		= $record->getString($c);
+						else if ($c->getName() == "KDUNIT")		$KDUNIT		= $record->getString($c);
+						else if ($c->getName() == "KDPROGRAM")	$KDPROGRAM	= $record->getString($c);
+						else if ($c->getName() == "KDGIAT")		$KDGIAT		= $record->getString($c);
+						else if ($c->getName() == "KDOUTPUT")	$KDOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "KDSOUTPUT")	$KDSOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "KDKMPNEN")	$KDKMPNEN	= $record->getString($c);
+						else if ($c->getName() == "KDSKMPNEN")	$KDSKMPNEN	= $record->getString($c);
+						else if ($c->getName() == "KDAKUN")		$KDAKUN		= $record->getString($c);
+					}
+					
+					if ($THANG == $th)
+					{
+						$sql = "INSERT INTO d_akun(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN, KDAKUN) 
+						VALUES ('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', 
+						'".$KDSOUTPUT."', '".$KDKMPNEN."', '".$KDSKMPNEN."', '".$KDAKUN."')";
+					
+						mysql_query($sql);
+					}
+				}
+				
+				$table_5->close();
+			}
 
 			if ($_REQUEST['pok'] == "1")
 			{
-				mysql_query("DELETE FROM d_item WHERE THANG = '".$ta_input."' AND KDSATKER = '".$kdsatker_input."'");
-				$oItem="select THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,KDOUTPUT,KDSOUTPUT,KDKMPNEN,KDSKMPNEN,KDAKUN,JUMLAH,JANUARI,PEBRUARI,MARET,
-							APRIL,MEI,JUNI,JULI,AGUSTUS,SEPTEMBER,OKTOBER,NOPEMBER,DESEMBER,HEADER1,HEADER2,KDHEADER,NOITEM,NMITEM,VOLKEG,SATKEG,HARGASAT, KDBLOKIR, RPHBLOKIR
-							 from $file_6 where THANG='$ta_input'";	
-				$Item=odbc_exec($sambung_dipa,$oItem);
-				while($row = odbc_fetch_row($Item)){
-					$THANG		=odbc_result($Item,THANG);
-					$KDSATKER	=odbc_result($Item,KDSATKER);
-					$KDDEPT		=odbc_result($Item,KDDEPT);
-					$KDUNIT		=odbc_result($Item,KDUNIT);
-					$KDPROGRAM	=odbc_result($Item,KDPROGRAM);
-					$KDGIAT		=odbc_result($Item,KDGIAT);
-					$KDOUTPUT	=odbc_result($Item,KDOUTPUT);
-					$KDSOUTPUT	=odbc_result($Item,KDSOUTPUT);
-					$KDKMPNEN	=odbc_result($Item,KDKMPNEN);
-					$KDSKMPNEN	=odbc_result($Item,KDSKMPNEN);
-					$KDAKUN		=odbc_result($Item,KDAKUN);
-					$JUMLAH		=odbc_result($Item,JUMLAH);
-					$JANUARI	=odbc_result($Item,JANUARI);
-					$PEBRUARI	=odbc_result($Item,PEBRUARI);
-					$MARET		=odbc_result($Item,MARET);
-					$APRIL		=odbc_result($Item,APRIL);
-					$MEI		=odbc_result($Item,MEI);
-					$JUNI		=odbc_result($Item,JUNI);
-					$JULI		=odbc_result($Item,JULI);
-					$AGUSTUS	=odbc_result($Item,AGUSTUS);
-					$SEPTEMBER	=odbc_result($Item,SEPTEMBER);
-					$OKTOBER	=odbc_result($Item,OKTOBER);
-					$NOPEMBER	=odbc_result($Item,NOPEMBER);
-					$DESEMBER	=odbc_result($Item,DESEMBER);
-					$HEADER1	=odbc_result($Item,HEADER1);
-					$HEADER2	=odbc_result($Item,HEADER2);
-					$KDHEADER	=odbc_result($Item,KDHEADER);
-					$NOITEM		=odbc_result($Item,NOITEM);
-					$NMITEM		=addslashes(odbc_result($Item,NMITEM));
-					$VOLKEG		=odbc_result($Item,VOLKEG);
-					$SATKEG		=addslashes(odbc_result($Item,SATKEG));
-					$HARGASAT	=odbc_result($Item,HARGASAT);
-					$KDBLOKIR	=odbc_result($Item,KDBLOKIR);
-					$RPHBLOKIR	=odbc_result($Item,RPHBLOKIR);
-					$sql = "INSERT INTO d_item(THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,KDOUTPUT,KDSOUTPUT,KDKMPNEN,KDSKMPNEN,KDAKUN,JUMLAH,JANUARI,PEBRUARI,MARET,
-												APRIL,MEI,JUNI,JULI,AGUSTUS,SEPTEMBER,OKTOBER,NOPEMBER,DESEMBER,HEADER1,HEADER2,KDHEADER,NOITEM,NMITEM,VOLKEG,SATKEG,HARGASAT,
-												KDBLOKIR, RPHBLOKIR) 
-									 VALUES ('$THANG', '$KDSATKER', '$KDDEPT', '$KDUNIT', '$KDPROGRAM', '$KDGIAT', '$KDOUTPUT', '$KDSOUTPUT', '$KDKMPNEN',
-									 '$KDSKMPNEN', '$KDAKUN', '$JUMLAH', '$JANUARI', '$PEBRUARI', '$MARET','$APRIL', '$MEI', '$JUNI', '$JULI', '$AGUSTUS' , '$SEPTEMBER' ,
-									 '$OKTOBER' ,'$NOPEMBER', '$DESEMBER', '$HEADER1', '$HEADER2', '$KDHEADER', '$NOITEM', '$NMITEM', '$VOLKEG', '$SATKEG', '$HARGASAT' ,
-									 '$KDBLOKIR' , '$RPHBLOKIR' )";
-					mysql_query($sql);
-						
-				}	# AND WHILE
-			}		# AND CEK FILE D_ITEM
-
-	if ($_REQUEST['trktrm'] == "1")
-			{
+				mysql_query("DELETE FROM d_item WHERE THANG = '".$th."' AND KDSATKER = '".$kdsatker."'");
 				
-				mysql_query("DELETE FROM d_trktrm WHERE THANG = '".$ta_input."' AND KDSATKER = '".$kdsatker_input."'");
-				$oTrkTrn="select THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,RPHPAGU,KDTRKTRM,JNSBELANJA,JML01,JML02,JML03,JML04,JML05,JML06,JML07,JML08,JML09,JML10,JML11,JML12
-							 from $file_7 where THANG='$ta_input'";	
-				$TrkTrn=odbc_exec($sambung_dipa,$oTrkTrn);
-				while($row = odbc_fetch_row($TrkTrn)){
-					$THANG		= odbc_result($TrkTrn,THANG);
-					$KDSATKER	= odbc_result($TrkTrn,KDSATKER);
-					$KDDEPT		=odbc_result($TrkTrn,KDDEPT);
-					$KDUNIT		=odbc_result($TrkTrn,KDUNIT);
-					$KDPROGRAM	=odbc_result($TrkTrn,KDPROGRAM);
-					$KDGIAT		=odbc_result($TrkTrn,KDGIAT);
-					$RPHPAGU	=odbc_result($TrkTrn,RPHPAGU);
-					$KDTRKTRM	=odbc_result($TrkTrn,KDTRKTRM);
-					$JNSBELANJA	=odbc_result($TrkTrn,JNSBELANJA);
-					$JML01		=odbc_result($TrkTrn,JML01);
-					$JML02		=odbc_result($TrkTrn,JML02);
-					$JML03		=odbc_result($TrkTrn,JML03);
-					$JML04		=odbc_result($TrkTrn,JML04);
-					$JML05		=odbc_result($TrkTrn,JML05);
-					$JML06		=odbc_result($TrkTrn,JML06);
-					$JML07		=odbc_result($TrkTrn,JML07);
-					$JML08		=odbc_result($TrkTrn,JML08);
-					$JML09		=odbc_result($TrkTrn,JML09);
-					$JML10		=odbc_result($TrkTrn,JML10);
-					$JML11		=odbc_result($TrkTrn,JML11);
-					$JML12		=odbc_result($TrkTrn,JML12);
+				/*
+				$Item = $conn->Execute("SELECT THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN,KDAKUN, JUMLAH, 
+				JANUARI, PEBRUARI, MARET, APRIL, MEI,JUNI, JULI, AGUSTUS, SEPTEMBER, OKTOBER, NOPEMBER, DESEMBER, HEADER1, HEADER2, KDHEADER, NOITEM, NMITEM,
+				 VOLKEG, SATKEG, HARGASAT, KDBEBAN FROM ".$tabel_6." WHERE THANG = '".$th."'");	
+				
+				while (!$Item->EOF) 
+				{
+					$THANG		= $Item->Fields(0);
+					$KDSATKER	= $Item->Fields(1);
+					$KDDEPT		= $Item->Fields(2);
+					$KDUNIT		= $Item->Fields(3);
+					$KDPROGRAM	= $Item->Fields(4);
+					$KDGIAT		= $Item->Fields(5);
+					$KDOUTPUT	= $Item->Fields(6);
+					$KDSOUTPUT	= $Item->Fields(7);
+					$KDKMPNEN	= $Item->Fields(8);
+					$KDSKMPNEN	= $Item->Fields(9);
+					$KDAKUN		= $Item->Fields(10);
+					$JUMLAH		= $Item->Fields(11);
+					$JANUARI	= $Item->Fields(12);
+					$PEBRUARI	= $Item->Fields(13);
+					$MARET		= $Item->Fields(14);
+					$APRIL		= $Item->Fields(15);
+					$MEI		= $Item->Fields(16);
+					$JUNI		= $Item->Fields(17);
+					$JULI		= $Item->Fields(18);
+					$AGUSTUS	= $Item->Fields(19);
+					$SEPTEMBER	= $Item->Fields(20);
+					$OKTOBER	= $Item->Fields(21);
+					$NOPEMBER	= $Item->Fields(22);
+					$DESEMBER	= $Item->Fields(23);
+					$HEADER1	= $Item->Fields(24);
+					$HEADER2	= $Item->Fields(25);
+					$KDHEADER	= $Item->Fields(26);
+					$NOITEM		= $Item->Fields(27);
+					$NMITEM		= addslashes($Item->Fields(28));
+					$VOLKEG		= $Item->Fields(29);
+					$SATKEG		= addslashes($Item->Fields(30));
+					$HARGASAT	= $Item->Fields(31);
+					$KDBEBAN	= $Item->Fields(32);
 					
-					$sql = "INSERT INTO d_trktrm(THANG,KDSATKER,KDDEPT,KDUNIT,KDPROGRAM,KDGIAT,RPHPAGU,KDTRKTRM,JNSBELANJA,JML01,JML02,JML03,JML04,JML05,JML06,JML07,JML08,JML09,JML10,JML11,JML12) 
-									 VALUES ('$THANG', '$KDSATKER', '$KDDEPT', '$KDUNIT', '$KDPROGRAM', '$KDGIAT', '$RPHPAGU', '$KDTRKTRM', '$JNSBELANJA',
-									 '$JML01', '$JML02', '$JML03', '$JML04', '$JML05', '$JML06', '$JML07', '$JML08', '$JML09', '$JML10', '$JML11', '$JML12' )";
+					$sql = "INSERT INTO d_item(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN, KDAKUN, JUMLAH, 
+					JANUARI, PEBRUARI, MARET, APRIL, MEI, JUNI, JULI, AGUSTUS, SEPTEMBER, OKTOBER, NOPEMBER, DESEMBER, HEADER1, HEADER2, KDHEADER, NOITEM, 
+					NMITEM, VOLKEG, SATKEG, HARGASAT, KDBEBAN) VALUES ('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', '".$KDPROGRAM."', 
+					'".$KDGIAT."', '".$KDOUTPUT."', '".$KDSOUTPUT."', '".$KDKMPNEN."', '".$KDSKMPNEN."', '".$KDAKUN."', '".$JUMLAH."', '".$JANUARI."', 
+					'".$PEBRUARI."', '".$MARET."', '".$APRIL."', '".$MEI."', '".$JUNI."', '".$JULI."', '".$AGUSTUS."', '".$SEPTEMBER."', 
+					'".$OKTOBER."', '".$NOPEMBER."', '".$DESEMBER."', '".$HEADER1."', '".$HEADER2."', '".$KDHEADER."', '".$NOITEM."', '".$NMITEM."', 
+					'".$VOLKEG."', '".$SATKEG."', '".$HARGASAT."' , '".$KDBEBAN."')";
+					
 					mysql_query($sql);
-						
-				}	# AND WHILE
-			}		# AND CEK FILE TRKTRM		
+    				$Item->MoveNext();
+				}
+				
+				$Item->Close();
+				*/
+				
+				$table_6 = new XBaseTable($tabel_6);
+				$table_6->open();
+				
+				while ($record = $table_6->nextRecord())
+				{
+					foreach ($table_6->getColumns() as $i=>$c)
+					{
+						if ($c->getName() == "THANG") 			$THANG 		= $record->getString($c); 
+						else if ($c->getName() == "KDSATKER") 	$KDSATKER	= $record->getString($c);
+						else if ($c->getName() == "KDDEPT")		$KDDEPT		= $record->getString($c);
+						else if ($c->getName() == "KDUNIT")		$KDUNIT		= $record->getString($c);
+						else if ($c->getName() == "KDPROGRAM")	$KDPROGRAM	= $record->getString($c);
+						else if ($c->getName() == "KDGIAT")		$KDGIAT		= $record->getString($c);
+						else if ($c->getName() == "KDOUTPUT")	$KDOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "KDSOUTPUT")	$KDSOUTPUT	= $record->getString($c);
+						else if ($c->getName() == "KDKMPNEN")	$KDKMPNEN	= $record->getString($c);
+						else if ($c->getName() == "KDSKMPNEN")	$KDSKMPNEN	= $record->getString($c);
+						else if ($c->getName() == "KDAKUN")		$KDAKUN		= $record->getString($c);
+						else if ($c->getName() == "JUMLAH")		$JUMLAH		= $record->getString($c);
+						//else if ($c->getName() == "JANUARI")	$JANUARI	= $record->getString($c);
+						//else if ($c->getName() == "PEBRUARI")	$PEBRUARI	= $record->getString($c);
+						//else if ($c->getName() == "MARET")		$MARET		= $record->getString($c);
+						//else if ($c->getName() == "APRIL")		$APRIL		= $record->getString($c);
+						//else if ($c->getName() == "MEI")		$MEI		= $record->getString($c);
+						//else if ($c->getName() == "JUNI")		$JUNI		= $record->getString($c);
+						//else if ($c->getName() == "JULI")		$JULI		= $record->getString($c);
+						//else if ($c->getName() == "AGUSTUS")	$AGUSTUS	= $record->getString($c);
+						//else if ($c->getName() == "SEPTEMBER")	$SEPTEMBER	= $record->getString($c);
+						//else if ($c->getName() == "OKTOBER")	$OKTOBER	= $record->getString($c);
+						//else if ($c->getName() == "NOPEMBER")	$NOPEMBER	= $record->getString($c);
+						//else if ($c->getName() == "DESEMBER")	$DESEMBER	= $record->getString($c);
+						else if ($c->getName() == "HEADER1")	$HEADER1	= $record->getString($c);
+						else if ($c->getName() == "HEADER2")	$HEADER2	= $record->getString($c);
+						else if ($c->getName() == "KDHEADER")	$KDHEADER	= $record->getString($c);
+						else if ($c->getName() == "NOITEM")		$NOITEM		= $record->getString($c);
+						else if ($c->getName() == "NMITEM")		$NMITEM		= addslashes($record->getString($c));
+						else if ($c->getName() == "VOLKEG")		$VOLKEG		= $record->getString($c);
+						else if ($c->getName() == "SATKEG")		$SATKEG		= addslashes($record->getString($c));
+						else if ($c->getName() == "HARGASAT")	$HARGASAT	= $record->getString($c);
+						else if ($c->getName() == "KDBEBAN")	$KDBEBAN	= $record->getString($c);
+						else if ($c->getName() == "KDBLOKIR")	$KDBLOKIR	= $record->getString($c);
+						else if ($c->getName() == "RPHBLOKIR")	$RPHBLOKIR	= $record->getString($c);
+					}
+					
+					if ($THANG == $th)
+					{
+					//	$sql = "INSERT INTO d_item(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN, KDAKUN, 
+					//	JUMLAH, JANUARI, PEBRUARI, MARET, APRIL, MEI, JUNI, JULI, AGUSTUS, SEPTEMBER, OKTOBER, NOPEMBER, DESEMBER, HEADER1, HEADER2, 
+					//	KDHEADER, NOITEM, NMITEM, VOLKEG, SATKEG, HARGASAT, KDBEBAN) VALUES ('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', 
+					//	'".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$KDSOUTPUT."', '".$KDKMPNEN."', '".$KDSKMPNEN."', '".$KDAKUN."', '".$JUMLAH."', 
+					//	'".$JANUARI."', '".$PEBRUARI."', '".$MARET."', '".$APRIL."', '".$MEI."', '".$JUNI."', '".$JULI."', '".$AGUSTUS."', '".$SEPTEMBER."', 
+					//	'".$OKTOBER."', '".$NOPEMBER."', '".$DESEMBER."', '".$HEADER1."', '".$HEADER2."', '".$KDHEADER."', '".$NOITEM."', '".$NMITEM."', 
+					//	'".$VOLKEG."', '".$SATKEG."', '".$HARGASAT."' , '".$KDBEBAN."')";
+					$sql = "INSERT INTO d_item(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, KDOUTPUT, KDSOUTPUT, KDKMPNEN, KDSKMPNEN, KDAKUN, 
+						JUMLAH, HEADER1, HEADER2, 
+						KDHEADER, NOITEM, NMITEM, VOLKEG, SATKEG, HARGASAT, KDBEBAN,KDBLOKIR, RPHBLOKIR) VALUES ('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', 
+						'".$KDPROGRAM."', '".$KDGIAT."', '".$KDOUTPUT."', '".$KDSOUTPUT."', '".$KDKMPNEN."', '".$KDSKMPNEN."', '".$KDAKUN."', '".$JUMLAH."', 
+						'".$HEADER1."', '".$HEADER2."', '".$KDHEADER."', '".$NOITEM."', '".$NMITEM."', 
+						'".$VOLKEG."', '".$SATKEG."', '".$HARGASAT."' , '".$KDBEBAN."' , '".$KDBLOKIR."' , '".$RPHBLOKIR."' )";
+						mysql_query($sql);
+					}
+				}
+				
+				$table_6->close();
+			}
 
-			$_SESSION['errmsg'] = "Proses Import data berhasil"; ?>
-<?php		}else{		# else pilih satker
-			
-				$_SESSION['errmsg'] = "Anda Belum memilih Satker"; 
-			}         # AND CEK pilih satker  ?>
+			if ($_REQUEST['trktrm'] == "1")
+			{
+				mysql_query("DELETE FROM d_trktrm WHERE THANG = '".$th."' AND KDSATKER = '".$kdsatker."'");
+				
+				/*
+				$Item = $conn->Execute("SELECT THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, RPHPAGU, KDTRKTRM, JNSBELANJA, JML01, JML02, JML03, JML04,
+				 JML05, JML06, JML07, JML08, JML09, JML10, JML11, JML12 FROM ".$tabel_7." WHERE THANG = '".$th."'");	
+				
+				while (!$Item->EOF) 
+				{
+					$THANG		= $Item->Fields(0);
+					$KDSATKER	= $Item->Fields(1);
+					$KDDEPT		= $Item->Fields(2);
+					$KDUNIT		= $Item->Fields(3);
+					$KDPROGRAM	= $Item->Fields(4);
+					$KDGIAT		= $Item->Fields(5);
+					$RPHPAGU	= $Item->Fields(6);
+					$KDTRKTRM	= $Item->Fields(7);
+					$JNSBELANJA	= $Item->Fields(8);
+					$JML01		= $Item->Fields(9);
+					$JML02		= $Item->Fields(10);
+					$JML03		= $Item->Fields(11);
+					$JML04		= $Item->Fields(12);
+					$JML05		= $Item->Fields(13);
+					$JML06		= $Item->Fields(14);
+					$JML07		= $Item->Fields(15);
+					$JML08		= $Item->Fields(16);
+					$JML09		= $Item->Fields(17);
+					$JML10		= $Item->Fields(18);
+					$JML11		= $Item->Fields(19);
+					$JML12		= $Item->Fields(20);
+					
+					$sql = "INSERT INTO d_trktrm(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, RPHPAGU, KDTRKTRM, JNSBELANJA, JML01, JML02, JML03, 
+					JML04, JML05, JML06, JML07, JML08, JML09, JML10, JML11, JML12) VALUES ('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', 
+					'".$KDPROGRAM."', '".$KDGIAT."', '".$RPHPAGU."', '".$KDTRKTRM."', '".$JNSBELANJA."', '".$JML01."', '".$JML02."', '".$JML03."', 
+					'".$JML04."', '".$JML05."', '".$JML06."', '".$JML07."', '".$JML08."', '".$JML09."', '".$JML10."', '".$JML11."', '".$JML12."')";
+					
+					mysql_query($sql);
+    				$Item->MoveNext();
+				}
+				
+				$Item->Close();
+				*/
+				
+				$table_7 = new XBaseTable($tabel_7);
+				$table_7->open();
+				
+				while ($record = $table_7->nextRecord())
+				{
+					foreach ($table_7->getColumns() as $i=>$c)
+					{
+						if ($c->getName() == "THANG") 			$THANG 		= $record->getString($c); 
+						else if ($c->getName() == "KDSATKER") 	$KDSATKER	= $record->getString($c);
+						else if ($c->getName() == "KDDEPT")		$KDDEPT		= $record->getString($c);
+						else if ($c->getName() == "KDUNIT")		$KDUNIT		= $record->getString($c);
+						else if ($c->getName() == "KDPROGRAM")	$KDPROGRAM	= $record->getString($c);
+						else if ($c->getName() == "KDGIAT")		$KDGIAT		= $record->getString($c);
+						else if ($c->getName() == "RPHPAGU")	$RPHPAGU	= $record->getString($c);
+						else if ($c->getName() == "KDTRKTRM")	$KDTRKTRM	= $record->getString($c);
+						else if ($c->getName() == "JNSBELANJA")	$JNSBELANJA	= $record->getString($c);
+						else if ($c->getName() == "JML01")		$JML01		= $record->getString($c);
+						else if ($c->getName() == "JML02")		$JML02		= $record->getString($c);
+						else if ($c->getName() == "JML03")		$JML03		= $record->getString($c);
+						else if ($c->getName() == "JML04")		$JML04		= $record->getString($c);
+						else if ($c->getName() == "JML05")		$JML05		= $record->getString($c);
+						else if ($c->getName() == "JML06")		$JML06		= $record->getString($c);
+						else if ($c->getName() == "JML07")		$JML07		= $record->getString($c);
+						else if ($c->getName() == "JML08")		$JML08		= $record->getString($c);
+						else if ($c->getName() == "JML09")		$JML09		= $record->getString($c);
+						else if ($c->getName() == "JML10")		$JML10		= $record->getString($c);
+						else if ($c->getName() == "JML11")		$JML11		= $record->getString($c);
+						else if ($c->getName() == "JML12")		$JML12		= $record->getString($c);
+					}
+					
+					if ($THANG == $th)
+					{
+						$sql = "INSERT INTO d_trktrm(THANG, KDSATKER, KDDEPT, KDUNIT, KDPROGRAM, KDGIAT, RPHPAGU, KDTRKTRM, JNSBELANJA, JML01, JML02, JML03, 
+						JML04, JML05, JML06, JML07, JML08, JML09, JML10, JML11, JML12) VALUES ('".$THANG."', '".$KDSATKER."', '".$KDDEPT."', '".$KDUNIT."', 
+						'".$KDPROGRAM."', '".$KDGIAT."', '".$RPHPAGU."', '".$KDTRKTRM."', '".$JNSBELANJA."', '".$JML01."', '".$JML02."', '".$JML03."', 
+						'".$JML04."', '".$JML05."', '".$JML06."', '".$JML07."', '".$JML08."', '".$JML09."', '".$JML10."', '".$JML11."', '".$JML12."')";
+					
+						mysql_query($sql);
+					}
+				}
+				
+				$table_7->close();
+			}
+
+			$_SESSION['errmsg'] = "Proses Refresh data berhasil"; ?>
 
 			<meta http-equiv="refresh" content="0;URL=index.php?p=<?php echo $p_next ?>"><?php
 			exit();
-						
 		}
 	} 
 ?>
 
-            <style type="text/css">
-<!--
-.style1 {color: #990000}
--->
-            </style>
-            <form action="" method="post" name="form" enctype="multipart/form-data">
-	
-  <table cellspacing="1" class="admintable">
-    <tr> 
-      <td width="120" class="key">Tahun Anggaran</td>
-      <td width="335"><strong><?php echo $ta_input ?></strong></td>
-    </tr>
-    <tr>
-      <td class="key">Satker</td>
-      <td><select name="kdsatker">
+<style type="text/css">
+	<!--
+	.style1 {color: #990000}
+	-->
+</style>
+
+<form action="" method="post" name="form" enctype="multipart/form-data">
+	<table cellspacing="1" class="admintable">
+		<tr> 
+			<td width="120" class="key">Seting Tahun</td>
+			<td width="335"><?php echo $th ?></td>
+		</tr>
+		<tr>
+			<td class="key">Data Tahun </td>
+			<td><?php echo $th_file ?></td>
+		</tr>
+		<tr>
+		  <td class="key">Satuan Kerja</td>
+		  <td>
+		  
+		  <select name="kdsatker">
             <option value="">- Pilih Satker -</option>
 		    <?php
 			switch ($xlevel)
@@ -309,69 +642,71 @@ $sambung_dipa = odbc_connect( $dsn,"","");
             <option value="<?php echo $row['KDSATKER'] ?>"><?php echo  $row['KDSATKER'].' '.$row['namasatker']; ?></option>
 		    <?php
 			} ?>
-          </select></td>
-    </tr>
-    <tr>
-      <td class="key">&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    
-    <tr>
-      <td class="key">&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr> 
-      <td class="key">Data Output</td>
-      <td> &nbsp; <input type="checkbox" name="output" value="1" checked> <span class="style1">[ 
-        File : D_OUTPUT.KEU]</span> </td>
-    </tr>
-    <tr> 
-      <td class="key">Data Sub Output</td>
-      <td> &nbsp;<span class="style1"> 
-        <input type="checkbox" name="soutput" value="1" checked>
-        [ File : D_SOUTPUT.KEU]</span> </td>
-    </tr>
-    <tr> 
-      <td class="key">Data Komponen</td>
-      <td> &nbsp;<span class="style1"> 
-        <input type="checkbox" name="kmpnen" value="1" checked>
-        [ File : D_KMPNEN.KEU]</span> </td>
-    </tr>
-    <tr> 
-      <td class="key">Data Sub Komponen</td>
-      <td> &nbsp;<span class="style1"> 
-        <input type="checkbox" name="skmpnen" value="1" checked>
-        [ File : D_SKMPNEN.KEU]</span> </td>
-    </tr>
-    <tr> 
-      <td class="key">Data DIPA</td>
-      <td> &nbsp;<span class="style1"> 
-        <input type="checkbox" name="dipa" value="1" checked>
-        [ File : D_AKUN.KEU]</span> </td>
-    </tr>
-    <tr> 
-      <td class="key">Data POK</td>
-      <td> &nbsp;<span class="style1"> 
-        <input type="checkbox" name="pok" value="1" checked>
-        [ File : D_ITEM.KEU]</span> </td>
-    </tr>
-	<tr> 
-      <td class="key">Data Rencana Penarikan</td>
-      <td> &nbsp;<span class="style1"> 
-        <input type="checkbox" name="trktrm" value="1" checked>
-        [ File : D_TRKTRM.KEU]</span> </td>
-    </tr>
-    <tr> 
-      <td>&nbsp;</td>
-      <td> <div class="button2-right"> 
-          <div class="prev"><a onclick="Back('index.php?p=<?php echo $p_next ?>')">Kembali</a></div>
-        </div>
-        <div class="button2-left"> 
-          <div class="next"> <a onclick="form.submit();">Proses</a></div>
-        </div>
-        <div class="clr"></div>
-        <input style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 0px; height: 0px;" value="Simpan" type="submit"> 
-        <input name="form" type="hidden" value="1" /> </td>
-    </tr>
-  </table>
+          </select>
+	  
+		  </td>
+	  </tr>
+		<tr>
+		  <td class="key">&nbsp;</td>
+		  <td>&nbsp;</td>
+	  </tr>
+		<tr>
+		  <td class="key">&nbsp;</td>
+		  <td>&nbsp;</td>
+	  </tr>
+		<tr>
+			<td colspan="2" class="key">
+            	<font color="#000066"><?php 
+
+					if ( $th <> $th_file ) echo '<blink> Tahun tidak sesuai, Batalkan Proses dan Impor file data yang sesuai !';
+					if ( $th == $th_file ) echo '<blink> Tahun sesuai, Proses dapat dilanjutkan !'; ?>
+                </font>            </td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center">
+            	<font color="#EC0000"><?php echo 'Jumlah Pagu Anggaran Tahun '.$th_file.' Rp. '.number_format($jumlah,"0",",",".") ?></font>            </td>
+		</tr>
+		<tr> 
+			<td class="key">Data Output</td>
+			<td> &nbsp; <input type="checkbox" name="output" value="1" checked> <span class="style1">[File : D_OUTPUT.KEU]</span></td>
+		</tr>
+		<tr> 
+			<td class="key">Data Sub Output</td>
+			<td> &nbsp;<span class="style1"><input type="checkbox" name="soutput" value="1" checked>[File : D_SOUTPUT.KEU]</span></td>
+		</tr>
+		<tr> 
+			<td class="key">Data Komponen</td>
+			<td> &nbsp;<span class="style1"><input type="checkbox" name="kmpnen" value="1" checked>[File : D_KMPNEN.KEU]</span></td>
+		</tr>
+		<tr> 
+			<td class="key">Data Sub Komponen</td>
+			<td> &nbsp;<span class="style1"><input type="checkbox" name="skmpnen" value="1" checked>[File : D_SKMPNEN.KEU]</span></td>
+		</tr>
+		<tr> 
+			<td class="key">Data DIPA</td>
+			<td> &nbsp;<span class="style1"><input type="checkbox" name="dipa" value="1" checked>[File : D_AKUN.KEU]</span></td>
+		</tr>
+		<tr> 
+			<td class="key">Data POK</td>
+			<td> &nbsp;<span class="style1"><input type="checkbox" name="pok" value="1" checked>[File : D_ITEM.KEU]</span></td>
+		</tr>
+		<tr> 
+			<td class="key">Data Rencana Penarikan</td>
+			<td> &nbsp;<span class="style1"><input type="checkbox" name="trktrm" value="1" checked>[File : D_TRKTRM.KEU]</span></td>
+		</tr>
+		
+		<tr> 
+			<td>&nbsp;</td>
+			<td>
+            	<div class="button2-right"> 
+					<div class="prev"><a onclick="Back('index.php?p=<?php echo $p_next ?>')">Kembali</a></div>
+				</div>
+				<div class="button2-left"> 
+					<div class="next"> <a onclick="form.submit();">Proses</a></div>
+				</div>
+				<div class="clr"></div>
+				<input style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 0px; height: 0px;" value="Simpan" type="submit"> 
+				<input name="form" type="hidden" value="1" />            </td>
+		</tr>
+	</table>
 </form>

@@ -3,7 +3,6 @@
 	include_once "includes.php";
 	update_log('','xlogout',1);
 	@session_start();
-	@session_unregister();
 	@session_unset();
 	@session_destroy();
 	@session_start();

@@ -27,7 +27,7 @@
 				$sql = mysql_query("select * from dt_fileupload WHERE th = '$th' and kdunitkerja = '$xkdunit' and nourut = '$nourut' and keterangan = 'Renstra' ");
 				$row = mysql_fetch_array($sql);
 				if(empty($row)){
-					$sql = "INSERT INTO dt_fileupload (id,th,kdunitkerja,nourut,dafisi,nama_file,keterangan,tgl_upload,user_upload) values ('','$th','$xkdunit','$nourut','$dafisi','$nm_filename','Renstra', '$tgl_upload','$xusername')";				
+					$sql = "INSERT INTO dt_fileupload (th,kdunitkerja,nourut,dafisi,nama_file,keterangan,tgl_upload,user_upload) values ('$th','$xkdunit','$nourut','$dafisi','$nm_filename','Renstra', '$tgl_upload','$xusername')";				
 					$query = mysql_query($sql) or die(mysql_error());
 				}else{
 					$sql = "UPDATE dt_fileupload SET dafisi = '$dafisi', nama_file = '$nm_filename', tgl_upload = '$tgl_upload', user_upload = '$xusername' WHERE th = '$th' and kdunitkerja = '$xkdunit' and nourut = '$nourut' and keterangan = 'Renstra' ";				

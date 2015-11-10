@@ -13,13 +13,28 @@
 	
 	if (isset($form)) {		
 		if ($err != true) {
-			$type = $left.','.$top.','.$sub;
+			// reconstruction type set
+			$type = $left;
 			
+			if($top<>"")
+				$type = $type . "," . $top;
+			if(substr($type,0,1)==",")
+				$type = substr($type,1);
+			
+			if($sub<>"")
+				$type = $type . "," . $sub;
+			if(substr($type,0,1)==",")
+				$type = substr($type,1);
+			
+			// reconstruction level set
 			$rs = xlevel("","id");
 			$level = "";
 			while ($xlevel = mysql_fetch_object($rs)) {
 				$a = "level".$xlevel->id;
-				$level .= $$a.",";
+				if($$a<>"")
+					$level .= "," . $$a;
+				if(substr($level,0,1)==",")
+				$level = substr($level,1);
 			}
 			
 			$lastmodified = now();
@@ -58,8 +73,9 @@
 				}
 				else {
 					update_log($sql,$table,0);
-					$_SESSION['errmsg'] = "Ubah data gagal!";			
-				} ?>
+					$_SESSION['errmsg'] = "Ubah data gagal!";
+				} 
+				?>
 				
 				<meta http-equiv="refresh" content="0;URL=index.php?p=<?php echo $p_next ?>"><?php
 				exit();

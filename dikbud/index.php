@@ -1,5 +1,7 @@
 <?php
 	error_reporting (E_ALL ^ E_NOTICE);
+	date_default_timezone_set("Asia/Jakarta");
+	
 	@session_start();
 	include_once "includes/includes.php";
 	checkauthentication();

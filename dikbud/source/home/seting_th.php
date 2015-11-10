@@ -13,8 +13,9 @@
 		if ($err != true) 
 		{
 			$th = $_REQUEST['xth'];
-			session_unregister('xth');
-			@session_register('xth'); $_SESSION['xth'] = $th;
+			//session_unregister('xth');
+			//@session_register('xth'); 
+			$_SESSION['xth'] = $th;
 			?>
 			<meta http-equiv="refresh" content="0;URL=index.php"><?php
 		}

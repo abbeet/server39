@@ -13,38 +13,13 @@
 	$xkdunit = $_SESSION['xkdunit'];
 	$xusername = $_SESSION['xusername'] ;
 	
-	if ( $xlevel <> 3 and $xlevel <> 4 and $xlevel <> 5 and $xlevel <> 6 and $xlevel <> 7 and $xlevel <> 8 )
-	{
-	//-----------------------------
-	$sql_menteri = "select sum(JUMLAH) as pagu_menteri from $table WHERE THANG='$th' AND KDDEPT = '$kddept'";
-	$aMenteri = mysql_query($sql_menteri);
-	$Menteri = mysql_fetch_array($aMenteri);
-	$pegawai = anggaran_belanja_menteri($th,'51');
-	if ( $Menteri['pagu_menteri'] <> 0 )   $p_pegawai = ($pegawai/$Menteri['pagu_menteri'])*100 ;
-	else   $p_pegawai = 0 ;
-	$barang = anggaran_belanja_menteri($th,'52');
-	if ( $Menteri['pagu_menteri'] <> 0 )   $p_barang = ($barang/$Menteri['pagu_menteri'])*100 ;
-	else   $p_barang = 0 ;
-	$modal = anggaran_belanja_menteri($th,'53');
-	if ( $Menteri['pagu_menteri'] <> 0 )   $p_modal = ($modal/$Menteri['pagu_menteri'])*100 ;
-	else   $p_modal = 0 ;
-	$perjalanan = anggaran_belanja_menteri($th,'524');
-	if ( $Menteri['pagu_menteri'] <> 0 )   $p_perjalanan = ($perjalanan/$Menteri['pagu_menteri'])*100 ;
-	else   $p_perjalanan = 0 ;
-
-	$sql_menteri_blokir = "select sum(RPHBLOKIR) as blokir_menteri from $table WHERE THANG='$th' AND KDDEPT = '$kddept'";
-	$aMenteri_blokir = mysql_query($sql_menteri_blokir);
-	$Menteri_blokir = mysql_fetch_array($aMenteri_blokir);
+if (isset($_POST["cari"]))
+{
+   $xkdunit = $_REQUEST['kdunit'];
+}
 	
-	} #---------------------------
-	if ( $xlevel == 3 or $xlevel == 4 or $xlevel == 5 or $xlevel == 6 or $xlevel == 7 or $xlevel == 8 )
-	{
 	$kdsatker = kd_satker($xkdunit) ;
 	$sql = "select kdsatker from tb_unitkerja WHERE kdsatker = '$kdsatker' group by kdsatker";
-	//$sql = "select kdsatker from tb_unitkerja WHERE kdunit = '$xkdunit' group by kdsatker";
-	}else{
-	$sql = "select kdsatker from tb_unitkerja WHERE kdsatker <> '' order by kdunit";
-	}
 	
 	$aSatker = mysql_query($sql);
 	$count = 0;
@@ -55,17 +30,62 @@
 	{
 		$pagu_satker = pagu_satker($th,$Satker['kdsatker']) ;
 		//echo 'pagu-'.$pagu_satker ;
-		if ( $pagu_satker > 0 )
-		{
+		//if ( $pagu_satker > 0 )
+		//{
 		$col[1][] 	= $Satker['kdsatker'];
 		$col[2][] 	= $pagu_satker ;
 		$col[3][] 	= blokir_satker($th,$Satker['kdsatker']) ;
 		//}else{
 		//$count = 0 ;
-		}
+		//}
 	}
 
 ?>
+<div align="right">
+	<form action="" method="post">
+		<input type="hidden" name="p" value="<?php echo $p; ?>" />
+		Satker : 
+		<select name="kdunit">
+                      <option value="<?php echo $xkdunit ?>"><?php echo  nm_unit($xkdunit) ?></option>
+                      <option value="">- Pilih Satker Mandiri -</option>
+                    <?php
+	switch ($xlevel)
+	{
+		case '1':
+			$query = mysql_query("select * from tb_unitkerja where kdsatker <> '' order by kdunit");
+			break;
+		case '3':
+			$kdsatker = kd_satker($xkdunit) ;
+			$query = mysql_query("select * from tb_unitkerja where kdunit = '$xkdunit' order by kdunit");
+			break;
+		case '4':
+			$query = mysql_query("select * from tb_unitkerja where kdunit = '$xkdunit' order by kdunit");
+			break;
+		case '5':
+			$query = mysql_query("select * from tb_unitkerja where kdunit = '$xkdunit' order by kdunit");
+			break;
+		case '6':
+			$query = mysql_query("select * from tb_unitkerja where kdunit = '$xkdunit' order by kdunit");
+			break;
+		case '7':
+			$query = mysql_query("select * from tb_unitkerja where kdunit = '$xkdunit' order by kdunit");
+			break;
+		case '8':
+			$query = mysql_query("select * from tb_unitkerja where kdunit = '$xkdunit' order by kdunit");
+			break;
+		default:
+			$query = mysql_query("select * from tb_unitkerja where kdsatker <> '' order by kdunit");
+			break;
+	}
+						while($row = mysql_fetch_array($query)) { ?>
+                      <option value="<?php echo $row['kdunit'] ?>"><?php echo  trim($row['nmunit']); ?></option>
+                    <?php
+					} ?>	
+	  </select>
+		<input type="submit" value="Tampilkan" name="cari"/>
+	</form>
+</div> 
+<br />
 <table width="787" cellpadding="1" class="adminlist">
   <thead>
     <tr> 
@@ -83,72 +103,12 @@
       <th>Modal</th>
       <th>Perjalanan</th>
       <th>Sosial</th>
-      <th>Detik</th>
+      <th>Detil</th>
     </tr>
   </thead>
   <tbody>
-    <tr class="row0"> 
-	<?php
-	if ( $xlevel <> 3 and $xlevel <> 4 and $xlevel <> 5 and $xlevel <> 6 and $xlevel <> 7 and $xlevel <> 8 )
-	{
-	//-----------------------------
-
-	$sql = "select 	sum(RPHPAGU) as RPHPAGU,
-					sum(JML01) as JML01,
-					sum(JML01+JML02) as JML02,
-					sum(JML01+JML02+JML03) as JML03,
-					sum(JML01+JML02+JML03+JML04) as JML04,
-					sum(JML01+JML02+JML03+JML04+JML05) as JML05,
-					sum(JML01+JML02+JML03+JML04+JML05+JML06) as JML06,
-					sum(JML01+JML02+JML03+JML04+JML05+JML06+JML07) as JML07,
-					sum(JML01+JML02+JML03+JML04+JML05+JML06+JML07+JML08) as JML08,
-					sum(JML01+JML02+JML03+JML04+JML05+JML06+JML07+JML08+JML09) as JML09,
-					sum(JML01+JML02+JML03+JML04+JML05+JML06+JML07+JML08+JML09+JML10) as JML10,
-					sum(JML01+JML02+JML03+JML04+JML05+JML06+JML07+JML08+JML09+JML10+JML11) as JML11,
-					sum(JML01+JML02+JML03+JML04+JML05+JML06+JML07+JML08+JML09+JML10+JML11+JML12) as JML12
-					from d_trktrm WHERE THANG='$th' group by THANG";
-	$aTarik = mysql_query($sql);
-	$Tarik = mysql_fetch_array($aTarik);
-	
-	$pagu_lembaga = $Menteri['pagu_menteri'] ;
-	$pegawai = anggaran_belanja_menteri($th,'51') ;
-	$barang = anggaran_belanja_menteri($th,'52') ;
-	$modal = anggaran_belanja_menteri($th,'53') ;
-	$perjalanan = anggaran_belanja_menteri($th,'524') ;
-	$sosial = anggaran_belanja_menteri($th,'57') ;
-	$p_pegawai = $pegawai/$pagu_lembaga*100 ;
-	$p_barang = $barang/$pagu_lembaga*100 ;
-	$p_modal = $modal/$pagu_lembaga*100 ;
-	$p_perjalanan = $perjalanan/$pagu_lembaga*100 ;
-	$p_sosial = $sosial/$pagu_lembaga*100 ;
-	?>
-      <td width="8%" rowspan="2" align="center"><font color="#009900"><strong><?php echo $kddept ?></strong></font></td>
-      <td rowspan="2" align="left"><font color="#009900"><strong><?php echo strtoupper(nm_unit($kdmenteri)) ?></strong></font></td>
-      <td width="9%" align="right"><font color="#009900"><strong><?php echo number_format($Menteri['pagu_menteri'],"0",",",".") ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format($pegawai,"0",",",".") ?><br />
-	  <?php echo number_format($p_pegawai,"2",",",".").' %' ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format($barang,"0",",",".") ?><br />
-	  				<?php echo number_format($p_barang,"2",",",".").' %' ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format($modal,"0",",",".") ?><br />
-	  				<?php echo number_format($p_modal,"2",",",".").' %' ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format($perjalanan,"0",",",".") ?><br />
-	  				<?php echo number_format($p_perjalanan,"2",",",".").' %' ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format($sosial,"0",",",".") ?><br />
-	  				<?php echo number_format($p_sosial,"2",",",".").' %' ?></strong></font></td>
-      <td align="center" valign="top"><font color="#009900"><strong><?php echo number_format($Tarik['JML12'],"0",",",".") ?></strong></font></td>
-    </tr>
-    <tr class="row0">
-      <td align="right" class="row7"><font color="#009900"><strong><?php echo number_format($Menteri_blokir['blokir_menteri'],"0",",",".") ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format(blokir_belanja_menteri($th,'51'),"0",",",".") ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format(blokir_belanja_menteri($th,'52'),"0",",",".") ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format(blokir_belanja_menteri($th,'53'),"0",",",".") ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format(blokir_belanja_menteri($th,'524'),"0",",",".") ?></strong></font></td>
-      <td align="right"><font color="#009900"><strong><?php echo number_format(blokir_belanja_menteri($th,'57'),"0",",",".") ?></strong></font></td>
-      <td align="center" valign="top"><a href="index.php?p=457&th=<?php echo $th ?>" title="Penarikan Detil"><font color="#009900" size="1">[Penarikan]</font></a>&nbsp;
-	  <!--a href="menus/ImporData/penarikan_menteri_grafik.php?th=<?php echo $th ?>" title="Grafik Rencana Penarikan" target="_blank"><img src="css/images/chart.jpg" border="0" width="16" height="16"></a-->	  </td>
-    </tr>
+    
     <?php
-		} #-------------------------------  AKHIR UNTUK SATKER
 		if ($count == 0) 
 		{ ?>
     <tr> 
@@ -169,8 +129,9 @@
       <td align="right"><strong><?php echo number_format(anggaran_belanja_satker($th,$col[1][$k],'53'),"0",",",".") ?></strong></td>
       <td align="right"><strong><?php echo number_format(anggaran_belanja_satker($th,$col[1][$k],'524'),"0",",",".") ?></strong></td>
       <td align="right"><strong><?php echo number_format(anggaran_belanja_satker($th,$col[1][$k],'57'),"0",",",".") ?></strong></td>
-      <td rowspan="2" align="center" valign="top"><a href="index.php?p=461&kdsatker=<?php echo $col[1][$k] ?>&th=<?php echo $th ?>" title="Penarikan Detil"><strong><font color="#000000" size="1">[Penarikan]</font></strong>&nbsp;
-	  <!--a href="menus/ImporData/penarikan_satker_grafik.php?th=<?php echo $th ?>&kdsatker=<?php echo $col[1][$k] ?>" title="Grafik Rencana Penarikan" target="_blank"><img src="css/images/chart.jpg" border="0" width="16" height="16"></a--></td>
+      <td rowspan="2" align="center" valign="top">
+	  <a href="index.php?p=461&kdsatker=<?php echo $col[1][$k] ?>&th=<?php echo $th ?>" title="Penarikan Detil"><strong><font color="#000000" size="1">[Penarikan]</font></strong></a>
+	  <!--a href="menus/ImporData/penarikan_satker_grafik.php?th=<?php echo $th ?>&kdsatker=<?php echo $col[1][$k] ?>" title="Grafik Rencana Penarikan" target="_blank"><img src="css/images/chart.jpg" border="0" width="16" height="16"></a-->	  </td>
     </tr>
     <tr class="<?php echo $class ?>">
       <td align="right"><strong><?php echo number_format($col[3][$k],"0",",",".") ?></strong></td>
